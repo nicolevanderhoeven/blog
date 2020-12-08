@@ -16,19 +16,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
-url = "/posts"
+name = "Content"
+url = "/content"
 weight = 2
+
+[[menu.main]]
+name = "CV"
+url = "/cv"
+weight = 3
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 3
+weight = 4
 
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
+name = "Gear"
+url = "/gear"
+weight = 5
 
 [markup]
   [markup.tableOfContents]
@@ -43,7 +48,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hi, I'm Nicole. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  description = "Hi, I'm Nicole van der Hoeven. I'm a Performance Testing Advocate at k6.io. I've spent my career making software faster as a load tester, and I'm passionate about helping oithers do the same. I firmly believe that quality software can change the world. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot, and polymath. I write technical and fictional articles and books, film and produce videos, create podcasts, speak at conferences, and otherwise just generally enjoy getting to know people. This site is a home for everything I'm doing on the interwebs, but my real-life home these days is Maastricht, in the Netherlands."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -58,7 +63,7 @@ weight = 4
   show_updated = false # default
 
   [params.comments]
-    enabled = false # default
+    enabled = true # default
     engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
@@ -72,3 +77,15 @@ weight = 4
   [[params.social]]
     name = "email"
     link = "nicole@nicolevanderhoeven.com"  # no need for "mailto:" in the head
+  [[params.social]]
+    name = "mastodon"
+    link = "https://fosstodon.org/@nicole"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/n_vanderhoeven"
+  [[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/c/luckydippers"
+  [[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/luckydippers/"
