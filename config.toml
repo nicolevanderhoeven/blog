@@ -1,4 +1,4 @@
-baseURL = "https://nicolevanderhoeven.github.io/"
+baseURL = "https://nicolevanderhoeven.github.io"
 languageCode = "en-us"
 title = "Nicole van der Hoeven"
 theme = "cactus"
