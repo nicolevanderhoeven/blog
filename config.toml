@@ -16,8 +16,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Content"
-url = "/content"
+name = "Work"
+url = "/work"
 weight = 2
 
 [[menu.main]]
@@ -49,7 +49,7 @@ weight = 5
 
   # Home page settings
   description = "Hi, I'm Nicole van der Hoeven. I'm a Performance Testing Advocate at k6.io. I've spent my career making software faster as a load tester, and I'm passionate about helping oithers do the same. I firmly believe that quality software can change the world. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot, and polymath. I write technical and fictional articles and books, film and produce videos, create podcasts, speak at conferences, and otherwise just generally enjoy getting to know people. This site is a home for everything I'm doing on the interwebs, but my real-life home these days is Maastricht, in the Netherlands."
-  mainSection = "posts" # your main section
+  mainSection = "work" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
