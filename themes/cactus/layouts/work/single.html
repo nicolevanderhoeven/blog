@@ -3,7 +3,7 @@
 {{ partial "head.html" . }}
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
-
+    {{ partial "header.html" . }}
   {{ partial "page_nav.html" . }}
 
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -50,7 +50,7 @@
         {{ end }}
       </div>
     </header>
-
+    
   {{ with .Resources.ByType "image" }}
     <div class="article-gallery">
       {{ range $index, $value := . }}

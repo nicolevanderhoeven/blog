@@ -1,5 +1,5 @@
 ---
-title: "Week of Testing Intro: What is k6? What is Load Impact? What is k6 Cloud?"
+title: "Week of Testing: Intro"
 date: 2020-11-23T20:45:31+01:00
 draft: false
 tags: ['performance', 'english', 'video', 'text']
