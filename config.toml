@@ -21,8 +21,8 @@ url = "/blog"
 weight = 2
 
 [[menu.main]]
-name = "CV"
-url = "/cv"
+name = "Work"
+url = "/work"
 weight = 3
 
 [[menu.main]]
