@@ -1,8 +1,8 @@
 ---
-title: "Entrevista Con Señor Performo en PerfBytes Español"
+title: "Entrevista con Señor Performo en PerfBytes Español"
 date: 2020-06-22T21:56:02+01:00
 draft: false
-tags: ['performance', 'español', 'audio', 'podcast']
+tags: ['performance', 'español', 'audio', 'podcast', 'flood.io']
 ---
 
 Aquí está una entrevista que he hecho con Leando Melendez (Señor Performo) en su podcast, PerfBytes Español. Hablamos de performance testing, mis idiomas, y mis consejos para mujeres que quieren entrar en el mundo de tecnología.
