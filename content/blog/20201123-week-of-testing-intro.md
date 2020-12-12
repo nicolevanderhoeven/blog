@@ -2,7 +2,7 @@
 title: "Week of Testing: Intro"
 date: 2020-11-23T20:45:31+01:00
 draft: false
-tags: ['performance', 'english', 'video', 'text']
+tags: ['performance', 'english', 'video', 'text', 'k6.io']
 ---
 
 {{< youtube zcYeboT5FYE>}}

@@ -1,11 +1,12 @@
 ---
 title: "How to Become a Load Tester"
-date: 2020-07-10T14:15:45+01:00
+date: 2020-10-07T14:15:45+01:00
 draft: false
-tags: ['performance', 'english', 'video', 'text', 'presentation']
+tags: ['performance', 'english', 'video', 'text', 'presentation', 'flood.io']
 ---
-
+{{< rawhtml >}}
 <link rel="canonical" href="https://www.flood.io/blog/how-to-become-a-load-tester">
+{{< /rawhtml >}}
 
 _[Originally posted here](https://www.flood.io/blog/how-to-become-a-load-tester)._
 
