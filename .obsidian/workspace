@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "69c4d962cd44d348",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a65b0bacb3afa3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/work.md",
+            "mode": "source"
+          }
+        },
+        "group": "945489b4b415f6eb"
+      },
+      {
+        "id": "ff17375007177435",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/work.md",
+            "mode": "preview"
+          }
+        },
+        "group": "945489b4b415f6eb"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d16adfb221b398fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21f9d97e514b5b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da57dc9b5f94fed2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "334c6bcd2e6f5d46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83b1c835fa8129d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "742d8b23455e1497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04722ed0241e5a30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/work.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "content/work.md",
+    "content/blog/week-of-testing-intro.md"
+  ]
+}
