@@ -2,7 +2,7 @@
 title: "Performance Testing FOMO"
 date: 2020-07-22T21:30:43+01:00
 draft: false
-tags: ['performance', 'audio', 'podcast', 'psychology']
+tags: ['performance', 'audio', 'podcast', 'psychology', 'english']
 ---
 
 On this episode of [Joe Colantonio’s TestGuild performance podcast](https://testguild.com/), I talked about how human factors are often not taken into consideration when designing load tests, which is a mistake that can have serious consequences.

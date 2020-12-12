@@ -30,10 +30,6 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
-[[menu.main]]
-name = "Gear"
-url = "/gear"
-weight = 5
 
 [markup]
   [markup.tableOfContents]
