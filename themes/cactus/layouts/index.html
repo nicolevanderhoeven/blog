@@ -37,7 +37,8 @@
   </section>
 
   <section id="writing">
-    <span class="h1"><a href="{{ .Site.Params.mainSection | absURL }}">My Work</a></span>
+    <span class="h1"><a href="{{ .Site.Params.mainSection | absURL }}">My Content</a></span>
+    <span class="body">Things I've created in various formats, here and elsewhere on the web.</span>
     {{ if (and (and (isset .Site.Params "tagsoverview") (eq .Site.Params.tagsOverview true)) (gt (len .Site.Taxonomies.tags) 0)) }}
     <span class="h2">Tags</span>
     <span class="widget tagcloud">
