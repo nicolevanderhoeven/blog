@@ -2,7 +2,7 @@
 title: "Week of Testing: Day 4 - Load profiles on k6"
 date: 2020-11-27T19:54:06+01:00
 draft: false
-tags: ['performance', 'k6.io', 'video']
+tags: ['performance', 'k6.io', 'video', 'jmeter', 'english']
 ---
 
 {{< youtube jDmMmc75RRM >}}
