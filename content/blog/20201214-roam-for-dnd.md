@@ -1,7 +1,7 @@
 ---
 title: "How I use Roam Research for D&D: Session Notes"
 date: 2020-12-14T20:13:13+01:00
-draft: true
+draft: false
 tags: ['english', 'zettelkasten', 'D&D', 'Roam Research']
 ---
 
