@@ -5,7 +5,7 @@ draft: false
 tags: ['performance', 'english', 'k6.io', 'video', 'aws']
 ---
 
-{{< youtube 6qXJUS6yMD >}}
+{{< youtube 6qXJUS6yMDc >}}
 
 On my first real day of testing with [k6.io](https://k6.io), I wanted to jump right in and figure out how to run a load test on k6 Cloud. k6 has documentation on this, but I didn't use it for this test, since the point of a week of testing is to record how easy the product is to use.
 
