@@ -1,7 +1,7 @@
 ---
 title: "Taking Notes on a Video: my YiNote to Roam Research Workflow"
 date: 2020-12-15T22:00:34+01:00
-draft: true
+draft: false
 tags: ['english', 'roam research', 'yinote', 'taking notes', 'zettelkasten']
 ---
 
