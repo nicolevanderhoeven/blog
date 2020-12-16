@@ -2,7 +2,7 @@
 title: "How I use Roam Research for D&D: Session Notes"
 date: 2020-12-14T20:13:13+01:00
 draft: false
-tags: ['english', 'zettelkasten', 'D&D', 'roam research', 'taking notes']
+tags: ['english', 'zettelkasten', 'D&D', 'roam research', 'taking notes', 'text']
 ---
 
 In case you thought this site was all about performance and load testing, surprise! It's not.
