@@ -9,6 +9,12 @@ Aquí está el video de mi presentación en JMeter Scripting Day, un evento orga
 
 {{< youtube 1KB8e2Ld08M >}}
 
+Y la versión audio:
+
+{{< rawhtml >}}
+<iframe src="https://open.spotify.com/embed-podcast/episode/1f17kzrbYmOxk8e65JBTQH" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< /rawhtml >}}
+
 ## Introducción
 
 Hola a todos! Yo soy Nicole van der Hoeven, y soy performance tester. JMeter es una de mis herramientas favoritas porque es gratis, simple, y por muchos casos hace exactamente lo que quiero y no más. Sin embargo, como performers es parte de nuestro trabajo elegir la herramienta adecuada para cada proyecto, y hay que admitir que hay situaciones en que JMeter simplemente no es suficiente.

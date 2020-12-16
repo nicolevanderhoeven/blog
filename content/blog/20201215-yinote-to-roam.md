@@ -5,6 +5,12 @@ draft: false
 tags: ['english', 'roam research', 'yinote', 'taking notes', 'zettelkasten']
 ---
 
+Listen to the audio version of this blog post here:
+
+{{< rawhtml >}}
+<iframe src="https://open.spotify.com/embed-podcast/episode/2TzFxvI8tLNUb3yubhdYvP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< /rawhtml >}}
+
 I was working on an article yesterday comparing the performance of k6 with JMeter, and I had a chat to Mihail, one of the devs of k6. He mentioned that a large part of why k6 is so performant compared to other tools (particularly Java-based ones) is that it's written in Go. He talked a bit about Goroutines, and when I told him I was a Go noob, he recommended [this very excellent video](https://www.youtube.com/watch?v=YHRO5WQGh0k&ab_channel=GopherAcademy) by Kavya Joshi, which explains a bit more about the Go Scheduler and how it manages to achieve performance for Go apps that exceeds the typical 1 Virtual User: 1 kernel thread paradigm that many load testing tools (like JMeter) use.
 
 Anyway, I got around to watching the video today, and because it was a video I knew I'd learn from, I took notes - and ended up improving part of the workflow (more on that later). Other people have commented on my notes before, so I thought I'd share how I process videos into my personal wiki, currently held in [Roam Research](https://roamresearch.com).
