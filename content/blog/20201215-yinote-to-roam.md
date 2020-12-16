@@ -15,7 +15,7 @@ I use a free app called [YiNote](https://yinote.co/) to take video notes in part
 
 ## Take Notes
 
-I was pretty dubious about using an app just to take notes for video specifically, but there were two things that sold me:
+I was pretty dubious about using an app just to take notes for video specifically, but there were a few things that sold me:
 
 * When you click on the text field to take notes in the extension, YiNote automatically pauses the video so that you can type without missing what's being said.
 
@@ -37,7 +37,7 @@ I click the Export as Markdown button.
 
 ![](/blog/assets/20201215-02.png)
 
-That lets me save a `.md` file to your local drive. I always save YiNote files in the same folder as the script below.
+That lets me save a `.md` file to my local drive. I always save YiNote files in the same folder as the script below.
 
 ## Run reformatter script
 
