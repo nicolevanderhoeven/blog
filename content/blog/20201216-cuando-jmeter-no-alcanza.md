@@ -2,7 +2,7 @@
 title: "Cuándo JMeter no alcanza: Pruebas de carga simulando navegadores"
 date: 2020-12-16T18:18:23+01:00
 draft: false
-tags: ['performance', 'español', 'jmeter', 'browsers', 'flood element', 'selenium', 'gatling', 'cypress', 'jest', 'puppeteer', 'playwright', 'video', 'presentation', 'text']
+tags: ['performance', 'español', 'jmeter', 'browsers', 'flood element', 'selenium', 'gatling', 'cypress', 'jest', 'puppeteer', 'playwright', 'video', 'presentation', 'text', 'audio']
 ---
 
 Aquí está el video de mi presentación en JMeter Scripting Day, un evento organizado por [JMeter en Español](https://jmeterenespanol.org/) el 31 de Oktubre, 2020.
