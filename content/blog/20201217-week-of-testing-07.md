@@ -9,4 +9,10 @@ I decided to make a final wrap-up video for my "Week of Testing" with k6... ok, 
 
 {{< youtube zVjLBp543E4 >}}
 
+And here's the audio version:
+
+{{< rawhtml >}}
+<iframe src="https://open.spotify.com/embed-podcast/episode/0YgYqrPpEzEMSZIloeiQtC" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< /rawhtml >}}
+
 Thank you, k6, for being awesome enough to agree to this video series before knowing what I'd say. Gotta love a company that welcomes transparency and feedback.
