@@ -1,7 +1,7 @@
 ---
 title: "TestCon Moscow 2019: Dismantling Cognitive Biases"
 date: 2019-04-03T23:14:31+01:00
-draft: true
+draft: false
 tags: ['performance', 'english', 'psychology', 'cognitive biases', 'video', 'presentation']
 ---
 
