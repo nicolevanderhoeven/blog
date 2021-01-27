@@ -6,7 +6,7 @@ tags: ['english', 'text', 'python', 'certifications']
 ---
 
 {{< rawhtml >}}
-<iframe src="https://open.spotify.com/episode/4KQ7OfVztCvpnOBfWcB1p1?si=k33X0woURB6vUIPT7jfcqg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4KQ7OfVztCvpnOBfWcB1p1" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 
