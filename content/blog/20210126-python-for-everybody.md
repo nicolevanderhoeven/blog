@@ -5,6 +5,11 @@ draft: false
 tags: ['english', 'text', 'python', 'certifications']
 ---
 
+{{< rawhtml >}}
+<iframe src="https://open.spotify.com/episode/4KQ7OfVztCvpnOBfWcB1p1?si=k33X0woURB6vUIPT7jfcqg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< /rawhtml >}}
+
+
 I'm starting off the new year by learning something new. I am a big fan of non-traditional education, and [Coursera](https://coursera.org) is a platform I've used a few times before. You may not get courses that qualify as university credit, but I've found it to be a useful resource for learning. I might be biased (my university degree is in Economics, which I've never used), but in some ways, I actually prefer a MOOC (that's a Massively Open Online Course) to a typical formal university course for a few reasons:
 
 - MOOCs are entirely online, which means it's more accessible - I don't need to physically be in the US to take a course at Harvard
