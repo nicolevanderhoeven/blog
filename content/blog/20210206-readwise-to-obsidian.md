@@ -4,6 +4,11 @@ date: 2021-02-06T09:55:36+01:00
 draft: false
 tags: ['english', 'text', 'obsidian', 'taking notes', 'zettelkasten', 'roam research', 'python']
 ---
+{{< rawhtml >}}
+<meta property=“og:image” content="/blog/assets/20210206-06-readwise-to-obsidian.png" />
+<meta property=”og:image:width” content=”1200″ />
+<meta property=”og:image:height” content=”628″ />
+{{< /rawhtml >}}
 
 ![Readwise to Obsidian workflow](/blog/assets/20210206-06-readwise-to-obsidian.png)
 
