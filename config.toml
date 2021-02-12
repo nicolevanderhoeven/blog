@@ -35,6 +35,10 @@ name = "Tags"
 url = "/tags"
 weight = 5
 
+[[menu.main]]
+name = "Notes"
+url = "https://notes.nicolevanderhoeven.com"
+weight = 6
 
 [markup]
   [markup.tableOfContents]
@@ -49,7 +53,7 @@ weight = 5
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hi, I'm Nicole van der Hoeven. I'm a Performance Testing Advocate at k6.io. I've spent my career making software faster as a load tester, and I'm passionate about helping others do the same. I firmly believe that quality software can change the world. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot, and polymath. I write technical and fictional articles and books, film and produce videos, create podcasts, speak at conferences, and otherwise just generally enjoy getting to know people. This site is a home for everything I'm doing on the interwebs, but my real-life home these days is Maastricht, in the Netherlands."
+  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io. I've spent my career making software faster as a load tester, and I'm passionate about helping others do the same. I firmly believe that quality software can change the world. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot, and polymath. I publicly learn cool things I have no business learning, then help people do the same. I write technical and fictional articles and books, film and produce videos, create podcasts, speak at conferences, and otherwise just generally enjoy getting to know people. This site is a home for everything I'm doing on the interwebs, but my real-life home these days is Maastricht, in the Netherlands."
   mainSection = "blog" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
