@@ -20,7 +20,7 @@ The opening day of the hotline was chaotic, and many Dutch people reported conne
 
 [According to Dr. Ann Vossen](https://nos.nl/collectie/13824/artikel/2335758-ggd-en-klaar-voor-massaal-testen-tijd-van-limiterende-factoren-voorbij), chairperson of the task force charged with scaling up mass testing in the Netherlands, the country was ready to process 30,000 tests per day. This number corresponds to [the national capacity](https://nos.nl/artikel/2335790-drukte-op-nieuw-telefoonnummer-voor-coronatests-0800-1202.html) of all the municipal health clinics (GGDs) in the Netherlands. Despite this claim, though, [only 1,146 people were actually tested](https://www.ad.nl/binnenland/liefst-323-000-telefoontjes-naar-nieuw-nummer-voor-coronatest-systemen-overbelast~a16a9a50) on the first day of testing (the day after the opening of the hotline). Perhaps more importantly, only 5,748 appointments were set on June 1st. The situation was no doubt exacerbated by the overwhelming 323,000 people who called the hotline on its first day, prompting even the telephone operators to admit that [they'd had troubles](https://www.volkskrant.nl/nieuws-achtergrond/coronatestnummer-kampt-met-kinderziektes-maar-ggd-s-kunnen-de-drukte-goed-aan~b2f332d2/) logging into the appointment system.
 
-![](/blog/assets/20200704-01.jpg)
+![](/assets/20200704-01.jpg)
 _Bron: From [@ggdghornl](https://twitter.com/GGDGHORNL/status/1267351996379643906), Twitter_
 
 ["We see that there are many calls going to 0800-1202. You can call for an appointment until 8pm tonight. Please try your call later to avoid long wait times."]
@@ -31,7 +31,7 @@ The second day was somewhat better: [there were 11,000 appointments made](https:
 
 There are some lessons that we can learn from this case study.
 
-![](/blog/assets/20200704-02.jpeg)
+![](/assets/20200704-02.jpeg)
 _Source: Coronavirus test procedure from [GGD Hollands Midden](https://ggdhm.nl/thema-s/item/infectieziekten/testbeleid)_
 
 _English translation:_
@@ -62,7 +62,7 @@ This coronavirus has already shown us a side of humanity that we'd perhaps rathe
 
 It's no wonder that the coronavirus testing line was so welcome. The fact that there were 323,000 callers on the first day is even more remarkable when we remember that majority of Dutch residents had been in self-isolation for months at that point, which lowered their chances of contracting the virus. In theory, the fear that drove these callers might have been somewhat irrational, but not unpredictable.
 
-![](/blog/assets/20200704-03.jpeg)
+![](/assets/20200704-03.jpeg)
 
 In English, we call this FOMO (Fear of Missing Out). We've already clearly seen [how FOMO can drive users](https://www.flood.io/blog/fomo-and-performance-testing-why-robinhood-went-down) en masse to an application, with effects on its performance. In this case, people were afraid that coronavirus test shortages would mean there weren't enough tests to go around, and they wanted to be first in line to get tested.
 
@@ -82,7 +82,7 @@ Even if we assume that 20% of the 700,000 people with the novel coronavirus did 
 
 If we have an educated estimate, we can start testing.
 
-‍![](/blog/assets/20200704-04.jpg)
+‍![](/assets/20200704-04.jpg)
 
 ### Injecting load
 
@@ -108,7 +108,7 @@ Telephony servers commonly use Interactive Voice Response (IVR), an automated me
 
 Here's what an IVR system could look like:
 
-![](/blog/assets/20200704-05.jpg)
+![](/assets/20200704-05.jpg)
 _From: [Vanguard Networks](http://vanguardnetworks.com.sg/IVR.html)_
 ‍
 Load testing IVR systems can be difficult, and it usually requires the use of highly specialized commercial tools. However, introducing a new tool may also increase the time required for load testing.
@@ -117,7 +117,7 @@ Load testing IVR systems can be difficult, and it usually requires the use of hi
 
 Another approach would be to implement a web app to verify identity and capture personal information quickly. In the Netherlands, we already have [DigiD](https://www.digid.nl/wat-is-digid/), an identity verification system that is heavily used for governmental services. [Mijn Overheid](https://mijn.overheid.nl/), which is a central government portal accessible to every Dutch resident, already interfaces with DigiD as the sole method of logging in. Reusing these existing services could have saved a lot of the work on a web app— not to mention reducing the bottlenecks inherent in a more manual process like a telephone hotline.
 
-‍![](/blog/assets/20200704-06.jpg)
+‍![](/assets/20200704-06.jpg)
 _Source: [Mijn Overheid](https://mijn.overheid.nl/)_
 ‍
 ## Testing the system end-to-end
@@ -134,7 +134,7 @@ While it can be difficult to load test these logistical systems with automated t
 
 Often, performance issues can lead to a tangible loss in profits or a more intangible loss in reputation. In this case study, poor performance had a direct impact on people's health. Potentially sick people were unable to make appointments to get tested, and later treated. Delayed tests could have led to an increased infection rate as people waited for a confirmed diagnosis. Hotline operators also admitted that slowness in the system led to them sometimes [giving out test results](https://wnl.tv/2020/06/08/chaos-bij-de-coronalijn-personeel-slaat-alarm/) against instructions to wait for trained medical professionals to do so.
 
-‍![](/blog/assets/20200704-07.jpg)
+‍![](/assets/20200704-07.jpg)
 
 Human psychological factors can make a system more complex to load test. [According to Andrea Evers](https://www.trouw.nl/binnenland/de-balans-na-een-week-testen-het-plan-was-mooier-dan-de-praktijk~b86399b7/) (LUCM), a health psychological professor, "_Door de uitbraak van corona zijn mensen in een langdurige stresssituatie beland. Onzekerheid, onvoorspelbaarheid en oncontroleerbaarheid maken dat ze de behoefte hebben om zaken juist wel te controleren of voorspelbaar te maken_ [The coronavirus outbreak has put people in a situation of chronic stress. The uncertainty, unpredictability, and helplessness of the situation cause a need to make things controllable or predictable]."
 

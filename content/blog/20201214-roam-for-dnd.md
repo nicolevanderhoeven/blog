@@ -17,7 +17,7 @@ This became longer than I thought it would be, so I'll just talk about how I han
 
 Everything starts with sitting down to play D&D. I write a log of events and information that comes out while I'm playing. Here's what a new session log looks like:
 
-![](/blog/assets/20201214-03.png)
+![](/assets/20201214-03.png)
 
 I preface pages in this campaign with `D&D/` to make it a separate [namespace](https://forum.roamresearch.com/t/namespaces-how-do-they-work/276). A namespace is like a folder, and I use it mainly because I have two D&D campaigns, both of which would have the page `Campaign`, `Characters`, `Locations`, etc, even though the two campaigns are on different worlds. To keep them separate, and to keep from getting mixed up (_Was Gloomtoes an NPC in this campaign or that one?_) I use different namespaces for each campaign.
 
@@ -43,7 +43,7 @@ The rest of the page, after `Session Summary`, is where I'll spend most of the t
 
 I like to play healers, which means I care a lot about how everyone in the party is doing so that I can figure out who best needs healing. `{{[[table]]}}` in Roam lets me create a custom table, and I have a `;hp` snippet in TextExpander that recreates this table, with all the names of the people currently in my party, so that I just worry about filling in the values. Sometimes I still get it wrong, or miss a bit of damage that the DM calls out, but it's enough to give me an idea of who needs heals.
 
-![](/blog/assets/20201214-04.png)
+![](/assets/20201214-04.png)
 
 I also write down initiative orders, the defenses/vulnerabilities/immunities of monsters we face, descriptions of NPCs we meet, suspicions or questions I might have... basically anything and everything that comes to mind. Session time is pretty much a brain dump, with no formatting.
 
@@ -51,11 +51,11 @@ I also write down initiative orders, the defenses/vulnerabilities/immunities of 
 
 If I acquire a new item during a session, I'll tag that line with `#[[D&D/Carrying]]`. This lets me stay on the Session Notes page while still maintaining an up-to-date record of what I'm carrying.
 
-![](/blog/assets/20201214-05.png)
+![](/assets/20201214-05.png)
 
 A tag in Roam is the same as a page, so when I click on that link, it takes me to the `D&D/Carrying` page, which conveniently also shows me all the references to that page from other pages.
 
-![](/blog/assets/20201214-06.png)
+![](/assets/20201214-06.png)
 
 Roam shows me not just the page, but the exact block where I made the reference to `D&D/Carrying`, so it's easy to see at a glance what I have and where I got it.
 
@@ -63,7 +63,7 @@ Roam shows me not just the page, but the exact block where I made the reference 
 
 I use David Allen's [GTD](https://gettingthingsdone.com/) methodology in D&D too. When I want to remember to do something later, I tag it with `#[[D&D/Agenda]]` and `#[[Next Actions]]` or `#[[Waiting For]]`. This presents me with the same opportunities as `D&D/Carrying`, where I can see references to those pages later as well.
 
-![](/blog/assets/20201214-07.png)
+![](/assets/20201214-07.png)
 
 ## Processing the session
 
@@ -71,7 +71,7 @@ Sometime after the session, I'll go and fill in the metadata from my template, i
 
 Here's what it looks like, all filled in:
 
-![](/blog/assets/20201214-02.png)
+![](/assets/20201214-02.png)
 
 ### Adding links and fleshing out pages
 
@@ -79,11 +79,11 @@ I then go back through the notes themselves and add turn any people, places, or 
 
 Here's a page for an NPC:
 
-![](/blog/assets/20201214-09.png)
+![](/assets/20201214-09.png)
 
 Having these links means that when an NPC says "I'm from Leilon", I can type `Leilon` into Roam:
 
-![](/blog/assets/20201214-08.png)
+![](/assets/20201214-08.png)
 
 ... and say, "Oh, Leilon. I heard you had a dragon problem there recently. Did your family get out okay?" Boom! Instant advantage on a Diplomacy check.
 
@@ -91,7 +91,7 @@ Sometimes we're in a dungeon with many rooms, and this is the point where I draw
 
 This map is in my page for Castle Never:
 
-![](/blog/assets/20201214-10.png)
+![](/assets/20201214-10.png)
 
 The little blue "8" on the upper left of the map is versions. Information rarely comes all at once in D&D; it usually comes in trickles. As I learned more about the castle, I revised the map and added a new version to it, so that I can still see previous versions and what I thought the map was like when we first explored it.
 
@@ -101,7 +101,7 @@ At this stage, I also add any tags I forgot to add during the session.
 
 After I go through the session notes, I go to the page called `D&D/Quests and Questions`, where I keep a running list of all the open quest hooks and any unanswered questions I might have.
 
-![](/blog/assets/20201214-11.png)
+![](/assets/20201214-11.png)
 
 Not everything on this page is meant to be resolved, but I find it comforting to track everything anyway, in case I happen to find myself in a city with nothing in particular to do. I mark these with a checkbox (`{{[[TODO]]}})` in Roam) and tick the box when one is resolved. Roam lets me filter out the resolved quests so I only see things that are outstanding.
 
@@ -113,7 +113,7 @@ This is the part that takes the longest, but it's also what most prepares me for
 
 I use a `D&D/Campaign` page as my landing page for this campaign. It includes `D&D/Quests and Questions` as well as a list of all sessions to date, so that I always know what happened and when.
 
-![](/blog/assets/20201214-01.png)
+![](/assets/20201214-01.png)
 
 ## Why do I take notes for a game?
 

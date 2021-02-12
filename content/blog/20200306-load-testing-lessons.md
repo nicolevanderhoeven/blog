@@ -25,7 +25,7 @@ Conclusion: While the Iowa Reported App failure was not due entirely to load tes
 
 A company called Shadow, Inc. made headlines earlier this week when they developed an app to count and report votes during the Iowa Democratic Caucus in the US. This app, called IowaReporterApp, ended up failing on several fronts, resulting in a [days-long delay](https://www.nytimes.com/2020/02/06/upshot/iowa-caucuses-errors-results.html) in publishing the total votes, during which manual methods had to be employed.
 
-![](/blog/assets/20200306-01.jpg)
+![](/assets/20200306-01.jpg)
 
 _Source: [@ShadowIncHQ on Twitter](https://twitter.com/ShadowIncHQ/status/1224773796307050497)_
 
@@ -87,7 +87,7 @@ I decided to test this as a gradual ramp-up of users within 10 minutes.
 
 Okay, time to write the script. Since I didn't have the luxury of being able to ask the developers for the format of the login request, I did the next best thing and tried to find out myself by recording the app traffic in action.
 
-![](/blog/assets/20200306-02.png)
+![](/assets/20200306-02.png)
 
 ### Recording mobile traffic on a laptop with JMeter
 
@@ -105,11 +105,11 @@ Here's how I was able to see the request from the mobile app:
 
 Here's the traffic as seen on JMeter's View Results Tree listener afterward:
 
-![](/blog/assets/20200306-03.png)
+![](/assets/20200306-03.png)
 
 And here's the recorded request within the recording controller:
 
-![](/blog/assets/20200306-04.png)
+![](/assets/20200306-04.png)
 
 ### Analyzing the request
 

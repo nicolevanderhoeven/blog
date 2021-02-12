@@ -7,7 +7,7 @@ tags: ['performance', 'presentation', 'video', 'english']
 
 At [PerfGuild 2020](https://guildconferences.com/speaker/nicole-hoeven/), I spoke about hybrid load testing and how to mix two different approaches to load testing: protocol-based and browser-based. 
 
-![](/blog/assets/20200602-01.jpeg)
+![](/assets/20200602-01.jpeg)
 
 Here’s the unlisted video from that presentation:
 

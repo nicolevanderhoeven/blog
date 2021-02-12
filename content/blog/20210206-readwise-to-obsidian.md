@@ -5,12 +5,12 @@ draft: false
 tags: ['english', 'text', 'obsidian', 'taking notes', 'zettelkasten', 'roam research', 'python']
 ---
 {{< rawhtml >}}
-<meta property=“og:image” content="/blog/assets/20210206-06-readwise-to-obsidian.png" />
+<meta property=“og:image” content="/assets/20210206-06-readwise-to-obsidian.png" />
 <meta property=”og:image:width” content=”1200″ />
 <meta property=”og:image:height” content=”628″ />
 {{< /rawhtml >}}
 
-![Readwise to Obsidian workflow](/blog/assets/20210206-06-readwise-to-obsidian.png)
+![Readwise to Obsidian workflow](/assets/20210206-06-readwise-to-obsidian.png)
 
 I'm about 9 months into heavily using [Roam Research](https://roamresearch.com) as my primary note-taking, task management, capture-everything system, and for the most part, that's gone very well. [Obsidian](https://obsidian.md) is another excellent personal knowledge management (PKM) system, though, and I've been curious about it for almost as long as I've been using Roam. I've had it installed for a while, but I never really _seriously_ attempted to make the switch. Until now. I've decided to use Obsidian as my primary PKM and zettelkasten for the next month, to see if it's something I can switch to.
 
@@ -26,17 +26,17 @@ Why I'm considering switching from Roam to Obsidian is another post, probably on
 
 Readwise collates my activity in all of these input sources and automatically sends them to my Roam Research account. Here's what that looks like when it gets pulled into my Daily Note:
 
-![Tweet, podcast, and book notes pulled into Roam Research via Readwise](/blog/assets/20210206-01-readwiseimportsinroam.png)
+![Tweet, podcast, and book notes pulled into Roam Research via Readwise](/assets/20210206-01-readwiseimportsinroam.png)
 
 Readwise also pulls metadata into Roam, depending on the source. Here's what the page for the book "Ready Player Two" looks like in Roam:
 
-![Ready Player Two book notes in Roam, imported via Readwise](/blog/assets/20210206-02-readyplayertwo.png)
+![Ready Player Two book notes in Roam, imported via Readwise](/assets/20210206-02-readyplayertwo.png)
 
 Readwise integration is an _essential_ feature for me in any PKM, because I can take notes wherever I'm consuming my content and just have it automagically appear in my notes, tagged and ready for processing. So it's absolutely something I need to have in my Obsidian workflow.
 
 That's where things get tricky, because Readwise doesn't _have_ an Obsidian integration. 
 
-![Readwise doesn't automatically export to Obsidian](/blog/assets/20210206-03-readwise-export-options.png)
+![Readwise doesn't automatically export to Obsidian](/assets/20210206-03-readwise-export-options.png)
 
 Source: [Readwise Exports](https://readwise.io/export)
 
@@ -61,11 +61,11 @@ I [forked the project here](https://github.com/nicolevanderhoeven/readwise2direc
 
 This works out pretty well. Here's an example of an import from the podcast app [Airr](https://airr.io) into Obsidian, in Edit mode.
 
-![readwise2directory import from Airr into Obsidian](/blog/assets/20210206-04-airrtoobsidian.png)
+![readwise2directory import from Airr into Obsidian](/assets/20210206-04-airrtoobsidian.png)
 
 It's placed within my `Podcast` folder inside my value, is tagged appropriately, and contains links to the source. Switching to Preview mode shows an imported cover photo and even a playable recorder for the part of the podcast that I snipped on Airr:
 
-![Preview mode of imported Airr quote in Obsidian](/blog/assets/20210206-05-airrinobsidian_preview.png)
+![Preview mode of imported Airr quote in Obsidian](/assets/20210206-05-airrinobsidian_preview.png)
 
 So that works out well, except for one thing: firing off the script that does all this is still manual.
 

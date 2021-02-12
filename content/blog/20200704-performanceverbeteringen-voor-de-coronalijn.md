@@ -11,7 +11,7 @@ Op 1 juni heeft de landelijke GGD Ghor aangekondigd dat iedereen met klachten ee
 
 Dit had voorkomen kunnen worden door een beter begrip te hebben over de manier waarop de menselijke psychologie de performance van een systeem kan beïnvloeden.
 
-![](/blog/assets/20200704-01.jpg)
+![](/assets/20200704-01.jpg)
 _Bron: [@ggdghornl](https://twitter.com/GGDGHORNL/status/1267351996379643906), Twitter_
 
 ## De situatie
@@ -22,7 +22,7 @@ Op Twitter vertelden gebruikers enkele horrorverhalen: één beweerde [6 uur lan
 
 Gelukkig was de tweede dag beter: er waren 11 duizend afspraken gemaakt, mede vanwege het lagere aantal telefoontjes en mede vanwege verholpen technische problemen. In de eerste week nam het aantal geteste mensen toe naar 50.000 (gemiddeld 7142 per dag), wat toch nog veel lager zat dan verwacht. Er zijn wat lessen die we kunnen trekken uit dit verhaal.
 
-![](/blog/assets/20200704-02.jpeg)
+![](/assets/20200704-02.jpeg)
 _Bron: [GGD Hollands Midden](https://ggdhm.nl/thema-s/item/infectieziekten/testbeleid)_
 
 ## Het gevolgen van angst op performance
@@ -31,7 +31,7 @@ Dit virus heeft ons al een kant van de mensheid getoond die we liever niet wille
 
 Geen wonder dan dat de afspraaklijn zo welkom was. 323.000 telefoontjes werden er op de eerste dag verwerkt, wat bijzonder is als we bedenken dat het grootste deel van Nederland in zelfisolatie was, en dus maar een kleine kans had om het coronavirus opgelopen te hebben. In theorie lijkt dit gedrag irrationeel, maar niet onvoorspelbaar.
 
-![](/blog/assets/20200704-03.jpeg)
+![](/assets/20200704-03.jpeg)
 
 In het Engels heet het **FOMO**: Fear Of Missing Out. We hebben al [duidelijk gezien](https://www.flood.io/blog/fomo-and-performance-testing-why-robinhood-went-down) hoe FOMO veel meer gebruikers naar een applicatie kan dwingen, met als gevolg bijwerkingen op de performance. Mensen hadden angst dat er niet genoeg coronatesten waren en wilden de eersten in de rij zijn voordat de voorraad helemaal op was.
 
@@ -49,7 +49,7 @@ Zelfs als we inschatten dat [20% van die 700.000 mensen geen klachten had](https
 
 Zodra wij aantallen hebben, kunnen we testen.
 
-![](/blog/assets/20200704-04.jpg)
+![](/assets/20200704-04.jpg)
 
 Uit mijn eigen ervaring, toen ik het coronanummer belde, blijkt dat er een telefonieserver was die de oproepen heeft doorgeschakeld naar verschillende medewerkers (die thuis werkten). In deze stap konden loadtesten worden uitgevoerd om zeker te weten hoeveel gesprekken deze server aankon, en dat het snel genoeg was om geen of weinig message queueing te hebben.
 
@@ -65,14 +65,14 @@ Telefoniesystemen gebruiken soms Interactive Voice Response (IVR) technologie, e
 
 Hier is een voorbeeld van een IVR-systeem:
 
-![](/blog/assets/20200704-05.jpg)
+![](/assets/20200704-05.jpg)
 _Bron: [Vanguard Networks](http://vanguardnetworks.com.sg/IVR.html)_
 
 Op het niveau van het IVR-systeem kan het wel moeilijk zijn om load te simuleren. [Empirix Hammer](https://www.empirix.com/products/hammer/) and [Cyara](https://cyara.com/genesys-cloud/) zijn twee zeer gespecialiseerde tools die dit kunnen doen.
 
 Nog een optie voor de implementatie van een afsprakensysteem is een web app, met verplichte velden voor BSN, adressen, enz, en met een verbinding met DigiD, een identiteitsverificatiesysteem. [Mijn Overheid](https://mijn.overheid.nl/) bestaat al, en ook met DigiD integratie. Er had een soort van beveiligde formulier kunnen worden gebruikt om klantengegevens snel op te nemen.
 
-![](/blog/assets/20200704-06.jpg)
+![](/assets/20200704-06.jpg)
 _Bron: [Mijn Overheid](https://mijn.overheid.nl/)_
 
 ### End-to-end testing uitvoeren
@@ -87,7 +87,7 @@ Ook is er de performance van niet-computer onderdelen. De menselijke component k
 
 In dit geval had slechte performance een invloed niet op de winst maar op de gezondheid. Zieke personen die klachten hadden, konden niet allemaal een afspraak maken om getest te worden. Hoeveel andere mensen hadden ze inmiddels besmet? Slechte performance heeft medewerkers ook gedwongen om soms uitslagen te geven “[in verdekte termen](https://wnl.tv/2020/06/08/chaos-bij-de-coronalijn-personeel-slaat-alarm/)”, wat tot een privacyschending kan leiden.
 
-![](/blog/assets/20200704-07.jpg)
+![](/assets/20200704-07.jpg)
 
 De menselijke component kan een systeem lastiger maken om te testen. Aldus [Andrea Evers (LUMC)](https://www.trouw.nl/binnenland/de-balans-na-een-week-testen-het-plan-was-mooier-dan-de-praktijk~b86399b7/), hoogleraar gezondheidspsychologie: 
 

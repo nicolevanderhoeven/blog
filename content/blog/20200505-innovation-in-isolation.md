@@ -23,7 +23,7 @@ Yet there's still work to be done (something we're grateful for), and there are 
 
 Work shouldn't be all about work. Understanding everyone's personal circumstances is vital to a team's ability to work together professionally. We use Slack as our primary communication tool throughout the day, and we already had quite a few non-work channels on there (#anything, #hobbies, #gaming, #drones, and #travel to name a few). Now we have one for COVID-related chatter as well.
 
-![](/blog/assets/20200505-01.jpg)
+![](/assets/20200505-01.jpg)
 
 In this channel, we share news from our parts of the world, post photos of things that are sold out in our local supermarkets, talk about new hobbies we've taken up to stay sane, and discuss the struggles of co-working with spouses and children who are now also working or studying from home.
 
@@ -35,12 +35,12 @@ Our co-founder and Product Manager, Ivan Vanderbyl, recently [wrote a great arti
 
 * Emojis - We use emojis as a non-verbal cue to convey tone, approval, agreement, and disagreement. We add emojis to messages we send and also use them as reactions on Slack to messages from other people. Even when you don't have an answer or when a response is not required, emojis signal acknowledgment so that nobody feels like they're shouting into the void. Over time, we've developed emojis that are specific to Flood culture, such as the avocado:
 
-![](/blog/assets/20200505-02.jpeg)
+![](/assets/20200505-02.jpeg)
 _Source: Our [Twitter account](https://twitter.com/flood_io/status/1230166412066512896)_
 
 ‍We even have a fruit-based vocabulary of emojis that we can use in our Slack status messages to convey our general mood. Being in Carrot Mode, for instance, means that you're trying to focus and would appreciate not being direct messaged or @ mentioned.
 
-![](/blog/assets/20200505-03.png)
+![](/assets/20200505-03.png)
 
 ‍When working remotely, and especially when in self-isolation, everyone has their own cadence for working. It's on each person to communicate that schedule so that others can respect it.
 
@@ -50,11 +50,11 @@ _Source: Our [Twitter account](https://twitter.com/flood_io/status/1230166412066
 
 * Video calls - Video calls are for team retros, 1:1 calls with managers, and personal or sensitive conversations where body language is crucial. It's also great for recreating that "hanging out at a pub" vibe. Speaking of which... welcome to the Flood pub!
 
-![](/blog/assets/20200505-04.jpeg)
+![](/assets/20200505-04.jpeg)
 
 The Flood Pub is open on Friday afternoons. It's where we all hang out together with a beverage of our choice and talk about things that are entirely not work-related. We hop on a Zoom call together, Tim (our General Manager) fires up the "jukebox" (Spotify playlist), and we end the week by getting some facetime with each other—just as we would do (and have done) if we were together in person.
 
-![](/blog/assets/20200505-05.jpeg)
+![](/assets/20200505-05.jpeg)
 
 ‍Meeting in this low-pressure context lets us talk about things we wouldn't mention otherwise. It's also a fun way to check in with each other after another week at work (and in quarantine).
 
@@ -70,7 +70,7 @@ BOINC is a platform by the University of California Berkeley that lets you volun
 
 In our case, we wanted to help sequence proteins like the novel coronavirus using Rosetta@Home. BOINC is a perfect fit for Flood because we are in the unique position of starting up and managing thousands of virtual machines 24/7. Our Ops team has been hard at work automating the donation of our computing power to the Rosetta@Home project when these machines aren't being used.
 
-![](/blog/assets/20200505-06.jpeg)
+![](/assets/20200505-06.jpeg)
 
 We're proud to say our contribution is INcreasing over time as our engineers find new ways to streamline the process. We're already in the [top 5% of BOINC users in the world](https://www.boincstats.com/stats/-1/user/detail/87605321733/overview) by contribution.
 
@@ -98,7 +98,7 @@ When thinking up ideas for GIG, we didn't commit to releasing them publicly. Eve
 
 * **Touch base regularly**: When working independently, team members can quickly diverge off the main path. To avoid that, we met up at least daily by hopping on an audio call on Zoom to spend a few minutes updating each other on the work we'd done. Doing this gives others a chance to help out when one member encounters roadblocks.For anything that didn't need to be real-time, we worked asynchronously on chat. Here's a screenshot of the number of messages and files exchanged to our dedicated GIG Slack channel during the event:
 
-![](/blog/assets/20200505-07.jpeg)
+![](/assets/20200505-07.jpeg)
 
 ‍Yup, 1,535 messages and 60 files in 3 days. That's collaboration!
 
@@ -108,7 +108,7 @@ We also learned that it's useful to keep tabs on what the other teams are doing.
 
 It's also only fair to let other teams chime in on important decisions within the project that might affect future work— like the name for your mascot.
 
-![](/blog/assets/20200505-08.jpeg)
+![](/assets/20200505-08.jpeg)
 
 * **Leave time for the video**: It's not just about doing the work; it's about communicating what you've done in a way that others can appreciate. Here's a video that my team (composed of Jason Rizio and me) put together for Floody and our improvements to the onboarding process:
 

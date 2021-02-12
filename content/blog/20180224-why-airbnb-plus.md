@@ -11,7 +11,7 @@ Originally published on [Medium](https://medium.com/@n_vanderhoeven/why-airbnb-p
 
 [AirBNB Plus](https://www.airbnb.com/plus) is a new tier of service that AirBNB have introduced for homes and hosts that go beyond the Superhost standard.
 
-![](/blog/assets/20180224-01.jpg)
+![](/assets/20180224-01.jpg)
 
 **Here’s what an AirBNB Plus listing means:**
 

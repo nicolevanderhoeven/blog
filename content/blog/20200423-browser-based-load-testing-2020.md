@@ -31,7 +31,7 @@ Browser-level load testing is still pretty new, and there aren't too many provid
 
 ### Load tests executed on Flood over time, grouped by load testing tool
 
-![](/blog/assets/20200423-01.png)
+![](/assets/20200423-01.png)
 
 ### Browser-level load testing is increasing in popularity
 
@@ -55,7 +55,7 @@ Traditional load testing is done on the protocol level by sending messages direc
 
 The screenshot below shows what one request for a single action might look like in a JMeter test plan.
 
-![](/blog/assets/20200423-02.jpg)
+![](/assets/20200423-02.jpg)
 _Example of an HTTP request with parameters on JMeter_
 
 In browser-based load testing, real browser instances are opened on load generators, and the load testing tool plays the part of a real user in navigating the web application using the GUI. We refer to the virtual users in browser-based load testing as Browser-Level Users (BLU).
@@ -90,7 +90,7 @@ In some cases, you might be able to get away with using something like our [qTes
 
 They're also easier to troubleshoot. In addition to opening a real browser instance on your computer when you run a script locally, Element can also display this information on the console (shown here on iTerm):
 
-‍![](/blog/assets/20200423-03.jpg)
+‍![](/assets/20200423-03.jpg)
 _Screenshots upon execution on Element using iTerm_
 
 ‍This allows you to understand what's going on in the script and in the application, letting you detect bottlenecks faster.
@@ -135,19 +135,19 @@ While other commercial tools exist for this, we're partial to open source tools 
 
 ### Selenium
 
-![](/blog/assets/20200423-04.jpg)
+![](/assets/20200423-04.jpg)
 
 Selenium load testing is appealing because Selenium is already well-known for test automation and functional testing, and a lot of companies already have full test suites in Selenium. The possibility of reusing those resources and just running them at scale as load tests is, by far, the most compelling reason to use Selenium.
 
 ### Puppeteer
 
-![](/blog/assets/20200423-05.jpg)
+![](/assets/20200423-05.jpg)
 
 Google's just getting started with Puppeteer, and the amount of metrics it exposes is exciting: it seems like anything in Chrome Developer Tools can be accessed by Puppeteer. Imagine running a load test on ONE tool that gives you statistics about back-end performance (response times, the effect of bandwidth restrictions, resources returning errors) AND front-end performance (client-side script console logs, render times, time to first paint, etc). It's hard to imagine a future where this ISN'T a valuable tool in the performance arsenal.
 
 Under Puppeteer, of course, is [Element](https://element.flood.io/)— our load-flavored version of Puppeteer.
 
-![](/blog/assets/20200423-06.png)
+![](/assets/20200423-06.png)
 
 ## Is protocol-based load testing dead?
 

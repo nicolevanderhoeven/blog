@@ -29,7 +29,7 @@ On-premise load testing is no better or worse than cloud load testing; it just d
 
 Here are some questions to ask yourself when deciding between load testing on the cloud or on-premise.
 
-‍![](/blog/assets/20200430-01.jpg)
+‍![](/assets/20200430-01.jpg)
 
 _Test infrastructure can make or break your load tests._
 
@@ -57,7 +57,7 @@ The number of virtual users you intend to test your application against correlat
 
 ### Advantages of on-premise load testing
 ‍
-![](/blog/assets/20200430-02.jpg)
+![](/assets/20200430-02.jpg)
 
 #### Increased control
 
@@ -77,7 +77,7 @@ Controlling your own load generators means controlling the network they run on. 
 
 ### Disadvantages of on-premise load testing
 ‍
-![](/blog/assets/20200430-03.jpg)
+![](/assets/20200430-03.jpg)
 
 #### Higher cost in some situations
 
@@ -107,7 +107,7 @@ Then, run a few tests against your application servers without making any change
 
 This process is called _baselining_ your application performance.
 
-‍![](/blog/assets/20200430-04.jpg)
+‍![](/assets/20200430-04.jpg)
 _Flood's Project View lets you track an application's performance over time and compare recent tests to a baseline_
 ‍
 ### Consider using containers or virtual machine images
@@ -122,7 +122,7 @@ The difference between the two is that a container lets you be more granular abo
 
 Using containers or images allows you to keep your load generators as identical as possible (in terms of hardware and software) so that you can assume similar results from each one.
 
-‍‍![](/blog/assets/20200430-05.jpg)
+‍‍![](/assets/20200430-05.jpg)
 ‍
 ### Don't neglect monitoring
 

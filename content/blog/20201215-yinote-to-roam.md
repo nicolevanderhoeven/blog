@@ -33,7 +33,7 @@ I was pretty dubious about using an app just to take notes for video specificall
 
 Here's what it looks like while taking notes:
 
-![](/blog/assets/20201215-01.png)
+![](/assets/20201215-01.png)
 
 ## Export YiNote notes
 
@@ -41,7 +41,7 @@ After watching the video, I click the Settings wheel from the Chrome extension p
 
 I click the Export as Markdown button.
 
-![](/blog/assets/20201215-02.png)
+![](/assets/20201215-02.png)
 
 That lets me save a `.md` file to my local drive. I always save YiNote files in the same folder as the script below.
 
@@ -75,7 +75,7 @@ The script results in an output file that is better formatted for Roam.
 
 On Roam, I hit Options > Import Files, select the output file, hit OK, and that creates a new page in a way better format than the one directly from YiNote. After adding the date, author, and "Recommended By" fields, this is what it looks like in Roam:
 
-![](/blog/assets/20201215-03.png)
+![](/assets/20201215-03.png)
 
 ## That's it!
 

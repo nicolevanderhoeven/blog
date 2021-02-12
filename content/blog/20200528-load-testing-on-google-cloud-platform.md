@@ -27,7 +27,7 @@ We think that adding support for GCP instances opens up a lot of  opportunities 
 
 You'll notice a new Google Cloud section in [the Integrations page](https://app.flood.io/account/integrations) while you're logged into Flood:
 
-![](/blog/assets/20200528-01.png)
+![](/assets/20200528-01.png)
 
 You'll need to add your GCP service account key to allow Flood to access your  account on your behalf. Once you've done this, you'll be able to start  grids and floods right from the Flood interface you're already using.
 

@@ -21,7 +21,7 @@ Robinhood is an app I've personally had my eye on since it opened a waiting list
 
 Robinhood is a brokerage app that takes inspiration from the legend it was named after to "give to the poor," bring zero-commission trading to its customers. Instead of earning from commissions, Robinhood makes its money from [a variety of other methods](https://www.investopedia.com/articles/active-trading/020515/how-robinhood-makes-money.asp), including premium platform fees, interest on customers' uninvested capital, and payments received in exchange for coursing customers' orders through third-party market-makers. It's an enticing premise, and one that the company has used in conjunction with mobile apps to appeal to millennials and technophiles.
 
-![](/blog/assets/20200309-01.jpg)
+![](/assets/20200309-01.jpg)
 
 _Source: From [Robinhood's homepage](https://robinhood.com/us/en/)_
 ‍
@@ -35,7 +35,7 @@ Bhatt and Tenev went on to explain that the load on their servers had caused a "
 
 If you've ever played four-player Overcooked, it's like having everyone sprint to a fire extinguisher to try to put out a fire from overcooked pasta, but instead, the constant button mashing means you just pass the extinguisher around and yell at each other while the fire rages on. Before you know it, the entire kitchen is on fire.
 
-![](/blog/assets/20200309-02.jpeg)
+![](/assets/20200309-02.jpeg)
 
 _Source: From [Twitter user @csac0425](https://twitter.com/csac0425/status/963053160259510277)_
 
@@ -51,7 +51,7 @@ FOMO is the Fear Of Missing Out, and it's a phenomenon that's been particularly 
 
 We can see FOMO in how people have reacted to the coronavirus COVID-19. Despite pleas to leave masks for medical professionals at real risk, people have bought out the stock for these masks despite living in countries with little to no sign of the coronavirus. In Sydney, Australia, residents are stockpiling toilet paper (of all things) in large quantities, clearing out shelves from supermarkets, and [getting into knife fights over toilet paper](https://www.bbc.com/news/world-australia-51731422) due to their panic at the thought of doing without.
 
-![](/blog/assets/20200309-03.jpg)
+![](/assets/20200309-03.jpg)
 
 _This photo of an empty toilet paper aisle was taken by our Principal Engineer, [Lachie Cox](https://github.com/lachie), in a supermarket in Sydney last week._
 ‍
@@ -111,7 +111,7 @@ We should ideally test both, but let's focus on signups here because it's easier
 
 Let's try to come up with a number of users that we can use as Robinhood's peak hourly load. This task would be easier if Robinhood shared their analytics, but we can still make some educated guesses with what _has_ been made public.
 
-![](/blog/assets/20200309-04.png)
+![](/assets/20200309-04.png)
 
 _Source: Image from [Apptopia](https://blog.apptopia.com/robinhood-now-has-more-mobile-monthly-active-users-than-the-top-legacy-providers-combined)_
 
@@ -123,7 +123,7 @@ How do we translate this to the number of virtual users we need to run? Let's th
 
 Looking at the application form itself, we can see it is relatively standard and requires only information that most people are likely to have handy (social security number and contact details). I timed how long it took me to go through the part of it I could access, and I estimated that 10 minutes would be sufficient time to go through all the tabs.
 
-![](/blog/assets/20200309-05.jpg)
+![](/assets/20200309-05.jpg)
 
 _Source: [Robinhood](https://signup.robinhood.com/?)_
 
@@ -139,7 +139,7 @@ In addition to running the standard battery of load tests, testing for FOMO requ
 
 - **Stress testing**. ‍Stress testing means increasing the number of users on an application at regular increments until the application crashes. We can start with 2,000 virtual users per hour, and then add 500 users every 30 minutes to see how the application handles it. This test helps determine how much room there is for growth.
 
-![](/blog/assets/20200309-06.jpg)
+![](/assets/20200309-06.jpg)
 
 _Source: Stepped load profile for stress testing, generated in JMeter_
 ‍
@@ -153,7 +153,7 @@ All these tests help us prepare for the unexpected, and they might have identifi
 
 To test mobile as well as web apps, I would typically use a protocol-level load testing tool like JMeter to simulate the load. However, [I've already done that](https://thenewstack.io/how-id-load-test-the-iowa-caucus-app/). I also noticed that Robinhood makes use of some dynamic parameters, such as a csrf token:
 
-‍![](/blog/assets/20200309-07.jpg)
+‍![](/assets/20200309-07.jpg)
 
 _Source: Chrome Developer Tools on [Robinhood](https://signup.robinhood.com/?)_
 ‍
@@ -173,11 +173,11 @@ Note that I stopped short of actually submitting the form because I don't want t
 
 To help me identify the elements on the page that I wanted the script to interact with, I used Chrome's built-in Developer Tools. Specifically, I used the Inspect Element button (in orange below) to click on a field and find where it was in the code.
 
-‍![](/blog/assets/20200309-08.jpg)
+‍![](/assets/20200309-08.jpg)
 
 For instance, to find out how to identify the email field, I right-clicked on the code on the right, hovered over Copy, and then clicked Copy selector.
 
-‍![](/blog/assets/20200309-09.png)
+‍![](/assets/20200309-09.png)
 
 This gave me the value `#signup_email_field`, which I then used in the script like this:
 
@@ -254,7 +254,7 @@ export default () => {
 
 In every step, I also added a `takeScreenshot()` , which is one of my very favorite features of Element. It's so useful to be able to save these screenshots and use them to determine exactly what's happening in the script. Here's what it looks like running my Element script locally. The automated browser is on the left, and my terminal (iTerm) is on the right, running Element.
 
-‍![](/blog/assets/20200309-10.jpg)
+‍![](/assets/20200309-10.jpg)
 
 ## Running a FOMO test
 
@@ -264,13 +264,13 @@ The answer is a load testing platform like [Flood](https://flood.io/).
 
 With Flood, running our script is a matter of uploading the script and selecting some options.
 
-![](/blog/assets/20200309-11.png)
+![](/assets/20200309-11.png)
 
 _The Flood test design interface_
 ‍
 Flood also lets us choose which regions to generate load from. Below I've got it set up to run for an hour from four different US cities, with each one starting 500 users. This configuration gives us our 2,000 virtual user figure.
 
-‍![](/blog/assets/20200309-12.png)
+‍![](/assets/20200309-12.png)
 
 If this peak load test goes well, we could then go on to run the other test scenarios that we described earlier. Each one puts pressure on application servers in different ways, identifying performance bottlenecks.
 
@@ -282,11 +282,11 @@ Real-time dashboards like that one on Flood allow you to get a quick look into h
 
 From the link above, click on the right arrow on the lone transaction.
 
-![](/blog/assets/20200309-13.jpg)
+![](/assets/20200309-13.jpg)
 
 That will take you to the Transaction Detail page. Remember those screenshots from Element? If you have any in your script, you'll see them here, arranged according to time.
 
-![](/blog/assets/20200309-14.png)
+![](/assets/20200309-14.png)
 
 This lets you troubleshoot issues during FOMO testing and react quickly.
 

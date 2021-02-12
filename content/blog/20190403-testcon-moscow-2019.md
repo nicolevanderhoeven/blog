@@ -31,4 +31,4 @@ Here's the video of my full talk:
 
 {{< youtube GPD8F0e7eX8 >}}
 
-Download the presentation [in PDF format](/blog/assets/20190403-01.pdf).
+Download the presentation [in PDF format](/assets/20190403-01.pdf).

@@ -20,12 +20,12 @@ In this video, Flood co-founder Tim Koopmans and I teamed up at Tricentis User C
 
 Load testing can be quite technical. It involves not just the ability to use different programming languages to create load testing scripts but also familiarity with software engineering practices, DevOps, application infrastructure, site reliability, and networking. A good load tester needs to be able to understand the basics of how an application works and how different components interact with each other. It's common for a load tester to work on applications employing a variety of technologies, so staying up to date with recent technological trends and switching seamlessly from one language to another, or from one platform to another, is of utmost importantance. This technical side of load testing might make you think that a load tester needs to have formal studies in computer science and several years of experience in software testing. The reality is that there are many load testers who stumbled into the field from wildly unexpected backgrounds. So you might think load testing looks like this:
 
-‍![](/blog/assets/how-to-become-a-load-tester01.jpg)
+‍![](/assets/how-to-become-a-load-tester01.jpg)
 _Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 And sometimes it does. But it more often looks something like this:
 
-‍![](/blog/assets/how-to-become-a-load-tester02.jpg)
+‍![](/assets/how-to-become-a-load-tester02.jpg)
 _Photo by [You X Ventures](https://unsplash.com/@youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 You see, load testing is an interdisciplinary field. So much of the job involves talking to people. Sometimes the requirements for a project are not clear, and someone needs to talk to the both the business and the developers to make sure that nonfunctional requirements are clarified. A load tester is a detective, tracing a request as it goes from one application component to another, coordinating with different application teams. A load tester is a scientist, using the scientific method to design experiments that yield the results. A load tester is a statistician, making sense of a jumble of data and seeking correlations between variables. A load tester is a public speaker. Even when the actual load testing has been completed and the report has been sent, a load tester makes sure all stakeholders understand the report so that the results can be used to make meaningful changes to improve application performance. All these tasks require a mishmash of skills and competencies that can be difficult to find in just the field of computer science.
@@ -54,10 +54,10 @@ As a load tester, you'll definitely be working with brands you recognize and lov
 
 ### Load testing can pay well
 
-‍![](/blog/assets/how-to-become-a-load-tester03.png)
+‍![](/assets/how-to-become-a-load-tester03.png)
 _Source: [Payscale](https://www.payscale.com/research/IN/Job=Software_Tester/Salary)_
 
-‍![](/blog/assets/how-to-become-a-load-tester04.png)
+‍![](/assets/how-to-become-a-load-tester04.png)
 _Source: [Payscale](https://www.payscale.com/research/IN/Job=Performance_Engineer/Salary)_
 
 I said this would be a practical list, right? 
@@ -66,7 +66,7 @@ Here are 261,768 practical reasons. The average performance engineer’s salary 
 
 ### Load testing can literally take you places
 
-‍![](/blog/assets/how-to-become-a-load-tester05.png)
+‍![](/assets/how-to-become-a-load-tester05.png)
 _Source: [Shamim](https://twitter.com/shamim_j) from [Flood](https://www.flood.io/blog/inside-the-career-of-a-digital-nomad-is-a-life-on-the-road-right-for-you)_
 
 Then there are the side benefits of being in load testing. The photos above are real ones from the Flood team. That’s me on the upper left, exploring a castle in Belgrade, Serbia, and that’s Tim in the bottom right, taking a photo in San Francisco, USA. 
@@ -75,7 +75,7 @@ Then there are the side benefits of being in load testing. The photos above are 
 
 Load testing can also be a great way to move to another country. It’s what’s allowed me to move to other countries– twice. In Australia, the average performance engineer’s salary is AU$108,053, or over 5.6 million rupee.
 
-‍![](/blog/assets/how-to-become-a-load-tester06.png)
+‍![](/assets/how-to-become-a-load-tester06.png)
 _Source: [Payscale](https://www.payscale.com/research/AU/Job=Performance_Engineer/Salary)_
 
 So it’s clear that there are some pretty good reasons for you to become a load tester. I'm going to walk you through the practical steps to become a load tester. You may not be an expert by the end of this, but I hope I can convince you that you can get started in load testing whether your background looks like Tim’s or mine.
@@ -96,7 +96,7 @@ Load testing is a crucial part of ensuring software quality, and quality is the 
 
 Load testing is like cooking a meal. This is one of Tim's favorite dishes, aloo matar.
 
-‍![](/blog/assets/how-to-become-a-load-tester07.jpg)
+‍![](/assets/how-to-become-a-load-tester07.jpg)
 _Source: [Cubes n Juliennes](https://www.cubesnjuliennes.com/aloo-matar-recipe/)_
 
 You can approach cooking as a science. There are recipes with a list of ingredients, a precise measurement of how much you need for each, and a procedure for creating the dish.
@@ -125,7 +125,7 @@ I prefer kadai paneer myself, but aloo matar requires, among other things, peas.
 
 Load testing doesn’t start with writing a script. Load testing starts with building a foundation for later tests. 
 
-‍![](/blog/assets/how-to-become-a-load-tester08.png)
+‍![](/assets/how-to-become-a-load-tester08.png)
 _Source: [Inside Sport](https://www.insidesport.co/cricket-sachin-tendulkar-comes-to-aid-of-ailing-ashraf-who-once-fixed-his-bats/)_
 
 Part of that foundation is asking WHY. Why do you want to do a load test? Has there been a performance-related issue before? Are you trying to determine whether an application is ready to go live, or is it already live, and you just want to improve its performance? What type of application do you want to test?
@@ -143,7 +143,7 @@ Generating a load testing script without coding: [Getting Started with Test Buil
 
 So now we’re ready to start cooking. This is the Execution phase. You’ll need a machine to use as a load generator. Depending on the number of users you want to run with, you may need more than one machine. You might be tempted to run a load test on your laptop, or on a bunch of machines you have lying around, but that introduces new variables that may affect the results. 
 
-‍![](/blog/assets/how-to-become-a-load-tester09.jpeg)
+‍![](/assets/how-to-become-a-load-tester09.jpeg)
 _Source: [Ashwini Chaudhary](https://unsplash.com/@suicide_chewbacca?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/indian-food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
 Like any good cook, you’ll also need to make sure you have all your ingredients handy. In load testing, that means making sure your scripts and test data files are ready to be executed on every load generator.
@@ -158,7 +158,7 @@ Where should you run your load tests? A look at demand, hosted, and on-premise i
 
 The last part is Analysis.
 
-‍![](/blog/assets/how-to-become-a-load-tester10.jpeg)
+‍![](/assets/how-to-become-a-load-tester10.jpeg)
 _Source: [Fine Dining Lovers](https://www.finedininglovers.com/recipes/brunch/potato-pakoras-yogurt-sauce)_
 
 This is a pretty crucial moment, because this is when you figure out whether what you cooked was delicious or not. Unfortunately, in load testing, it’s not always easy to tell how your test went. It’s like this photo of pakora (onion is my favorite kind). It’s kind of hard to say what expression that is in their faces. Is it disgust? Or is the pakora so yummy that they just can’t wait to eat more?
@@ -179,7 +179,7 @@ You’ve prepared for a load test, you’ve executed a load test, and you’ve a
 
 The cool thing about load testing, though, is that this is just the beginning. There’s always room for improvement.
 
-‍![](/blog/assets/how-to-become-a-load-tester11.jpeg)
+‍![](/assets/how-to-become-a-load-tester11.jpeg)
 _Source: [Pop Up City](https://popupcity.net/observations/dabbawalla-hot-lunch-delivery-by-mumbais-fastest/)_
 
 Dabbawallas are people who deliver hot lunches, and while the concept is not new, the implementation in India is particularly interesting.

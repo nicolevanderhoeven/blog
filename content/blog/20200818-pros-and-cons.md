@@ -23,7 +23,7 @@ Here are some things to consider when deciding whether or not API load testing i
 
 The format of these requests will be dictated by the type of API your application uses, and it may take some technical knowledge or expertise to be able to formulate requests correctly. However, a RESTful API is one of the most common types, and it is considered to be relatively simple to use.
 
-![](/blog/assets/20200818-01.png)
+![](/assets/20200818-01.png)
 _HTTPS requests for amazon.com. This is what an API load testing script would need to replicate._
 
 ### It doesn’t give you an idea of how user-friendly your application is.
@@ -42,7 +42,7 @@ _HTTPS requests for amazon.com. This is what an API load testing script would ne
 
 If you've decided that API load testing is not the best way to load test your application, you can look at browser-based load testing as an alternative.
 
-![](/blog/assets/20200818-02.jpg)
+![](/assets/20200818-02.jpg)
 
 _Executing a browser-based load testing script using Flood Element._
 ‌
@@ -58,7 +58,7 @@ Now that we’ve talked about what API load testing isn’t good at, let’s tal
 
 API load testing has been around for decades. There are lots of robust tools you can choose from, both commercial and open-source, and many of these tools have large communities and extensive documentation around how to script the most common cases. It’s a far cry from the browser-level testing space, which is relatively new and sparsely populated by comparison.
 
-‍![](/blog/assets/20200818-03.png)
+‍![](/assets/20200818-03.png)
 _The [JMeter site](https://jmeter.apache.org/usermanual/index.html) contains a wealth of information, including a User's Manual_
 ‍
 ### It’s not as resource-intensive as browser-level testing.

@@ -65,7 +65,7 @@ Some considerations for scope include:
 
 As with most things in the planning phase, scope is something that can change during the test when unexpected circumstances arise or when priorities change. But it's still a good practice to define the scope at the beginning, and update it as it changes.
 
-![](/blog/assets/how-to-write-a-load-test-plan01.jpg)
+![](/assets/how-to-write-a-load-test-plan01.jpg)
 
 It's important, however, to _prune with intention_. By keeping our objectives in mind, we can keep our work in line with our intentions.
 
@@ -99,7 +99,7 @@ business analysts who will be able to tell us how things are expected to work an
 
 and many more!
 
-‍![](/blog/assets/how-to-write-a-load-test-plan02.jpg)
+‍![](/assets/how-to-write-a-load-test-plan02.jpg)
 
 ### Test Data: Do you have dummy data for your virtual users to interact with?
 
@@ -115,7 +115,7 @@ Workload modeling can be the most difficult part of the testing process because 
 
 Here's my account of working on a project in horse racing, where workload modeling was of particular importance: [Workload Modeling - Preparing for Large Events like the Melbourne Cup](https://www.flood.io/blog/workload-modeling-preparing-for-large-events-like-the-melbourne-cup).
 
-‍![](/blog/assets/how-to-write-a-load-test-plan03.jpg)
+‍![](/assets/how-to-write-a-load-test-plan03.jpg)
 _When you're selling bets for the Melbourne Cup, every second matters._
 
 ## Server monitoring
@@ -141,7 +141,7 @@ Part of the strategic planning around load testing is deciding which components 
 
 Keeping it as simple as possible will lead to fewer dependencies, so it's worth considering creating test doubles to isolate relevant components. Test doubles include stubs, mocks, and full virtual services.
 
-‍![](/blog/assets/how-to-write-a-load-test-plan04.jpg)
+‍![](/assets/how-to-write-a-load-test-plan04.jpg)
 
 A test double is that part that replaces a complicated component that is not within scope. It’s a “dumber” version that responds to requests enough to allow you to go on with your load testing without actually requiring that component.
 
