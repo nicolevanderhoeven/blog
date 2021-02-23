@@ -17,15 +17,15 @@ on:
 jobs:
 
   k6_load_test:
-  name: k6 Load Test
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v1
-    - name: Run local k6 test
-      uses: k6io/action@v0.1
-      with:
-        filename: nicolevdh.js
+    name: k6 Load Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Run local k6 test
+        uses: k6io/action@v0.1
+        with:
+          filename: nicolevdh.js
         
   # This workflow contains a single job called "build"
   build:
