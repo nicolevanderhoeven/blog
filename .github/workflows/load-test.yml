@@ -1,0 +1,13 @@
+# .github/workflows/load-test.yml
+
+k6_load_test:
+    name: k6 Load Testruns-on: ubuntu-latest
+
+    steps:
+        - name: Checkout
+        uses: action/checkout@v1
+            
+        - name: Run Load Test on k6 cloud
+        uses: k6io/action@v0.2.0
+        with:
+            filename: nicolevdh.js
