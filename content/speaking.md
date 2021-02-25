@@ -6,7 +6,9 @@ draft: false
 
 Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://nicolevanderhoeven.com/tags/video/) I've made on various topics.
 
-## 2021
+## Upcoming
+
+23/03   **Ministry of Testing** meetup (Philippines): _Performance testing with Cypress, Lighthouse, and k6_. (English)
 
 07/07   **Women Tech Global**: _[The Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)_. (English)
 
