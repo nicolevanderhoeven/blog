@@ -8,7 +8,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-23/03   **Ministry of Testing** meetup (Philippines): _Performance testing with Cypress, Lighthouse, and k6_. (English)
+23/03   **Ministry of Testing** meetup (Philippines): _[Performance testing with Cypress, Lighthouse, and k6](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895?utm_campaign=Fork%20My%20Brain&utm_medium=email&utm_source=Revue%20newsletter)_. (English)
 
 07/07   **Women Tech Global**: _[The Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)_. (English)
 
