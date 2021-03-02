@@ -101,7 +101,7 @@ This index file is going to be where you actually create your slides. Here's the
 
 <script src="https://gist.github.com/nicolevanderhoeven/752017196efc1ee861c6d3baa5dfca31.js"></script>
 
-Each slide is separated by `---`, just like in Obsidian, which apparently uses the same converter that reveal-hugo does, [reveal.js]https://github.com/hakimel/reveal.js). Note that if you want to try out having an image as a background to one of the slides, you'll need to add that to your `/sample` folder and change the filename in the slide in this part: 
+Each slide is separated by `---`, just like in Obsidian, which apparently uses the same converter that reveal-hugo does, [reveal.js](https://github.com/hakimel/reveal.js). Note that if you want to try out having an image as a background to one of the slides, you'll need to add that to your `/sample` folder and change the filename in the slide in this part: 
 
 ```bash
 slide background-image="lucrezia-carnelos-AsM4T46tqcU-unsplash.jpg"
