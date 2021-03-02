@@ -5,10 +5,6 @@ draft: false
 tags: ['english', 'text', 'obsidian', 'Markdown', 'DevRel', 'hugo']
 ---
 
-%%
-Last Updated: 
-	- [[2021-03-02]]
-%%
 I was working on a presentation for later this month when [Marie Drake](https://mariedrake.com) told me about [slides.com](https://slides.com). It's basically a Powerpoint replacement (which, let's be honest, needs replacing) in that it lets you create slides _and_ it lets you present from it. It even goes beyond Powerpoint in that it also saves your slides publicly for people to view later.
 
 Before she'd mentioned slides.com, I had been planning on creating a presentation on [Obsidian](https://obsidian.md), my note-taking tool of choice. The advantage of this approach is that presentations in Obsidian are just Markdown files with `---` between lines of text to delineate slides. 
