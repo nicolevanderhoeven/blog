@@ -24,7 +24,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 19/06   **Tricentis User Conference 2020**: _[How to become a load tester](https://nicolevanderhoeven.com/blog/20201007-how-to-become-a-load-tester/)_ (English)
 
-01/06   **PerfGuild 2020**: _[Hybrid browser load testing: The best of testing using protocols and real browsers](https://nicolevanderhoeven.com/blog/20200602-hybrid-load-testing/)_ (English)
+01/06   **PerfGuild 2020**: _[Hybrid load testing: The best of testing using protocols and real browsers](https://nicolevanderhoeven.com/blog/20200602-hybrid-load-testing/)_ (English)
 
 ## 2019
 
