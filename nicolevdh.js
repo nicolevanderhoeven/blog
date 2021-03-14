@@ -10,6 +10,8 @@ export const options = {
     },
 };
 
+http.setResponseCallback(http.expectedStatuses(400));
+
 const domain = 'https://nicolevanderhoeven.com';
 export default function () {
     Home();
