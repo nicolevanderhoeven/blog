@@ -8,17 +8,21 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 Looking for my slides? I've started to make my slides publicly available [here](https://slides.nicolevanderhoeven.com).
 
+I'm particularly interested in a speaking opportunity in Spanish, Dutch, Tagalog, or Esperanto.
+
 ## Upcoming
 
-23/03   **Ministry of Testing** meetup (Philippines): _[Performance testing with Cypress, Lighthouse, and k6](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895?utm_campaign=Fork%20My%20Brain&utm_medium=email&utm_source=Revue%20newsletter)_. (English)
+23/03   **[Ministry of Testing Philippines meetup](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895/)**: _Performance testing with Cypress, Lighthouse, and k6_. (English)
 
 27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
 
-07/07   **Women Tech Global**: _[The Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)_. (English)
+07/07   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _The Convergence of Code and Speech_. (English)
 
 ## 2021
 
 18/03   **Cambridge University Press QA Week 2021**: _[Load tests as code: An introduction to k6](https://nicolevanderhoeven.com/blog/20210318-load-tests-as-code/)_ (English)
+
+16/03   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Testing our Performance Test Tools](https://nicolevanderhoeven.com/blog/20210316-testing-our-performance-test-tools/)_ (English)
 
 ## 2020
 
@@ -26,7 +30,7 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 24/09   **Testing Talks Online (panel)**: _[Lifting the lid on performance testing: Best practices from innovative companies](https://nicolevanderhoeven.com/blog/20200924-testing-talks-online/)_ (English)
 
-22/07   **Test Guild Performance Podcast**: _[Performance Testing FOMO](https://nicolevanderhoeven.com/blog/20200722-performance-testing-fomo/)_ (English)
+22/07   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Performance Testing FOMO](https://nicolevanderhoeven.com/blog/20200722-performance-testing-fomo/)_ (English)
 
 19/06   **Perf Bytes en Español Podcast**: _[Entrevista](https://nicolevanderhoeven.com/blog/20200622-entrevista-con-senor-performo/)_ (Spanish)
 
