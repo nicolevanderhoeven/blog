@@ -10,7 +10,13 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 23/03   **Ministry of Testing** meetup (Philippines): _[Performance testing with Cypress, Lighthouse, and k6](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895?utm_campaign=Fork%20My%20Brain&utm_medium=email&utm_source=Revue%20newsletter)_. (English)
 
+27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
+
 07/07   **Women Tech Global**: _[The Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)_. (English)
+
+## 2021
+
+18/03   **Cambridge University Press QA Week 2021**: _[Load tests as code: An introduction to k6](https://nicolevanderhoeven.com/blog/20210318-load-tests-as-code/)_ (English)
 
 ## 2020
 
