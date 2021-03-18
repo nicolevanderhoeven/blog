@@ -6,6 +6,8 @@ draft: false
 
 Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://nicolevanderhoeven.com/tags/video/) I've made on various topics.
 
+Looking for my slides? I've started to make my slides publicly available [here](https://slides.nicolevanderhoeven.com).
+
 ## Upcoming
 
 23/03   **Ministry of Testing** meetup (Philippines): _[Performance testing with Cypress, Lighthouse, and k6](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895?utm_campaign=Fork%20My%20Brain&utm_medium=email&utm_source=Revue%20newsletter)_. (English)
