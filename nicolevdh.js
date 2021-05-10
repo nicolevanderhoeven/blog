@@ -1,15 +1,15 @@
 import http from 'k6/http';
 import { sleep, check, group } from 'k6';
 
-// export const options = {
-//     duration: '5m',
-//     vus: 5,
-//     thresholds: {
-//         http_req_duration: ['p(95)<500'],
-//         http_req_failed: ['rate<0.05'],
-//         checks: ['rate>0.99'],
-//     },
-// };
+export const options = {
+    duration: '5m',
+    vus: 5,
+    thresholds: {
+        http_req_duration: ['p(95)<500'],
+        http_req_failed: ['rate<0.05'],
+        checks: ['rate>0.99'],
+    },
+};
 
 const domain = 'https://nicolevanderhoeven.com';
 export default function () {
