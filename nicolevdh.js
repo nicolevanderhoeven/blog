@@ -5,7 +5,8 @@ export const options = {
     duration: '5m',
     vus: 5,
     thresholds: {
-        http_req_duration: ['p(95)<500'],
+        'groupDuration{groupName:Home}': ['p(95)<500'],
+        'groupDuration{groupName:Notes}': ['p(95)<1000'],
         http_req_failed: ['rate<0.05'],
         checks: ['rate>0.99'],
     },
@@ -21,7 +22,7 @@ export default function () {
 
 export function Home () {
 
-    group('Go to home page', function () {
+    groupWithDurationMetric('Home', function () {
         let res = http.get(domain);
         check(res, {
         'Homepage text verification': (r) => r.body.includes("Developer Advocate at k6.io")
@@ -39,10 +40,12 @@ export function Home () {
 }
 
 export function Notes () {
-    let res = http.get("https://notes.nicolevanderhoeven.com");
-    check(res, {
-        'Notes page text verification': (r) => r.body.includes("my working notes")
-    });
+    groupWithDurationMetric('Notes', function () {
+        let res = http.get("https://notes.nicolevanderhoeven.com");
+        check(res, {
+            'Notes page text verification': (r) => r.body.includes("my working notes")
+        });
+    })    
 }
 
 export function ThinkTime() {
