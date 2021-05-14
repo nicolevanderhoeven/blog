@@ -2,7 +2,7 @@
 title: "The first ever k6 Office Hours"
 date: 2021-02-05T21:47:16+01:00
 draft: false
-tags: ['video', 'english', 'k6.io', 'performance']
+tags: ['video', 'english', 'k6.io', 'performance', 'k6 Office Hours']
 ---
 
 The k6 virtual office is open!

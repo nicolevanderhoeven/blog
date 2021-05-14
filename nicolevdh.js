@@ -25,7 +25,7 @@ export function Home () {
     groupWithDurationMetric('Home', function () {
         let res = http.get(domain);
         check(res, {
-        'Homepage text verification': (r) => r.body.includes("Developer Advocate at k6.io")
+        'Homepage text verification': (r) => r.body.includes("stuff here")
         });
 
         http.get(domain + '/lib/font-awesome/css/all.min.css');
