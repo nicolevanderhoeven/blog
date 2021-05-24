@@ -5,7 +5,7 @@ draft: false
 tags: ['english', 'performance', 'text', 'k6.io']
 ---
 
-_Originally published on the [Abstracta blog](https://abstracta.us/blog/performance-testing/load-testing-guide/)_
+_Originally published on the [Abstracta blog](https://abstracta.us/blog/performance-testing/load-testing-guide/)_.
 
 {{< rawhtml >}}
 <link rel="canonical" href="https://abstracta.us/blog/performance-testing/load-testing-guide/">
