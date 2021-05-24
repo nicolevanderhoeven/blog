@@ -14,7 +14,7 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
 
-07/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _The Convergence of Code and Speech_. (English)
+09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _The Convergence of Code and Speech_. (English)
 
 ## 2021
 
