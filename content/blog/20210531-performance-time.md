@@ -1,6 +1,6 @@
 ---
 title: "Interview on Performance Time Podcast"
-date: 2021-06-01T11:28:18+02:00
+date: 2021-05-31T11:28:18+02:00
 draft: false
 tags: ['english', 'performance', 'audio', 'chaos engineering', 'diversity', 'obsidian', 'podcast']
 ---
