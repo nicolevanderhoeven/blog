@@ -12,11 +12,13 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
-
 09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _The Convergence of Code and Speech_. (English)
 
 ## 2021
+
+31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_ (English)
+
+27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
 
 23/03   **[Ministry of Testing Philippines meetup](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895/)**: _Performance testing with Cypress, Lighthouse, and k6_. (English)
 
