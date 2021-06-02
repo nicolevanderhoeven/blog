@@ -1,6 +1,6 @@
 ---
 title: "Downloading files uploaded to Roam Research for use with Obsidian"
-date: 2021-06-01T23:27:59+02:00
+date: 2021-06-02T00:27:59+02:00
 draft: false
 tags: ['text', 'english', 'python', 'roam research', 'obsidian', 'taking notes', 'zettelkasten']
 ---

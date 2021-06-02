@@ -74,26 +74,29 @@ weight = 6
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "github"
-    link = "https://github.com/nicolevanderhoeven"
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/in/nvanderhoeven"
+    name = "twitter"
+    link = "https://twitter.com/n_vanderhoeven"
   [[params.social]]
     name = "email"
     link = "nicole@nicolevanderhoeven.com"  # no need for "mailto:" in the head
   [[params.social]]
-    name = "mastodon"
-    link = "https://fosstodon.org/@nicole"
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/n_vanderhoeven"
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/nvanderhoeven"
   [[params.social]]
     name = "youtube"
     link = "https://www.youtube.com/channel/UCrmQZ9HHnJ2qpd6udc8iYYw"
   [[params.social]]
     name = "youtube"
     link = "https://youtube.com/c/luckydippers"
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/nicolevanderhoeven"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://fosstodon.org/@nicole"
+  [[params.social]]
+    name = "soundcloud"
+    link = "https://racket.com/nicolevdh"
   [[params.social]]
     name = "instagram"
     link = "https://www.instagram.com/luckydippers/"
