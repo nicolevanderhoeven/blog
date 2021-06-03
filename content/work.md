@@ -1,17 +1,17 @@
 ---
 title: "Places I've worked"
-date: 2020-12-10
+date: 2021-06-03
 draft: false
 ---
 
 # Places I've worked
 ## k6.io (2020-Present)
-### Developer Advocate
+### Developer Advocate (Performance Testing)
 _(remote)_
 
 I joined [k6.io](https://k6.io) in November 2020 as a Developer Advocate, specializing in Performance Testing. k6 is a [free and open source tool](https://github.com/loadimpact/k6) for load testing, with the goal of making the process as developer-friendly as possible. The company also has a related SaaS platform, [k6 Cloud](https://k6.io/cloud), which is an easy way to scale up load tests on the cloud.
 
-So far, I've created a series of videos on [YouTube](https://www.youtube.com/c/k6test) covering my [Week of Testing](/blog/week-of-testing-intro/) of the k6 ecosystem. I'm still learning the tool, but I'm excited to draw on my load testing experience to build up a body of knowledge around load testing best practices.
+I make a lot of content on the k6 [YouTube](https://www.youtube.com/c/k6test) channel, starting with my [Week of Testing](https://www.youtube.com/playlist?list=PLJdv3RhAQXNHsC8OOV3ZjwZvC9tRoAYF2) videos that I made in my real first week to document how I learned the k6 ecosystem. I co-host a weekly livestream I thought up, called [k6 Office Hours](https://www.youtube.com/watch?v=I-NtzkxdzyA&list=PLJdv3RhAQXNE1TFXn2pp9h_Ul1q_kJrEZ), where we talk about different ways to use k6 to improve application performance. I speak at [conferences](/speaking), engage with the community, and generally try out new things and tell people how cool k6 is.
 
 _#k6_
 
