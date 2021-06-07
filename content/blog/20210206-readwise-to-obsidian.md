@@ -21,7 +21,7 @@ Why I'm considering switching from Roam to Obsidian is another post, probably on
 - Instapaper (for highlights and notes on online articles)
 - Amazon Kindle (for highlights on ebooks)
 - Twitter (for interesting tweets)
-- Web highlighter (for straight highlights off any webpage)
+- (Readwise) Web highlighter (for straight highlights off any webpage)
 - Airr (for quotes and notes from audio podcasts)
 
 Readwise collates my activity in all of these input sources and automatically sends them to my Roam Research account. Here's what that looks like when it gets pulled into my Daily Note:
