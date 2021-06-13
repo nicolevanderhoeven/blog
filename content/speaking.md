@@ -12,9 +12,11 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _The Convergence of Code and Speech_. (English)
+08/09   **[TestCon Europe 2021](https://testcon.lt/)**: _Schrödinger's Pokémon: Observability for chaotic load testing_. (English)
 
 ## 2021
+
+09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _[The Convergence of Code and Speech](https://nicolevanderhoeven.com/blog/20210609-convergence-of-code-and-speech/)_. (English)
 
 31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_ (English)
 
