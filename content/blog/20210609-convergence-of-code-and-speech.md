@@ -4,7 +4,7 @@ date: 2021-06-09T22:23:19+02:00
 draft: false
 tags: ['presentation', 'english', 'video']
 ---
-As part of the [Women Tech Global 2021](https://www.womentech.net/en-us/women-tech-conference) conference, I presented a short talk called "[Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)", in the theme of "Future of Work". In hindsight, the title was a little pretentious, but what are you going to do?
+As part of the [Women Tech Global 2021](https://www.womentech.net/en-us/women-tech-conference) conference, I presented a short talk called "[Convergence of Code and Speech](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)", under the theme of "Future of Work". In hindsight, the title was a little pretentious, but what are you going to do?
 
 I haven't gotten the recording of the live version yet, but I always like to do a recorded test run by myself, and here's what that was like:
 
