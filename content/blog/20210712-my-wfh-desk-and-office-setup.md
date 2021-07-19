@@ -1,5 +1,5 @@
 ---
-title: "Gear I Use"
+title: "My WFH desk and office setup"
 date: 2021-07-12T21:18:55+02:00
 draft: false
 tags: ['gear', 'text', 'english']
