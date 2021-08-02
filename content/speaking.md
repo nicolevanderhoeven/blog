@@ -18,30 +18,30 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _[The Convergence of Code and Speech](https://nicolevanderhoeven.com/blog/20210609-convergence-of-code-and-speech/)_. (English)
 
-31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_ (English)
+31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_. (English)
 
-27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _Schrödinger's Pokemon: Observability for Chaotic Load Testing_. (English)
+27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _[Schrödinger's Pokemon: Observability for Chaotic Load Testing](https://nicolevanderhoeven.com/blog/20210730-schrodingers-pokemon/)_. (English)
 
 23/03   **[Ministry of Testing Philippines meetup](https://www.meetup.com/Ministry-of-Testing-Manila/events/276622895/)**: _Performance testing with Cypress, Lighthouse, and k6_. (English)
 
-18/03   **Cambridge University Press QA Week 2021**: _[Load tests as code: An introduction to k6](https://nicolevanderhoeven.com/blog/20210318-load-tests-as-code/)_ (English)
+18/03   **Cambridge University Press QA Week 2021**: _[Load tests as code: An introduction to k6](https://nicolevanderhoeven.com/blog/20210318-load-tests-as-code/)_. (English)
 
-16/03   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Testing our Performance Test Tools](https://nicolevanderhoeven.com/blog/20210316-testing-our-performance-test-tools/)_ (English)
+16/03   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Testing our Performance Test Tools](https://nicolevanderhoeven.com/blog/20210316-testing-our-performance-test-tools/)_. (English)
 
 ## 2020
 
-31/10   **JMeter Scripting Day**: _[Cuándo JMeter no alcanza: pruebas de carga simulando navegadores](https://nicolevanderhoeven.com/blog/20201216-cuando-jmeter-no-alcanza/)_ (Spanish)
+31/10   **JMeter Scripting Day**: _[Cuándo JMeter no alcanza: pruebas de carga simulando navegadores](https://nicolevanderhoeven.com/blog/20201216-cuando-jmeter-no-alcanza/)_. (Spanish)
 
-24/09   **Testing Talks Online (panel)**: _[Lifting the lid on performance testing: Best practices from innovative companies](https://nicolevanderhoeven.com/blog/20200924-testing-talks-online/)_ (English)
+24/09   **Testing Talks Online (panel)**: _[Lifting the lid on performance testing: Best practices from innovative companies](https://nicolevanderhoeven.com/blog/20200924-testing-talks-online/)_. (English)
 
-22/07   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Performance Testing FOMO](https://nicolevanderhoeven.com/blog/20200722-performance-testing-fomo/)_ (English)
+22/07   **[Test Guild Performance Podcast](https://testguild.com/)**: _[Performance Testing FOMO](https://nicolevanderhoeven.com/blog/20200722-performance-testing-fomo/)_. (English)
 
-19/06   **Perf Bytes en Español Podcast**: _[Entrevista](https://nicolevanderhoeven.com/blog/20200622-entrevista-con-senor-performo/)_ (Spanish)
+19/06   **Perf Bytes en Español Podcast**: _[Entrevista](https://nicolevanderhoeven.com/blog/20200622-entrevista-con-senor-performo/)_. (Spanish)
 
-19/06   **Tricentis User Conference 2020**: _[How to become a load tester](https://nicolevanderhoeven.com/blog/20201007-how-to-become-a-load-tester/)_ (English)
+19/06   **Tricentis User Conference 2020**: _[How to become a load tester](https://nicolevanderhoeven.com/blog/20201007-how-to-become-a-load-tester/)_. (English)
 
-01/06   **PerfGuild 2020**: _[Hybrid load testing: The best of testing using protocols and real browsers](https://nicolevanderhoeven.com/blog/20200602-hybrid-load-testing/)_ (English)
+01/06   **PerfGuild 2020**: _[Hybrid load testing: The best of testing using protocols and real browsers](https://nicolevanderhoeven.com/blog/20200602-hybrid-load-testing/)_. (English)
 
 ## 2019
 
-03/04  **TestCon Moscow 2019**: _[Dismantling Cognitive Biases in Performance Testing](https://nicolevanderhoeven.com/blog/20190403-testcon-moscow-2019/)_ (English)
+03/04  **TestCon Moscow 2019**: _[Dismantling Cognitive Biases in Performance Testing](https://nicolevanderhoeven.com/blog/20190403-testcon-moscow-2019/)_. (English)
