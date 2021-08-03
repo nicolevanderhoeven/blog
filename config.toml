@@ -40,6 +40,11 @@ name = "Notes"
 url = "https://notes.nicolevanderhoeven.com"
 weight = 6
 
+[[menu.main]]
+name = "Gear"
+url = "/gear"
+weight = 7
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
