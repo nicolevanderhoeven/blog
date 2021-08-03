@@ -68,7 +68,7 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 
 I already listed the video-related gear on my desk in the first section above, but here's everything else.
 
-- [Samsung Galaxy S10](https://amzn.to/3fst7JV) (secondary phone, primarily for timelapses and overhead videos)
+- [Samsung Galaxy Note 8](https://amzn.to/3rOo8Iw) (secondary phone, primarily for timelapses and overhead videos)
 - [Samsung Galaxy Wireless Buds](https://amzn.to/3lrYgkl), rose
 - [Samsung Galaxy Note 10+](https://amzn.to/3CfKxmH) (primary phone)
 - [Apple Macbook Air 11"](https://amzn.to/3lotmtj) (2011, used as my presentation laptop)
