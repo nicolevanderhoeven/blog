@@ -17,7 +17,10 @@ Almost exactly six months ago, I [wrote a blog post](https://nicolevanderhoeven.
 
 That method worked, and you can read the original article in the link above. However, today, Readwise announced that they now have [an official Obsidian community plugin](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), and I disabled my trusty old python script for good.
 
-You see, although my old script worked, there were quirks-- not the least of which was that making changes to it meant programming in Python. I'm not a developer, so while I made do, it was never a painless experience. I also ran into issues with time zones and invalid characters being used in titles. So I'm thrilled to have something significantly better from Readwise itself! Here's how to get started.
+You see, although my old script worked, there were quirks-- not the least of which was that making changes to it meant programming in Python. I'm not a developer, so while I made do, it was never a painless experience. I also ran into issues with time zones and invalid characters being used in titles. So I'm thrilled to have something significantly better from Readwise itself! Here's a video from the Readwise team, or read on for instructions on how to get started.
+
+{{< youtube DOYwwdDC9LQ >}}
+_From [Readwise on YouTube](https://www.youtube.com/watch?v=DOYwwdDC9LQ)_
 
 ## Install the Obsidian plugin.
 
