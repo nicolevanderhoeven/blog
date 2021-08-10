@@ -12,6 +12,8 @@ tags: ['english', 'text', 'obsidian', 'taking notes', 'zettelkasten', 'roam rese
 
 ![Readwise to Obsidian workflow](/assets/20210206-06-readwise-to-obsidian.png)
 
+_August 10th, 2021: Readwise just released their own Obsidian plugin, [Readwise Official](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), which is available now! I now recomment this method over the one outlined in this article._
+
 I'm about 9 months into heavily using [Roam Research](https://roamresearch.com) as my primary note-taking, task management, capture-everything system, and for the most part, that's gone very well. [Obsidian](https://obsidian.md) is another excellent personal knowledge management (PKM) system, though, and I've been curious about it for almost as long as I've been using Roam. I've had it installed for a while, but I never really _seriously_ attempted to make the switch. Until now. I've decided to use Obsidian as my primary PKM and zettelkasten for the next month, to see if it's something I can switch to.
 
 Why I'm considering switching from Roam to Obsidian is another post, probably one I'll write at the end of this experiment, when my thoughts and opinions are more solidified. For now, I want to address one of the things I struggled with when switching over: Readwise integration.
