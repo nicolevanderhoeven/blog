@@ -2,7 +2,7 @@
 title: "How I Use Obsidian at Work"
 date: 2021-05-18T22:33:18+02:00
 draft: false
-tags: ['english', 'obsidian', 'zettelkasten', 'text', 'k6']
+tags: ['english', 'obsidian', 'zettelkasten', 'text', 'k6.io']
 ---
 Note-taking and personal knowledge management get talked about in academic circles, by both students and teachers. But there's not much said about its use outside of the academe.
 

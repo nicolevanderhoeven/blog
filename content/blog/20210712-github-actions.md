@@ -2,7 +2,7 @@
 title: "How to add performance testing to CI/CD pipelines using k6 and GitHub Actions"
 date: 2021-07-12T22:26:20+02:00
 draft: false
-tags: ['performance', 'k6.io', 'english', 'video', 'continuous testing', 'github', 'k6']
+tags: ['performance', 'k6.io', 'english', 'video', 'continuous testing', 'github']
 ---
 Continuous testing means verifying and improving software quality at all stages, including development. It can sound like something only large companies do, but it's an approach I use even for this personal blog that you're reading this on.
 

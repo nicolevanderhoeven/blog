@@ -35,6 +35,7 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 - [Elgato multi-mount](https://amzn.to/3A7HKdv) (holding up the M50)
 - [Blackmagic Atem Mini](https://amzn.to/3fv26FA) video switcher
 - [Røde Wireless Go](https://amzn.to/3rZfVRW) wireless microphone (main microphone, even for voice calls)
+- [Rødecaster Pro](https://amzn.to/3m3JeSa) for crispy audio on calls and videos
 - [Samsung Portable SSD T5, 1TB](https://amzn.to/2Vcj84H) (always connected to my laptop) the drive I edit off
 - [Macbook Pro 13" (2020)](https://amzn.to/3rZggnG), 2,3 GHz Quad-Core Intel Core i7, 32 GB RAM - main laptop
 
@@ -62,7 +63,7 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 - [Kimi Rainbow Acrylic kalimba](https://amzn.to/3jioG5p)
 - [Visconti Homo Sapiens Lava](https://amzn.to/3CeHdIw) Midi, steel age fountain pen (the only fountain pen of many that I use regularly)
 
-![A photo of my the things on my desk](/assets/gear-desk.JPG)
+![A photo of my the things on my desk](/assets/desksetup.jpg)
 
 ## Non-video gear on my desk
 
