@@ -4,6 +4,12 @@ date: 2021-08-09T17:46:51+02:00
 draft: false
 tags: ['zettelkasten', 'obsidian', 'Markdown', 'roam research', 'text', 'english', 'D&D']
 ---
+{{< rawhtml >}}
+<meta property=“og:image” content="/assets/Forgotten-Realms-workspace-in-Obsidian.png" />
+<meta property=”og:image:width” content=”1200″ />
+<meta property=”og:image:height” content=”628″ />
+{{< /rawhtml >}}
+
 I've previously written about [how I use Obsidian for work](https://nicolevanderhoeven.com/blog/20210518-how-i-use-obsidian-at-work/), and I've also talked about [how I use Roam Research for D&D](https://nicolevanderhoeven.com/blog/20201214-roam-for-dnd/). Shortly after the latter post, however, I moved to Obsidian. That was six months ago, so I thought it was time for an update.
 
 ## Before the game
