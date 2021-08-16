@@ -1,7 +1,7 @@
 ---
 title: "How to import Shortform highlights to Obsidian via Readwise"
 date: 2021-08-15T18:21:16+02:00
-draft: true
+draft: false
 tags: ['english', 'text', 'obsidian', 'zettelkasten', 'taking notes', 'readwise', 'books', shortform]
 ---
 {{< rawhtml >}}
