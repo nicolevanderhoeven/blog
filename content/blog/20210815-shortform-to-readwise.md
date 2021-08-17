@@ -112,6 +112,16 @@ The whole point of this, at least for me, was to set it up so that I've got high
 
 Cron needs to have the right permissions to run scripts on your behalf, so you may have to go to System Preferences > Security & Privacy > Privacy > Full Disk Access on your laptop and add `/usr/bin/cron` to the "allowed" list.
 
+### Find the path for your python3 installation
+
+In your terminal, run:
+
+```bash
+which python3
+```
+
+This will give you a path. For me, it was `/Library/Frameworks/Python.framework/Versions/3.9/bin/python3`. Copy this.
+
 ### Open crontab
 
 Then, from your terminal, run the command `env EDITOR=nano crontab -e` to open up a list of cronjobs. If you don't have any other jobs, this will be blank.
@@ -132,15 +142,15 @@ where the five asterisks correspond to:
 - month
 - day of the week
 
-In my case, I wanted it to run every hour, so here's what my schedule looks like:
+In my case, I wanted it to run every 30 minutes, so here's what my schedule looks like:
 
 ```shell
 
-*/30 * * * * python3 /Users/nic/python/shortform-to-readwise/gethighlights.py
+*/30 * * * * /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/nic/python/shortform-to-readwise/gethighlights.py
 
 ```
 
-Make sure you change `/Users/nic/python/` to the path where you put the repository. Now exit out of it and save it (CTRL+X, and yes). The Python script should automatically run every 30 minutes.
+Make sure you change `/Users/nic/python/` to the path where you put the repository and your python3 path instead of `/Library/Frameworks/Python.framework/Versions/3.9/bin/python3`. Now exit out of it and save it (CTRL+X, and yes). The Python script should automatically run every 30 minutes.
 
 ## That's it!
 
