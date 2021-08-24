@@ -144,10 +144,8 @@ where the five asterisks correspond to:
 
 In my case, I wanted it to run every 30 minutes, so here's what my schedule looks like:
 
-```shell
-
+```bash
 */30 * * * * /Library/Frameworks/Python.framework/Versions/3.9/bin/python3 /Users/nic/python/shortform-to-readwise/gethighlights.py
-
 ```
 
 Make sure you change `/Users/nic/python/` to the path where you put the repository and your python3 path instead of `/Library/Frameworks/Python.framework/Versions/3.9/bin/python3`. Now exit out of it and save it (CTRL+X, and yes). The Python script should automatically run every 30 minutes.
