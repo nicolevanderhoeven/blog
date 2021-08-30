@@ -12,6 +12,8 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
+16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _Intro to load testing with Grafana and k6_. (English)
+
 08/09   **[TestCon Europe 2021](https://testcon.lt/)**: _Schrödinger's Pokémon: Observability for chaotic load testing_. (English)
 
 ## 2021
