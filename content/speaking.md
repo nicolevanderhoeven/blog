@@ -18,6 +18,8 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## 2021
 
+07/08   **Performance Engineers club on Clubhouse**: _[Realistic load testing](https://nicolevanderhoeven.com/blog/20210807-clubhouse-realistic-load-tests/)_. (English)
+
 09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _[The Convergence of Code and Speech](https://nicolevanderhoeven.com/blog/20210609-convergence-of-code-and-speech/)_. (English)
 
 31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_. (English)
