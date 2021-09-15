@@ -12,11 +12,11 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _Intro to load testing with Grafana and k6_. (English)
-
-08/09   **[TestCon Europe 2021](https://testcon.lt/)**: [_Schrödinger's Pokémon: Observability for chaotic load testing_](https://testcon.lt/Nicole-van-der-Hoeven/). (English)
+16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _[Intro to load testing with Grafana and k6](https://docs.google.com/presentation/d/1WOA50nqIv1NoiHBxGIH_JM02rZqSjX81gHTlwPJ5i1U/edit?usp=sharing)_. (English)
 
 ## 2021
+
+08/09   **[TestCon Europe 2021](https://testcon.lt/Nicole-van-der-Hoeven/)**: [_Schrödinger's Pokémon: chaotic load testing with k6 and Grafana_](https://nicolevanderhoeven.com/blog/20210908-schrodingers-pokemon-k6-and-grafana/). (English)
 
 07/08   **Performance Engineers club on Clubhouse**: _[Realistic load testing](https://nicolevanderhoeven.com/blog/20210807-clubhouse-realistic-load-tests/)_. (English)
 
