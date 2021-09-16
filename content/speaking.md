@@ -12,9 +12,13 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _[Intro to load testing with Grafana and k6](https://docs.google.com/presentation/d/1WOA50nqIv1NoiHBxGIH_JM02rZqSjX81gHTlwPJ5i1U/edit?usp=sharing)_. (English)
+09/10   **[Obsidian Community Talks](https://www.youtube.com/channel/UCxNSTq2kmupdR6LD400FpvA/videos)**: _TTRPGs in Obsidian_. (English)
+
+05/10   **Grafana Virtual Meetup**, _details to follow_. (English)
 
 ## 2021
+
+16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _[Intro to load testing with Grafana and k6](https://nicolevanderhoeven.com/blog/20210916-intro-to-load-testing-with-k6-and-grafana/)_. (English)
 
 08/09   **[TestCon Europe 2021](https://testcon.lt/Nicole-van-der-Hoeven/)**: [_Schrödinger's Pokémon: chaotic load testing with k6 and Grafana_](https://nicolevanderhoeven.com/blog/20210908-schrodingers-pokemon-k6-and-grafana/). (English)
 
