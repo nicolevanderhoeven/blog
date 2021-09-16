@@ -29,7 +29,8 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 ### On desk
 
 - [Aputure AL-MC](https://amzn.to/3fub99P) portable light (attached magnetically to the back of my external monitor)
-- [Blue Yeti](https://amzn.to/3foIliT) microphone
+- [Blue Yeti](https://amzn.to/3foIliT) microphone - (_pictured, but retired for the next item_)
+- [Røde PodMic](https://amzn.to/3EryDHu) microphone - _my new main mic_
 - [Elgato Key Light](https://amzn.to/3s46hxv)
 - [Canon M50](https://amzn.to/3yi8VSp) (between my laptop and monitor screens, used as my main webcam)
 - [Elgato multi-mount](https://amzn.to/3A7HKdv) (holding up the M50)
