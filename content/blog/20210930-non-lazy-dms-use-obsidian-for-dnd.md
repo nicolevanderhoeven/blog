@@ -1,9 +1,17 @@
 ---
-title: "How I Use Obsidian for D&D: The Non-Lazy Dungeon Master's Edition"
+title: "Non-Lazy DMs use Obsidian for D&D"
 date: 2021-09-30T16:29:54+02:00
 draft: false
 tags: ['text', 'english', 'obsidian', 'D&D', 'taking notes', 'zettelkasten']
 ---
+{{< rawhtml >}}
+<meta property=“og:image” content="/assets/non-lazydm.png" />
+<meta property=”og:image:width” content=”1200″ />
+<meta property=”og:image:height” content=”628″ />
+{{< /rawhtml >}}
+
+![Graph view in Obsidian of my three D&D campaigns](/assets/non-lazy-dms.PNG)
+
 Last month, I wrote about how I use [Obsidian](https://obsidian.md) for [D&D as a player](https://nicolevanderhoeven.com/blog/20210809-dnd-obsidian-player/) in a 4e campaign (I play a half-elf hybrid wizard/cleric). This is about my second weekly game, in which I am the Dungeon Master for a 5e campaign. I'm a relatively new DM (I've got [39 games](https://notes.nicolevanderhoeven.com/Exandria/World) under my belt at the time this writing, and Obsidian is at the center of my workflow for improving my DMing skills, getting inspiration, preparing for a game, running the game, and making sure my players are having fun.
 
 In many ways, my setup is the Non-Lazy DM's approach to preparing for D&D games: high-effort, high-touch, and high-return. But I only do it because I enjoy it!
