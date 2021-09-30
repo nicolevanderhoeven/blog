@@ -26,6 +26,9 @@ I go into detail for some, but not all of these, in the article below.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - [Obsidian Timelines](https://github.com/Darakah/obsidian-timelines)
 
+Additionally, feel free to skip around to different sections by clicking on the hamburger menu on the upper right-hand corner and selecting the session that interests you.
+
+
 ## Outside the game
 
 Although I use Obsidian *while* playing D&D, I use it most for D&D between games: fleshing out the world, getting inspiration for new adventures, or preparing for specific sessions.
