@@ -5,7 +5,7 @@ draft: false
 tags: ['text', 'english', 'obsidian', 'D&D', 'taking notes', 'zettelkasten']
 ---
 {{< rawhtml >}}
-<meta property=“og:image” content="/assets/non-lazydms.PNG" />
+<meta property=“og:image” content="/assets/non-lazy-dms.PNG" />
 <meta property=”og:image:width” content=”1200″ />
 <meta property=”og:image:height” content=”628″ />
 {{< /rawhtml >}}
