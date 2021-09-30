@@ -5,9 +5,9 @@ draft: false
 tags: ['text', 'english', 'obsidian', 'D&D', 'taking notes', 'zettelkasten']
 ---
 {{< rawhtml >}}
-<meta property=“og:image” content="/assets/non-lazy-dms.PNG" />
-<meta property=”og:image:width” content=”1200″ />
-<meta property=”og:image:height” content=”628″ />
+<meta property="og:image" content="/assets/non-lazy-dms.PNG" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 {{< /rawhtml >}}
 
 ![Graph view in Obsidian of my three D&D campaigns](/assets/non-lazy-dms.PNG)
