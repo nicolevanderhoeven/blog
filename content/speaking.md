@@ -14,7 +14,7 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 09/10   **[Obsidian Community Talks](https://www.youtube.com/channel/UCxNSTq2kmupdR6LD400FpvA/videos)**: _TTRPGs in Obsidian_. (English)
 
-05/10   **Grafana Virtual Meetup**, _details to follow_. (English)
+05/10   **[Grafana Virtual Meetup](https://grafana.com/go/grafana-meetup-emea-october-2021/)**, _Testing with k6 + Grafana: Better together_. (English)
 
 ## 2021
 

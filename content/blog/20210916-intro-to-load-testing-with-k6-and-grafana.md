@@ -14,4 +14,6 @@ In the webinar, I talk about:
 
 There's quite a bit of demo in it, and I also had the k6 CEO, Robin Gustafsson, join me for Q&A as a nice treat.
 
+{{< youtube tFsIgbqXbxM >}}
+
 Check out the full webinar [here](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)-- it's already up on the Grafana site. You can also go through my slides [here](https://docs.google.com/presentation/d/1WOA50nqIv1NoiHBxGIH_JM02rZqSjX81gHTlwPJ5i1U/edit?usp=sharing), if you'd like.
