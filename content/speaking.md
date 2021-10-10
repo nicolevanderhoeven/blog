@@ -4,7 +4,7 @@ date: 2021-01-05
 draft: false
 ---
 
-Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://nicolevanderhoeven.com/tags/video/) I've made on various topics.
+Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://www.youtube.com/channel/UCrmQZ9HHnJ2qpd6udc8iYYw) I've made on various topics.
 
 Looking for my slides? I've started to make my slides publicly available [here](https://slides.nicolevanderhoeven.com).
 
@@ -12,11 +12,15 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-09/10   **[Obsidian Community Talks](https://www.youtube.com/channel/UCxNSTq2kmupdR6LD400FpvA/videos)**: _TTRPGs in Obsidian_. (English)
-
-05/10   **[Grafana Virtual Meetup](https://grafana.com/go/grafana-meetup-emea-october-2021/)**, _Testing with k6 + Grafana: Better together_. (English)
+09/11   **[ObservabilityCON 2021](https://grafana.com/go/observabilitycon/2021/keynote/)**: _Keynote: Observability is your journey_ and _Intro to using k6 load testing with the Grafana observability stack_.
 
 ## 2021
+
+09/10   **[Obsidian Community Talks](https://www.youtube.com/channel/UCxNSTq2kmupdR6LD400FpvA/videos)**: _TTRPGs in Obsidian_. (English)
+
+07/10   **Womxn at Grafana (internal talk)**: _Womxn in R&D_. (English)
+
+05/10   **[Grafana Virtual Meetup](https://grafana.com/go/grafana-meetup-emea-october-2021/)**, _[Testing with k6 + Grafana: Better together](https://nicolevanderhoeven.com/blog/20211005-testing-with-k6-and-grafana-better-together/)_. (English)
 
 16/09   **[Grafana Labs webinars](https://grafana.com/go/webinar/intro-to-load-testing-with-grafana-and-k6/)**: _[Intro to load testing with Grafana and k6](https://nicolevanderhoeven.com/blog/20210916-intro-to-load-testing-with-k6-and-grafana/)_. (English)
 
