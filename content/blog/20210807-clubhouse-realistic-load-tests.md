@@ -10,3 +10,5 @@ This is a conversation I recorded from Clubhouse in the Performance Engineers gr
 {{< rawhtml >}}
 <iframe src="https://open.spotify.com/embed/episode/5MJaz2PAhYfy5FShrIaXUK" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
+
+{{< youtube -hBVZqNJ4_A >}}
