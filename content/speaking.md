@@ -12,7 +12,7 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 
 ## Upcoming
 
-23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _Intro to load testing with k6 and Grafana. (English)
+23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _Intro to load testing with k6 and Grafana. (English)_
 
 ## 2021
 
@@ -37,10 +37,6 @@ I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog
 09/06   **[Women Tech Global](https://www.womentech.net/speaker/Nicole/van%20der%20Hoeven/50129)**: _[The Convergence of Code and Speech](https://nicolevanderhoeven.com/blog/20210609-convergence-of-code-and-speech/)_. (English)
 
 31/05   **[Performance Time Podcast](https://open.spotify.com/show/7wOCHzZBCzOi071QuDPodI)**: _[An Interview with Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20210531-performance-time/)_. (English)
-
-{{< rawhtml >}}
-<iframe src="https://open.spotify.com/embed/episode/3pp3ZFFB8DyfUEtLRuLxGe" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{{< /rawhtml >}}
 
 27/05   **[New Relic FutureStack](https://newrelic.com/futurestack/speakers/nicole-van-der-hoeven)**: _[Schrödinger's Pokemon: Observability for Chaotic Load Testing](https://nicolevanderhoeven.com/blog/20210730-schrodingers-pokemon/)_. (English)
 
