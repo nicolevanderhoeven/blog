@@ -15,7 +15,7 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 ## 2021
 
-23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _Intro to load testing with k6 and Grafana. (English)_
+23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _[Intro to load testing with k6 and Grafana](https://nicolevanderhoeven.com/blog/20211123-intro-to-load-testing-with-k6-and-grafana/). (English)_
 
 23/11   **[Everyone Can Contribute Cafe](https://www.youtube.com/hashtag/everyonecancontribute)**: _[Load Performance Testing with k6.](https://nicolevanderhoeven.com/blog/20211123-load-performance-testing-with-k6/) (English)_
 
