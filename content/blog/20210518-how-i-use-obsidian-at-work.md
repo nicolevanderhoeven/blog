@@ -206,3 +206,7 @@ I've also had the experience of collaborating with someone who also used Obsidia
 ## Conclusion
 
 Note-taking and personal management aren't just for students and teachers; I think they're particularly useful in tech, where knowledge work is highly prized. I'm talking about Obsidian because that's my current tool of choice, but I think the tool you use is less important than the systems you put in place to help yourself learn and create.
+
+If you'd prefer the video version, here's a video I made showing this process:
+
+{{< youtube D7e1ud_Dk24 >}}

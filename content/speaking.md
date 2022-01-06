@@ -8,19 +8,22 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 Looking for my slides? I've started to make my slides publicly available [here](https://slides.nicolevanderhoeven.com).
 
-I'm particularly interested in speaking opportunities in Spanish, Dutch, Tagalog, or Esperanto.
-
 ## Upcoming
 
-23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _Intro to load testing with k6 and Grafana. (English)_
+07/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: _In search of the best Pokémon: Browser automation and load testing in one script with k6. (English)._
+
 
 ## 2021
 
-09/11   **[ObservabilityCON 2021](https://grafana.com/about/events/observabilitycon/2021/)**: _Keynote: Observability is your journey_.
+23/11   **[Testowanie wydajności aplikacji - Performance Objective meetup](https://www.facebook.com/pg/TestowanieWydajnosciAplikacji/events/)**: _Intro to load testing with k6 and Grafana. (English)_
 
-09/11   **[ObservabilityCON 2021](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)**: _Intro to using k6 load testing with the Grafana observability stack_.
+23/11   **[Everyone Can Contribute Cafe](https://www.youtube.com/hashtag/everyonecancontribute)**: _[Load Performance Testing with k6.](https://nicolevanderhoeven.com/blog/20211123-load-performance-testing-with-k6/) (English)_
 
-14/10   **[Conf42 podcast](https://www.conf42.com/podcast)**: _[In the universe of k6](https://nicolevanderhoeven.com/blog/20211014-conf42-in-the-k6-universe/)_.
+09/11   **[ObservabilityCON 2021](https://grafana.com/about/events/observabilitycon/2021/)**: _Keynote: Observability is your journey. (English)_
+
+09/11   **[ObservabilityCON 2021](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)**: _Intro to using k6 load testing with the Grafana observability stack. (English)_
+
+14/10   **[Conf42 podcast](https://www.conf42.com/podcast)**: _[In the universe of k6](https://nicolevanderhoeven.com/blog/20211014-conf42-in-the-k6-universe/). (English)_
 
 09/10   **[Obsidian Community Talks](https://www.youtube.com/watch?v=Ovqu_1aW3Sw&t=2720s)**: [_TTRPGs in Obsidian_](https://nicolevanderhoeven.com/blog/20211009-ttrpg-obsidian-showcase). (English)
 
