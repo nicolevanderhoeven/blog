@@ -2,10 +2,8 @@
 title: "Take Notes, Not Tools"
 date: 2022-01-08T17:00:44+01:00
 draft: false
-tags: ['performance', 'personal knowledge management', 'testing', 'text', 'English']
+tags: ['performance', 'personal knowledge management', 'testing', 'text', 'English', 'ship30for30']
 ---
-
-## Take notes, not tools
 When I first got into testing, I thought that testing was about learning different tools and frameworks.
 
 I learned how to use Neoload, then LoadRunner, then JMeter, and then SeleniumSilkPerformerVisualStudioGatlingPuppeteerPlaywrightk6 in short succession. I took courses on JavaScript, on C, on Java. I ticked off tools like a grocery list.
