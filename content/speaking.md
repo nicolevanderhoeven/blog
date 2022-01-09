@@ -10,7 +10,7 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 ## Upcoming
 
-07/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: _In search of the best Pokémon: Browser automation and load testing in one script with k6. (English)._
+10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: _In search of the best Pokémon: Browser automation and load testing in one script with k6. (English)._
 
 
 ## 2021
