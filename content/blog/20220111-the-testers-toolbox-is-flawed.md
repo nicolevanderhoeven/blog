@@ -2,7 +2,7 @@
 title: "The Tester's Toolbox Is Flawed"
 date: 2022-01-11T16:30:49+01:00
 draft: false
-tags: ['personal knowledge management', 'testing', 'text', 'English', 'ship30for30', 'obsidian']
+tags: ['personal knowledge management', 'testing', 'text', 'English', 'ship30for30']
 ---
 
 Every tester has a toolbox.

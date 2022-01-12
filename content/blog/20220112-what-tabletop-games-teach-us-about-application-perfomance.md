@@ -4,9 +4,6 @@ date: 2022-01-12T16:30:29+01:00
 draft: false
 tags: ['testing', 'text', 'English', 'ship30for30', 'tabletop games', 'performance']
 ---
-
-# What tabletop games teach us about application performance
-
 Tabletop games and application performance have more in common than you might think.
 
 See, it's all about optimization. Both involve juggling several variables: some that you can control, and some that you can't.
