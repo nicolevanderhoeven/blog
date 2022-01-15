@@ -1,7 +1,7 @@
 ---
 title: "Building a DM's Brain Attic"
-date: 2022-01-14T16:45:22+01:00
-draft: true
+date: 2022-01-15T16:45:22+01:00
+draft: false
 tags: ['personal knowledge management', 'D&D', 'text', 'English', 'ship30for30', 'obsidian']
 ---
 
