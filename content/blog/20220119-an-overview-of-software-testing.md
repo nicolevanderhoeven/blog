@@ -17,7 +17,7 @@ Anyway, software testing is the process of validating whether an application wor
 
 Functional testing is more about application features. Is there a form to capture user email addresses? Is there a button next to it that submits those addresses? Once the button is clicked, where do the user details go? Do they go to the database? Are they stored correctly? Those are the sort of ways in which functional testers think. Operational testing traditionally called non-functional testing, is a way of verifying software quality and aspects that extend beyond the features of the application. 
 
-Operational testing sometimes involves concerns that are more subjective or qualitative. So it can be a little bit more difficult to test, because those things only arise in certain conditions. Am saying, operational testing here, instead of non-functional testing, because I was talking to Paul Bruce who made an excellent video just on this topic. He talks about why the term nonfunctional requirement is really a bit of a misnomer.
+Operational testing sometimes involves concerns that are more subjective or qualitative. So it can be a little bit more difficult to test, because those things only arise in certain conditions. I'm saying operational testing here, instead of non-functional testing, because I was talking to Paul Bruce who made an excellent video just on this topic. He talks about why the term nonfunctional requirement is really a bit of a misnomer.
 
 PAUL: It relegates all these other things, security, performance, installation, deployment, accessibility. It relegates them to a nice to have, so it should be functional versus operational.
 
