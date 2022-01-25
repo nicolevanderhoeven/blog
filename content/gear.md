@@ -35,7 +35,7 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 - [Canon M50](https://amzn.to/3yi8VSp) (between my laptop and monitor screens, used as my main webcam)
 - [Elgato multi-mount](https://amzn.to/3A7HKdv) (holding up the M50)
 - [Blackmagic Atem Mini](https://amzn.to/3fv26FA) video switcher
-- [Røde Wireless Go](https://amzn.to/3rZfVRW) wireless microphone (main microphone, even for voice calls)
+- [Røde Wireless Go](https://amzn.to/3rZfVRW) wireless microphone (secondary microphone when I need to move around)
 - [Rødecaster Pro](https://amzn.to/3m3JeSa) for crispy audio on calls and videos
 - [Samsung Portable SSD T5, 1TB](https://amzn.to/2Vcj84H) (always connected to my laptop) the drive I edit off
 - [Macbook Pro 13" (2020)](https://amzn.to/3rZggnG), 2,3 GHz Quad-Core Intel Core i7, 32 GB RAM - main laptop
@@ -45,6 +45,7 @@ _Edit: After a reader suggested I provide links to these items, I've included th
 - [Sony A6600](https://amzn.to/3CmuLH1) with [Sigma 16mm f1.4](https://amzn.to/3xn3ZKD) lens (main shooter, used to take this shot) 
 - [Røde Wireless Go II](https://amzn.to/2Vc1A8R) two-person microphones (used as on-board camera mics)
 - [SwitchPod tripod](https://amzn.to/3fowSA0)
+- [Peak Design Travel tripod](https://www.peakdesign.com/pages/travel-tripod): Pricy, but the only full tripod I use these days. Excellent for travel!
 
 ## Other tech
 
