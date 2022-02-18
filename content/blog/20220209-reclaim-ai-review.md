@@ -7,4 +7,6 @@ tags: ['video', 'english', 'reclaim', 'productivity', 'pkm']
 
 For the last few months, I've been trying out an app called [Reclaim](https://reclaim.ai) that has been changing my mind about the feasibility of calendar blocking for time management in general.
 
+Here's my (rave) review of the app!
+
 {{< youtube cBVjpFDltvQ >}}
