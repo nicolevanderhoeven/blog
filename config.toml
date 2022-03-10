@@ -45,6 +45,11 @@ name = "Gear"
 url = "/gear"
 weight = 7
 
+[[menu.main]]
+name = "Ethics"
+url = "/ethics"
+weight = 8
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
