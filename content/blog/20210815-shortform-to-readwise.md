@@ -35,7 +35,7 @@ The screenshot above shows the final result: highlights I made in the Shortform 
 ## What you need
 
 - A [Shortform](https://shortform.com) account.
-- A [Readwise](https://readwise.io) account.
+- A [Readwise](https://readwise.io/nicole) account. _(This is an affiliate link. If you sign up with this link, you'll get a two-month free trial instead of one, and I get a small percentage if you sign up for a plan.)_
 - A tool that Readwise can export to, such as [Obsidian](https://obsidian.md), [Roam Research](https://roamresearch.com), [Notion](https://notion.so), or [Evernote](https://evernote.com). You can also use their CSV and Markdown exports.
 - A local installation of Python 3, which you can [download here](https://www.python.org/downloads/).
 
@@ -155,3 +155,5 @@ Make sure you change `/Users/nic/python/` to the path where you put the reposito
 I consume a lot of content daily, but without systems in place to capture insights from that content and process it, it all just gets forgotten eventually. That's why I love services like Shortform and Readwise-- they let me get what I've read/watched/heard out of my head and into Obsidian, where I can review them more critically and truly learn the important parts.
 
 Both are paid services (which I paid for out of my own money), but I really think they're worth it.
+
+_Note: This post contains an affiliate link for [Readwise](https://readwise.io/nicole). Clicking on that link will give you a two-month trial of Readwise, double the usual amount, and they give me a small percentage if you sign up for a plan. Check out [My Ethics Statement](https://nicolevanderhoeven.com/ethics/) to see my standards for promotions._

@@ -15,7 +15,7 @@ tags: ['english', 'text', 'obsidian', 'zettelkasten', 'taking notes', 'readwise'
 
 Almost exactly six months ago, I [wrote a blog post](https://nicolevanderhoeven.com/blog/20210206-readwise-to-obsidian/) detailing my workflow for processing content. Specifically, I wrote about how I used a python script to take my highlights from Instapaper, Kindle, Twitter, and Airr and automatically put them into Obsidian.
 
-That method worked, and you can read the original article in the link above. However, today, Readwise announced that they now have [an official Obsidian community plugin](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), and I disabled my trusty old python script for good.
+That method worked, and you can read the original article in the link above. However, today, [Readwise](https://readwise.io/nicole) announced that they now have [an official Obsidian community plugin](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work), and I disabled my trusty old python script for good.
 
 You see, although my old script worked, there were quirks-- not the least of which was that making changes to it meant programming in Python. I'm not a developer, so while I made do, it was never a painless experience. I also ran into issues with time zones and invalid characters being used in titles. So I'm thrilled to have something significantly better from Readwise itself! Here's a video from the Readwise team, or read on for instructions on how to get started.
 
@@ -157,3 +157,5 @@ If you feel similarly, head back into Plugin Options one more time and select yo
 ## Conclusion
 
 I love this new plugin! It was very much needed, because existing options for accomplishing the same thing were flawed in some way, mainly because they were community-driven-- meaning the people who created these workarounds (myself included) were "just" users who had other jobs. I'm grateful that the Readwise team has acknowledged the popularity of Obsidian and taken on the maintenance burden. I've experimented with the plugin quite a bit and haven't found any major issues so far. It is a seamless way to get the best of the content I've consumed from various sources into one single source of truth: Obsidian. I highly recommend it to anyone looking to streamline content processing and creation processes.
+
+_Note: This post contains an affiliate link for [Readwise](https://readwise.io/nicole). Clicking on that link will give you a two-month trial of Readwise, double the usual amount, and they give me a small percentage if you sign up for a plan. Check out [My Ethics Statement](https://nicolevanderhoeven.com/ethics/) to see my standards for promotions._
