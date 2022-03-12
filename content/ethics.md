@@ -52,3 +52,5 @@ I will not hesitate to delete, block, or reject comments if:
 - they are obvious attempts to promote your own product, service, or content.
 - they reveal personally identifiable information about anyone.
 
+---
+If you'd still like to support me after reading this statement, check out my [Affiliates](https://nicolevanderhoeven.com/affiliates/) page.
