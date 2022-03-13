@@ -2,7 +2,7 @@
 title: "Readwise to Obsidian"
 date: 2021-02-06T09:55:36+01:00
 draft: false
-tags: ['english', 'text', 'obsidian', 'taking notes', 'zettelkasten', 'roam research', 'python']
+tags: ['english', 'text', 'obsidian', 'taking notes', 'zettelkasten', 'roam research', 'python', 'readwise']
 ---
 {{< rawhtml >}}
 <meta property=“og:image” content="/assets/20210206-06-readwise-to-obsidian.png" />
@@ -18,7 +18,7 @@ I'm about 9 months into heavily using [Roam Research](https://roamresearch.com) 
 
 Why I'm considering switching from Roam to Obsidian is another post, probably one I'll write at the end of this experiment, when my thoughts and opinions are more solidified. For now, I want to address one of the things I struggled with when switching over: Readwise integration.
 
-[Readwise](https://readwise.io) is an app that's all about importing notes and highlights you've made from all over the internet and exporting them all into a single format. Readwise supports far more import sources than I use, but here are the ones I've got hooked up to it:
+[Readwise](https://readwise.io/nicole) is an app that's all about importing notes and highlights you've made from all over the internet and exporting them all into a single format. Readwise supports far more import sources than I use, but here are the ones I've got hooked up to it:
 
 - Instapaper (for highlights and notes on online articles)
 - Amazon Kindle (for highlights on ebooks)
@@ -118,3 +118,5 @@ Once I added the schedule as in the example above, though, it worked a treat!
 ## Conclusion
 
 This solution did require some setup at the beginning, but doesn't need any maintenance once it's going. I'm pretty happy with it as it means I can keep taking notes on various places from anywhere, and it'll all be waiting for me in my Obsidian vault whenever I'm ready to sit down and process them into my system. Thanks to nicrivard for the repo that made it possible!
+
+_Note: This post contains an affiliate link for [Readwise](https://readwise.io/nicole). Clicking on that link will give you a two-month trial of Readwise, double the usual amount, and they give me a small percentage if you sign up for a plan. Check out [My Ethics Statement](https://nicolevanderhoeven.com/ethics/) to see my standards for promotions._
