@@ -10,9 +10,13 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 ## Upcoming
 
-
+08/06   **DevOps Paradox podcast**
 
 ## 2022
+
+07/04   **[DevOps Toolkit (YouTube)](https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw)**: _TestOps - Ask Me Anything (English)._
+
+31/03   **[Gift Egwuenu (YouTube)](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA)**]: _[Working in Devrel Chat. (English).](https://nicolevanderhoeven.com/blog/20220331-working-in-devrel-chat/)_
 
 10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: _In search of the best Pokémon: Browser automation and load testing in one script with k6. (English)._
 
