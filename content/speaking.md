@@ -1,6 +1,6 @@
 ---
 title: "Speaking Engagements"
-date: 2021-01-05
+date: 2022-05-02
 draft: false
 ---
 
@@ -15,6 +15,8 @@ Looking for my slides? I've started to make my slides publicly available [here](
 02/06   **[ExpoQA Madrid](https://expoqa.com/)**: _How to be a Gish: API, browser, and chaos in one script (English)._
 
 08/06   **DevOps Paradox podcast**
+
+17/06   **[GrafanaCON 2022](https://grafana.com/go/grafanaconline/2022/demo-load-testing-with-k6/)**: _Grafana k6: Testing without Limits (English)._
 
 ## 2022
 
