@@ -10,11 +10,13 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 ## Upcoming
 
+19/05   **[Linking Your Thinking Conference](https://www.linkingyourthinking.com/conference)**: _[Use it or lose it: What to do with your notes](https://lu.ma/3m1fh781) (English)._
+
 31/05   **Grafana Labs APAC**: _Intro to k6 (English)_.
 
 02/06   **[ExpoQA Madrid](https://expoqa.com/)**: _How to be a Gish: API, browser, and chaos in one script (English)._
 
-08/06   **DevOps Paradox podcast**
+08/06   **DevOps Paradox podcast**.
 
 17/06   **[GrafanaCON 2022](https://grafana.com/go/grafanaconline/2022/demo-load-testing-with-k6/)**: _Grafana k6: Testing without Limits (English)._
 

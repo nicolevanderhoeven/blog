@@ -84,6 +84,9 @@ weight = 8
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
+    name = "patreon"
+    link = "https://patreon.com/nicolevdh"
+  [[params.social]]
     name = "twitter"
     link = "https://twitter.com/n_vanderhoeven"
   [[params.social]]
@@ -101,12 +104,3 @@ weight = 8
   [[params.social]]
     name = "github"
     link = "https://github.com/nicolevanderhoeven"
-  [[params.social]]
-    name = "mastodon"
-    link = "https://fosstodon.org/@nicole"
-  [[params.social]]
-    name = "soundcloud"
-    link = "https://racket.com/nicolevdh"
-  [[params.social]]
-    name = "instagram"
-    link = "https://www.instagram.com/luckydippers/"
