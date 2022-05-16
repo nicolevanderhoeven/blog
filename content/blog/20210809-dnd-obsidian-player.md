@@ -212,7 +212,7 @@ To finish processing the last session, I update Open Loops: I add new points or 
 
 ### Publish
 
-I also publish my D&D notes, just for transparency. My DM has joked that he looks in there sometimes when he's forgotten something. Even if he doesn't, I enjoy having my notes so easily accessible. I often navigate there myself when I have a spare moment, remembering old sessions and thinking about some loose threads. If you're interested, [here they are](https://notes.nicolevanderhoeven.com/ForgottenRealms/World)! Just be warned that the plugins won't work in the web version, so sometimes you'll come across bits of code that didn't render. I also migrated these notes from Roam Research, and haven't gone back and updated all the older notes.
+I also publish my D&D notes, just for transparency. My DM has joked that he looks in there sometimes when he's forgotten something. Even if he doesn't, I enjoy having my notes so easily accessible. I often navigate there myself when I have a spare moment, remembering old sessions and thinking about some loose threads. If you're interested, [here they are](https://notes.nicolevanderhoeven.com/TTRPGs/Order+of+the+Wandering+Mind/World)! Just be warned that the plugins won't work in the web version, so sometimes you'll come across bits of code that didn't render. I also migrated these notes from Roam Research, and haven't gone back and updated all the older notes.
 
 ## Conclusion
 
