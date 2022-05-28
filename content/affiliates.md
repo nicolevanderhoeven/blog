@@ -27,3 +27,4 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [TubeBuddy](https://www.tubebuddy.com/nicolevdh), my YouTube analytics platform
 - [Typeshare](http://typeshare.co/?via=nicole), for posting atomic essays to Twitter
 - [Canva](https://www.canva.com/join/ttv-mhj-zgx), for creating YouTube thumbnails and graphics in general
+- [Rev](http://try.rev.com/6cP3lQ), for creating captions for YouTube videos
