@@ -21,34 +21,29 @@ url = "/blog"
 weight = 2
 
 [[menu.main]]
+name = "Notes"
+url = "https://notes.nicolevanderhoeven.com"
+weight = 3
+
+[[menu.main]]
 name = "Work"
 url = "/work"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Speaking"
 url = "/speaking"
-weight = 4
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
 weight = 5
-
-[[menu.main]]
-name = "Notes"
-url = "https://notes.nicolevanderhoeven.com"
-weight = 6
 
 [[menu.main]]
 name = "Gear"
 url = "/gear"
-weight = 7
+weight = 6
 
 [[menu.main]]
 name = "Ethics"
 url = "/ethics"
-weight = 8
+weight = 7
 
 [markup]
   [markup.tableOfContents]
@@ -104,3 +99,13 @@ weight = 8
   [[params.social]]
     name = "github"
     link = "https://github.com/nicolevanderhoeven"
+
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
