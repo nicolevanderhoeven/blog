@@ -58,7 +58,7 @@ weight = 7
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io (Grafana Labs). I've spent my career making software faster as a performance engineer. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot (constantly learning TL, EN, NL, ES, EO, DE, FR, PT), and polymath. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs, but my real-life home these days is Maastricht, in the Netherlands."
+  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io (Grafana Labs). I've spent my career making software faster as a performance engineer. I'm a proud polynational (Filipino, Australian, and Dutch), polyglot (constantly learning TL, EN, NL, ES, EO, DE, FR, PT), and polymath. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Setúbal, Portugal and Maastricht, the Netherlands."
   mainSection = "blog" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
