@@ -10,11 +10,12 @@ Looking for my slides? I've started to make my slides publicly available [here](
 
 ## Upcoming
 
-08/06   **DevOps Paradox podcast**.
+
+## 2022
 
 17/06   **[GrafanaCON 2022](https://grafana.com/go/grafanaconline/2022/demo-load-testing-with-k6/)**: _Grafana k6: Testing without Limits (English)._
 
-## 2022
+08/06   **[DevOps Paradox podcast](https://www.devopsparadox.com/)**: _[Performance Testing With k6](https://nicolevanderhoeven.com/blog/20220608-performance-testing-with-k6/) (English)._
 
 02/06   **[ExpoQA Madrid](https://expoqa.com/en-sessions.html#van_der_Hoeven)**: _[How to be a Gish: API, browser, and chaos in one script](https://nicolevanderhoeven.com/blog/20220601-how-to-be-a-gish-expoqa/) (English)._
 
