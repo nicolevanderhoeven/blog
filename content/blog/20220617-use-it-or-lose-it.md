@@ -1,5 +1,5 @@
 ---
-title: How to create things with your notes"
+title: "How to create things with your notes"
 date: 2022-06-17T17:37:14+01:00
 draft: false
 tags: ['english', 'video', 'presentation', 'obsidian', 'kanban', 'personal knowledge management', 'dataview', 'templater']
