@@ -15,3 +15,11 @@ There was no recording of the conference talk, but here is a video of me going t
 {{< youtube aq0XSNcXDb0 >}}
 
 You can find the slides [here](https://slides.nicolevanderhoeven.com/2022-how-to-be-a-gish/#/).
+
+And here are some photos from the event!
+
+![Me speaking at ExpoQA 2022 in Madrid, Spain](/assets/expoqa-3.jpeg)
+
+![Me speaking at ExpoQA 2022 in Madrid, Spain](/assets/expoqa-1.jpeg)
+
+![Me speaking at ExpoQA 2022 in Madrid, Spain](/assets/expoqa-4.jpeg)

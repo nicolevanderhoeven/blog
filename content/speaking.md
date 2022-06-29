@@ -4,9 +4,9 @@ date: 2022-05-02
 draft: false
 ---
 
-Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://www.youtube.com/channel/UCrmQZ9HHnJ2qpd6udc8iYYw) I've made on various topics.
+![Me speaking at ExpoQA 2022 in Madrid, Spain](/assets/expoqa-3.jpeg)
 
-Looking for my slides? I've started to make my slides publicly available [here](https://slides.nicolevanderhoeven.com).
+Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://www.youtube.com/channel/UCrmQZ9HHnJ2qpd6udc8iYYw) I've made on various topics.
 
 ## Upcoming
 
