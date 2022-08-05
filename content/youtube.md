@@ -21,7 +21,7 @@ TOTAL: 3.51 €
 - 180 € referral fee for [Xolo](https://www.xolo.io/ref/NICVAN2)
 - 14.11 € from Ko-fi
 
-TOTAL: 536.68 €3
+TOTAL: 536.68 €
 
 ### June 2022
 
@@ -32,9 +32,16 @@ TOTAL:  611 €
 
 ### July 2022
 
-- 154.73 € from Patreon
+- 154,73 € from Patreon
 - 4,60 € from Ko-fi
-- 213,32 € from affiliates
+- 213,32 € from Readwise Affiliate Program
 - 419,41 € from Google AdSense (YouTube Partner Program)
+- 180 € referral fee for Xolo
 
-TOTAL:  € 792,06
+TOTAL:  972,06 €
+
+### August 2022
+
+- 433,83 € from Patreon
+
+TOTAL: 433,83 €
