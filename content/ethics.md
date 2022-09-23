@@ -7,6 +7,10 @@ draft: false
 
 This statement governs my principles regarding my activities as a content creator. I've made this information public for transparency, consistency, and fairness in my dealings with viewers, readers, employers, and sponsors alike. It is a list of my expectations from others, but it also a list of what others can expect from me.
 
+## Personal Information
+
+In the course of my activities, it may sometimes be necessary to collect some personal information such as email addresses, names, and other contact information from people who have chosen to subscribe to newsletters or memberships. I will only collect this information when it is necessary for the purpose of providing the service or product that have requested. I will NEVER sell or share this information with any third party without explicit consent.
+
 ## Promotions and sponsorships
 
 I've personally paid for at least 95%, if not more, of the gear and apps I use to create content. The remaining 5% have been purchased for me by previous and current employers in the course of my normal day job. These cases cover things like laptops that I am allowed to use for personal work as well. I never expense items through my employer if their primary use is for my personal projects.
@@ -36,7 +40,7 @@ I only promote a product or service if:
 - (In the case of a review) The company does NOT have any input on what I say. They don't get to see videos for approval or revisions before I publish them.
 - The company that produces it is ethical in its practices. I don't claim to know everything, but I will never knowingly promote a product from a company with deplorable practices.
 - It is open-source OR has features that make it more compelling than open-source alternatives. I always prioritize open-source tools over commercial offerings.
-- It does not directly compete with my permanent employer, Grafana Labs (and k6)-- I am under contractual obligations to avoid this conflict of interest.
+- It does not directly compete with my full-time employer, Raintank Inc. (Grafana Labs) -- I am under contractual obligations to avoid this conflict of interest.
 
 ### Unsolicited benefits
 
@@ -48,11 +52,11 @@ It's ok to disagree with me, and I especially welcome constructive feedback. I d
 
 I will not hesitate to delete, block, or reject comments if:
 - they are discriminatory in any way (racist, sexist, homophobic, transphobic, ageist, anything that involves projecting qualities onto an entire group)
-- they include swear words meant to denigrate others or express frustration. Be civil and rational in your discourse.
+- they include swear words meant to denigrate others. Be civil and rational in your discourse.
 - they are spam.
 - they are obvious attempts to promote your own product, service, or content.
 - they reveal personally identifiable information about anyone.
-
+- they constitute harassment or bullying.
 
 
 ---

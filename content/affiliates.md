@@ -11,6 +11,7 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 
 - [Readwise](https://readwise.io/nicole), for collating highlights from content
 - [Reclaim](https://reclaim.ai/r/s/yYOqK), a smart calendar blocking tool
+- [Shortform](https://shortform.com/nicole), for thoughtful and researched summaries of nonfiction books
 
 ## Learning and Professional Development
 
