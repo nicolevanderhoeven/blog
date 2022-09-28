@@ -9,7 +9,9 @@ This statement governs my principles regarding my activities as a content creato
 
 ## Personal Information
 
-In the course of my activities, it may sometimes be necessary to collect some personal information such as email addresses, names, and other contact information from people who have chosen to subscribe to newsletters or memberships. I will only collect this information when it is necessary for the purpose of providing the service or product that have requested. I will NEVER sell or share this information with any third party without explicit consent.
+In the course of my activities, it may sometimes be necessary to collect some personal information from viewers or subscribers such as email addresses, names, and other contact information from people who have chosen to subscribe to newsletters or memberships.
+
+These are always *opt-in*. I will only collect this information when it is necessary for the purpose of providing the service or product that have requested. I will NEVER sell or share this information with any third party without explicit consent.
 
 ## Promotions and sponsorships
 
@@ -50,6 +52,8 @@ Giving me a free product does not mean I am under an obligation to mention it, a
 
 It's ok to disagree with me, and I especially welcome constructive feedback. I don't delete comments that disagree with me, but be nice; I'm a person too. So are other commenters.
 
+Having said that, I look at my social media pages as MY spaces. They are not community spaces. I have the sole right to decide what is acceptable, and I can change my mind at any time.
+
 I will not hesitate to delete, block, or reject comments if:
 - they are discriminatory in any way (racist, sexist, homophobic, transphobic, ageist, anything that involves projecting qualities onto an entire group)
 - they include swear words meant to denigrate others. Be civil and rational in your discourse.
@@ -57,7 +61,7 @@ I will not hesitate to delete, block, or reject comments if:
 - they are obvious attempts to promote your own product, service, or content.
 - they reveal personally identifiable information about anyone.
 - they constitute harassment or bullying.
-
+- they are offensive.
 
 ---
 If you'd still like to support me after reading this statement, check out my [Affiliates](https://nicolevanderhoeven.com/affiliates/) page.
