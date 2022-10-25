@@ -16,7 +16,7 @@ I've always been dubious of those book summary apps. You know the ones-- they te
 
 ## What's Shortform and why is it awesome?
 
-[Shortform](https://shortform.com) really took me aback because it isn't just a book summary. I should mention here that I'm not affiliated with Shortform and gain nothing by recommending them. I'm just a happy subscriber.
+[Shortform](https://shortform.com/nicole) really took me aback because it isn't just a book summary. I should mention here that I'm not affiliated with Shortform and gain nothing by recommending them. I'm just a happy subscriber.
 
 When I read their guide for the book _Why We Sleep_, I was pleasantly surprised to find that Shortform not only summarized it succinctly, but they also added intelligent counterarguments to the author's points. In some cases, when the author made a false claim, there were Shortform notes that linked to studies that showed _why_ the claim was false. In other cases, Shortform mentioned related concepts proposed in other books that strengthened the author's viewpoint. I found myself looking up their guides of books I'd already read, just because I was curious to see if I had missed anything. And I had!
 
@@ -31,6 +31,8 @@ Naturally I wanted to take it further than that. I already [sync my Kindle highl
 _My Shortform highlights for the book Mindset, in my Obsidian vault._
 
 The screenshot above shows the final result: highlights I made in the Shortform web or mobile app that have been synced to a page in my Obsidian vault. Here's how I did that.
+
+_Note: Since this article was published, Shortform and Readwise have created an integration, so the script I mention here is no longer necessary. Click [here](/blog/20221021-obsidian-for-non-coders) to see what I'd recommend doing today._
 
 ## What you need
 
