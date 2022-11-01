@@ -77,7 +77,7 @@ The other thing that really sells it for me is the integration. Because I don't 
 
 I actually tried to solve this problem myself a year ago, because no integration existed. I [wrote a Python script](https://nicolevanderhoeven.com/blog/20210815-shortform-to-readwise/) that would take the Shortform highlights, because it has an API, and then call the Readwise API and kind of string them together. Now, that still works as far as I know, but that's not what I recommend anymore. I talked to the Readwise founders and suggested to them that Shortform was a great company to partner with. Not too long after that, they came out with [an awesome integration](https://readwise.io/changelog/shortform-import)! 
 
-1. First, sign up to both [Shortform](https://readwise.io/nicole) and [Readwise](https://readwise.io/nicole). They both have free trials, so you don't have to commit to anything just yet.
+1. First, sign up to both [Shortform](https://shortform.com/nicole) and [Readwise](https://readwise.io/nicole). They both have free trials, so you don't have to commit to anything just yet.
 2. Then, [click on this link to connect](https://readwise.io/welcome/sync#shortform) your Readwise account to Shortform.
 3. (optional) If you use Obsidian like I do, [follow these instructions](https://nicolevanderhoeven.com/blog/20210810-readwise-to-obsidian-redux/) to install the Readwise Official plugin for Obsidian.
 
