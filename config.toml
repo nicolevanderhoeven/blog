@@ -99,6 +99,9 @@ weight = 7
   [[params.social]]
     name = "github"
     link = "https://github.com/nicolevanderhoeven"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://pkm.social/@nicole"
 
 
 [related]
