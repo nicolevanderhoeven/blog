@@ -44,14 +44,16 @@
     </form> <br />
   </section>
   <section id="subscribe">
-    <div id="revue-embed">
-      <form action="https://www.getrevue.co/profile/n_vanderhoeven/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-      <div class="revue-form-group">
+    <div id="email-embed">
+      <div class="email-form-group">
         <label for="member_email">Sign up for my newsletter: </label>
-        <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-        <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+        <form action="https://o4e.nicolevanderhoeven.com/email_lists/443865/subscriptions" accept-charset="UTF-8" method="post">
+          <input type="text" name="name" placeholder="Name" />
+          <input type="email" name="email" required="required" placeholder="Email" />
+          <input type="submit" value="Sign up" />
+        </form>
       </div>
-      <div class="revue-form-footer"><i>(I send only important updates once every few months because I hate a cluttered inbox! By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>).</i></div>
+      <div class="email-form-footer"><i>(I send only important updates once every few months because I hate a cluttered inbox!</i></div>
       </form>
     </div>
   </section>
