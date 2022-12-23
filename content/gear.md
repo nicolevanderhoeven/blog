@@ -4,6 +4,7 @@ date: 2021-07-12T21:18:55+02:00
 draft: false
 tags: ['gear', 'text', 'english']
 ---
+# Gear I Use
 One of my favorite obsessions is watching or reading about the gear other people use. I've watched almost every "What's in my tech bag" video on YouTube, it feels like, and I'm always prowling blog posts that detail what someone is using. In case there's anybody out there that is as interested in these things as I am, here's an overview of the gear that I use to make videos, write both blog posts and code, and generally mess around on the internet.
 
 ## Home Office 1 (the Netherlands)
@@ -153,3 +154,42 @@ What about what I carry every day?
 - [Topo designs micro pouch](https://topodesigns.com/products/accessory-bags?variant=39887314157621): small pouch
 - [Tile Mate Pro](https://amzn.to/3LOOeoD): bluetooth tracker
 - [Trezor Model T](https://shop.trezor.io/product/trezor-model-t): hardware wallet and security key
+
+## My Remote Working Tech Bag
+
+If I need to go somewhere to work, my EDC bag won't cut it! Here's what I bring with me to work and play remotely:
+
+{{< youtube fBEJM-31cjs >}}
+
+- [Aer x Ministry of Supply Lunar Pack](https://www.aersf.com/special-projects)
+- Platypus soft bottle. [Similar here](https://amzn.to/3TWaEH1).
+- [PacSafe Retractasafe 250](https://amzn.to/3gupCGD)
+- [iWalk 10,000 mAH USB C power bank](https://www.amazon.nl/-/en/dp/B08C4WCJNP)
+- [Critical Role Nott the Brave face mask (2 pack)](https://shop.critrole.com/products/nott-the-brave-adult-face-masks-two-pack)
+- [Apple iPad Pro 11"](https://amzn.to/3TVWNAn)
+- [Apple Pencil](https://amzn.to/3GD7V2m)
+- [The Crew: Mission Deep Sea (card game)](https://amzn.to/3EmoRqQ)
+- [Kindle 2022](https://amzn.to/3VmnijP)
+- [Popsockets PopGrip](https://amzn.to/3OtmVBx)
+- [Nintendo Switch Lite](https://amzn.to/3EQy3FE)
+- [Aer Day Sling 3 X-Pac](https://www.aersf.com/day-sling-3-xpac-black)
+- [SwitchPod](https://amzn.to/3VjNsU6)
+- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/)
+- [Keychron K3 travel pouch](https://www.keychron.com/products/keychron-travel-pouch?variant=32264197701721)
+- [Nuphy Air 60 keyboard](https://amzn.to/3tMKFax)
+- [Roost laptop stand](https://amzn.to/3ElQfW8)
+- [Nedrelow Magic Sleeve](https://www.nedrelow.com/en-nl/products/magic-sleeve?variant=31842687189057)
+- [URWizards soft wool felt dice tray](https://www.etsy.com/listing/691535271/soft-wool-felt-dice-tray-soft-tray)
+- [Shure Aonic 215 wired sound isolating earbuds](https://amzn.to/3ErrRm1)
+- [Logitech MX Anywhere 3](https://amzn.to/3Ers4pj): travel mouse
+- [2 x Lexon Mino X bluetooth speakers](https://amzn.to/3GxVHId): awesome USB C-rechargeable bluetooth speakers that can be paired together
+- Logitech Spotlight Wireless Presentation Remote. [Similar here](https://amzn.to/3Exru9H).
+- 2.5mm to 3.5mm audio adapter. [Similar here](https://amzn.to/3VlynBJ).
+- [Yubico Yubikey 5C security key](https://amzn.to/3VgRYmh)
+- [Yubico Yubikey 5C nano security key](https://amzn.to/3TWQr42) (always plugged in to laptop)
+- [8Bitdo Zero 2 bluetooth Switch mini controller](https://amzn.to/3EOkTb5)
+- [Anker USB C cables](https://amzn.to/3UWDBEf)
+- USB C adapters. [Similar here](https://amzn.to/3i5MMU0).
+- [Røde Wireless Go wireless microphone system](https://amzn.to/3Vk8VMG)
+- [UGreen GaN 100W USB C charger](https://amzn.to/3AySnsE)
+- Hyper Drive USB hub. [Updated version](https://amzn.to/3UUtboq).
