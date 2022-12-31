@@ -5,22 +5,13 @@ export const options = {
     duration: '5m',
     vus: 5,
     thresholds: {
-        'group_duration{group:::Home}': ['p(90)<1000'],
-        'group_duration{group:::Notes}': ['p(90)<2000'],
         http_req_failed: ['rate<0.05'],
         checks: ['rate>0.97'],
     },
     ext: {
         loadimpact: {
           projectID: 3548222,
-          name: "nicolevdh.com",
-          distribution: {
-             europe: { loadZone: 'amazon:gb:london', percent: 20 },
-             namerica: { loadZone: 'amazon:us:ashburn', percent: 20 },
-             asia: { loadZone: 'amazon:sg:singapore', percent: 20 },
-             australia: { loadZone: 'amazon:au:sydney', percent: 20 },
-             samerica: { loadZone: 'amazon:br:sao paulo', percent: 20 },
-          }
+          name: "nicolevanderhoeven.com",
         }
     }
 };
