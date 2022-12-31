@@ -9,12 +9,3 @@ How do you go about making notes actually useful? Using notes well entails takin
 {{< youtube v7BbraqevMg >}}
 
 This video was sponsored by [Brilliant](https://brilliant.org/nicolevdh). Thanks, Brilliant! :)
-
-## Related
-
-- 📝 [Obsidian Callouts](https://notes.nicolevanderhoeven.com/Obsidian+Callouts)
-- 🎥📝 [New in Obsidian: Obsidian Callouts (available now)](/blog/20220330-new-in-obsidian-obsidian-callouts/)
-- 🎥 [Presentations as Code - how to use Obsidian Advanced Slides](/blog/20220527-presentations-as-code-advanced-slides/)
-- 🎥 [How I learn in Obsidian - keeping up with tech trends](/blog/20220812-how-i-learn-in-obsidian/)
-- 📝 [How I use Obsidian at work](https://nicolevanderhoeven.com/blog/20210518-how-i-use-obsidian-at-work/)
-- 🎥 [Use it or lose it - Linking Your Thinking conference](/blog/20220519-use-it-or-lose-it/) (presentation)

@@ -84,12 +84,5 @@ If you're interested in doing this for yourself, here are some resources that mi
 - [Mastodon official API](https://docs.joinmastodon.org/api/)
 - Great video tutorial series by [The Coding Train](https://www.youtube.com/watch?v=sKSxBd56H70) on creating a Mastodon bot
 
-## Related
-
-- 📝 [Readwise to Obsidian (Redux)](/blog/20210810-readwise-to-obsidian-redux/)
-- 🎥 [How to process notes in Obsidian - Readwise Official Obsidian plugin](/blog/20220323-how-to-process-notes-in-obsidian-with-readwise/)
-- 🎥 [I can finally tell you about Readwise Reader](/blog/20220907-what-is-readwise-reader/)
-- 📝🎥 [Taking better notes from books: Shortform-Readwise-Obsdian](/blog/20221028-taking-better-notes-from-books-shortform-review/)]
-- 🎥 [Reading and taking notes on Kindle and Obsidian](/blog/20221216-reading-and-taking-notes-on-kindle-and-obsidian/)
 
 _Note: I've included affiliate links for [Readwise](https://readwise.io/nicole) in this post, in accordance with my [Ethics Statement](https://nicolevanderhoeven.com/ethics/)._

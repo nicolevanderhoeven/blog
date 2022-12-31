@@ -58,9 +58,9 @@ weight = 7
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io (Grafana Labs). I've spent my career making software faster as a performance engineer. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Portugal and the Netherlands."
+  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io (Grafana Labs). I've spent my career making software faster as a performance engineer, but I'm also a YouTuber. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Portugal and the Netherlands."
   mainSection = "blog" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
@@ -79,29 +79,32 @@ weight = 7
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "patreon"
-    link = "https://patreon.com/nicolevdh"
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/n_vanderhoeven"
-  [[params.social]]
-    name = "email"
-    link = "nicole@nicolevanderhoeven.com"  # no need for "mailto:" in the head
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/in/nvanderhoeven"
-  [[params.social]]
     name = "youtube"
     link = "https://youtube.com/nicolevanderhoeven"
-  [[params.social]]
-    name = "youtube"
-    link = "https://youtube.com/c/luckydippers"
   [[params.social]]
     name = "github"
     link = "https://github.com/nicolevanderhoeven"
   [[params.social]]
     name = "mastodon"
     link = "https://pkm.social/@nicole"
+  [[params.social]]
+    name = "patreon"
+    link = "https://patreon.com/nicolevdh"
+  [[params.social]]
+    name = "email"
+    link = "nicole@nicolevanderhoeven.com"  # no need for "mailto:" in the head
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/n_vanderhoeven"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/nvanderhoeven"
+  [[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/c/luckydippers"
+  [[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/c/k6test"
 
 
 [related]
