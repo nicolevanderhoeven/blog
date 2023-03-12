@@ -10,6 +10,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _Emergent Load Testing: Rules for Organized Chaos_ (English).
+
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: _The Lost Art of Taking Good Notes (English)_.
 
 ## 2022
