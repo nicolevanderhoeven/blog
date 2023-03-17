@@ -54,7 +54,6 @@ export function Notes () {
             ['GET', 'https://publish.obsidian.md/app.js?0baafbfed92e71ff3ff7'],
             ['GET', 'https://publish.obsidian.md/app.css?0baafbfed92e71ff3ff7'],
             ['GET', 'https://publish.obsidian.md/lib/purify.min.js'],
-            ['GET', 'https://publish.obsidian.md/public/fonts/450beda71fb8564202a0.woff2'],
             ['GET', 'https://publish-01.obsidian.md/options/186a0d1b800fa85e50d49cb464898e4c'],
             ['GET', 'https://publish-01.obsidian.md/cache/186a0d1b800fa85e50d49cb464898e4c'],
             ['GET', 'https://publish.obsidian.md/favicon.ico?0baafbfed92e71ff3ff7'],
@@ -62,11 +61,9 @@ export function Notes () {
             ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/publish.css'],
             ['GET', 'https://publish.obsidian.md/lib/pixi.min.js'],
             ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/Fork%20My%20Brain.md'],
-            ['GET', 'https://publish.obsidian.md/public/fonts/b0b9c035692f884e8635.woff2'],
             ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/assets/profile-token.png'],
             ['GET', 'https://publish.obsidian.md/lib/prism.min.js'],
             ['GET', 'https://publish.obsidian.md/public/images/874d8b8e340f75575caa.svg'],
-            ['GET', 'https://publish.obsidian.md/public/fonts/856e8f46fd911d2040c3.woff2'],
             ['GET', 'https://publish.obsidian.md/sim.js'],
         ]);
         check(res, {
