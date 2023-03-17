@@ -41,7 +41,7 @@ export function Home () {
             ['GET', 'https://nicolevanderhoeven.github.io/images/favicon.ico']
         ]);
         check(res, {
-            'Homepage text verification': (r) => JSON.stringify(r).includes('Maastricht')
+            'Homepage text verification': (r) => JSON.stringify(r).includes('Portugal')
         });
     });
 }
