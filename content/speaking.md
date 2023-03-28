@@ -18,6 +18,10 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: _The Lost Art of Taking Good Notes (English)_.
 
+## 2023
+
+26/03   **[The Informed Life Podcast](https://theinformed.life/)**: _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
+
 ## 2022
 
 10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: [_In search of the best Pokémon: Browser automation and load testing in one script with k6.](https://nicolevanderhoeven.com/blog/20220210-in-search-of-the-best-pokemon/) (English)._

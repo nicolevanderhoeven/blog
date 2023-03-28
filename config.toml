@@ -45,6 +45,11 @@ name = "Ethics"
 url = "/ethics"
 weight = 7
 
+[[menu.main]]
+name = "Course"
+url = "https://courses.nicolevanderhoeven.com/o4e"
+weight = 8
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
