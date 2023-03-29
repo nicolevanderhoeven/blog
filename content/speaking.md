@@ -24,7 +24,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## 2022
 
-10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: [_In search of the best Pokémon: Browser automation and load testing in one script with k6.](https://nicolevanderhoeven.com/blog/20220210-in-search-of-the-best-pokemon/) (English)._
+10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)**: _[In search of the best Pokémon: Browser automation and load testing in one script with k6.](https://nicolevanderhoeven.com/blog/20220210-in-search-of-the-best-pokemon/) (English)._
 
 31/03   **[Gift Egwuenu (YouTube)](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA)**]: _[Working in Devrel Chat. (English).](https://nicolevanderhoeven.com/blog/20220331-working-in-devrel-chat/)_
 
