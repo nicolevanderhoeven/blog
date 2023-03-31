@@ -8,6 +8,21 @@ What is the future of Obsidian? The new Obsidian CEO, Stephan Ango (@kepano), ta
 
 {{< youtube TkNTuFF2t-c >}}
 
+## Key takeaways
+
+10 notable points raised in the video were:
+
+- Stephan thinks the proliferation of tools for thought is a positive thing, in that every new tool that uses Markdown makes the standard more futureproof.
+- Obsidian's three major pillars are extensibility, privacy, and longevity. Those are things Obsidian excels at.
+- The things Obsidian is bad at are the consequences of those three major pillars (such as fragmentation, difficulty in sharing, and being restricted to Markdown).
+- The Obsidian team consists of five full-time people, including founders Licat (Shida, dev) and Silver (Erica, product), Liam (dev of Calendar plugin), and Joethei (plugin reviews and dev ecosystem).
+- Upcoming features: better metadata format than YAML (think something like Dataview inline fields), better querying of tasks
+- Stephan wants to keep the Obsidian team small, and grow only when absolutely necessary.
+- It's difficult to get exact usage figures for Obsidian, but going by downloads of the app bundle, there are about 1 million users.
+- The Obsidian team doesn't want to bring on venture capital investors.
+- Better sharing in Obsidian is something they're thinking about, but they need to prioritize use cases.
+- Artificial intelligence in Obsidian is likely to remain in the realm of community plugins for now.
+
 Below is a transcript of the video.
 
 ## Introductions: Nicole van der Hoeven, Stephan Ango, Andy Polaine
