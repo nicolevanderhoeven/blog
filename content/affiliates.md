@@ -12,6 +12,7 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Readwise](https://readwise.io/nicole), for collating highlights from content
 - [Reclaim](https://reclaim.ai/r/s/yYOqK), a smart calendar blocking tool
 - [Shortform](https://shortform.com/nicole), for thoughtful and researched summaries of nonfiction books
+- [Napkin.one](https://napkin.one/?via=nicole), for AI-driven tagging of highlights from Readwise
 
 ## Learning and Professional Development
 
@@ -19,7 +20,6 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Filmmaking & Storytelling with Casey Neistat](https://monthly.com/casey-neistat-filmmaking?friend=nicole-van-der-hoeven), about making videos
 - [Italki](https://www.italki.com/i/ref/fHFBb), for learning languages
 - [Skillshare](https://skl.sh/37RmSOG), for learning anything
-- [Brilliant](https://brilliant.org/nicolevdh), an app that teaches topics in the maths and sciences in bite-sized chunks
 
 ## Other Products and services I use regularly
 
@@ -28,7 +28,8 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Streamyard](https://streamyard.com?pal=4894166466428928), my streaming platform
 - [Epidemic Sound](https://www.epidemicsound.com/referral/9927mk), my source of high-quality music
 - [TubeBuddy](https://www.tubebuddy.com/nicolevdh), my YouTube analytics platform
-- [Typeshare](http://typeshare.co/?via=nicole), for posting atomic essays to Twitter
 - [Canva](https://www.canva.com/join/ttv-mhj-zgx), for creating YouTube thumbnails and graphics in general
 - [Rev](http://try.rev.com/6cP3lQ), for creating captions for YouTube videos
 - [Wise](https://wise.com/invite/u/nicolev120), for transferring money and accepting money in different currencies
+- [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSMEKZHWDOXTNPY), for learning languages in bite-sized pieces
+- [Podia](https://www.podia.com/?via=648bee), for hosting courses, digital products, communities, and newsletters
