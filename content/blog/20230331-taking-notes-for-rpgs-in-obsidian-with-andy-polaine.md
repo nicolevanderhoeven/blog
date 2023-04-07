@@ -16,6 +16,14 @@ My friend, [Andy Polaine](https://polaine.com), joins me to discuss taking notes
 - When a situation calls for many moving parts, monsters, or factions that the party might encounter, Andy uses an Adversary Roster to keep track of where everyone is.
 - Andy uses Canvas to display multiple statblocks at a time and be able to zoom in individually when necessary. He said he initially had performance issues with this approach, but those seem to be resolved now.
 
+### Resources mentioned
+
+- [DM Heroes](http://dmheroes.com/)
+- [RPG Tinker](https://rpgtinker.com/)
+- [TetraCube Statblock generator](http://tetra-cube.com/dnd/dnd-statblock.html)
+- [Sly Flourish](https://slyflourish.com) Lazy GM method for session prep
+- [Knife Theory](https://www.reddit.com/r/DnD/comments/775caq/my_friends_and_i_have_something_called_knife/)
+
 Below is a transcript of the video.
 
 ## How we met

@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _Emergent Load Testing: Rules for Organized Chaos_ (English).
+19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _[Emergent Load Testing: Rules for Organized Chaos](https://sched.co/1HyYH)_ (English).
 
 16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: _How to avoid the most common Kubernetes monitoring mistakes_ (English).
 
