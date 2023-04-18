@@ -1,6 +1,6 @@
 ---
 title: "Emergent Load Testing - rules for organized chaos"
-date: 2023-04-19T23:21:06+02:00
+date: 2023-04-19T00:21:06+02:00
 draft: false
 tags: ['english', 'presentation', 'load testing', 'kubernetes', 'performance']
 ---
