@@ -7,7 +7,21 @@ tags: ['english', 'presentation', 'load testing', 'kubernetes', 'performance']
 
 Today I spoke at [KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/) about [emergent load testing](https://sched.co/1HyYH).
 
+## Resources
+
 [Here are the slides](https://slides.nicolevanderhoeven.com/2023-emergent-load-testing/#).
+
+Below are some links to extensions and experimental modules that I mentioned:
+- [Grafana](https://grafana.com/)
+- [k6 site](https://k6.io/)
+- [k6 repo](https://github.com/grafana/k6)
+- [k6 docs](https://k6.io/docs/)
+- [k6 browser](https://k6.io/docs/using-k6-browser/overview/) (experimental module)
+- [Prometheus Remote Write](https://k6.io/docs/results-output/real-time/prometheus-remote-write/) (experimental module)
+- [k6 tracing](https://k6.io/docs/javascript-api/k6-experimental/tracing/) (experimental module)
+- [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) (extension)
+- [k6 redis](https://k6.io/docs/javascript-api/k6-experimental/redis/) (experimental module)
+- [xk6 disruptor](https://github.com/grafana/xk6-disruptor) (extension)
 
 And here's the abstract:
 
