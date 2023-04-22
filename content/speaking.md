@@ -10,8 +10,6 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _[Emergent Load Testing: Rules for Organized Chaos](https://sched.co/1HyYH)_ (English).
-
 16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: _How to avoid the most common Kubernetes monitoring mistakes_ (English).
 
 18/05   **[ObservabilityCON 2023 Sydney](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: _How to prevent issues from hitting customers by using load testing and tracing together_ (English).
@@ -21,6 +19,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 ## 2023
 
 26/03   **[The Informed Life Podcast](https://theinformed.life/)**: _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
+
+19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _[Emergent Load Testing: Rules for Organized Chaos](https://nicolevanderhoeven.com/blog/20230419-emergent-load-testing/)_ (English).
 
 ## 2022
 
