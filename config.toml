@@ -96,9 +96,6 @@ weight = 8
     name = "patreon"
     link = "https://patreon.com/nicolevdh"
   [[params.social]]
-    name = "email"
-    link = "nicole@nicolevanderhoeven.com"  # no need for "mailto:" in the head
-  [[params.social]]
     name = "twitter"
     link = "https://twitter.com/n_vanderhoeven"
   [[params.social]]
@@ -106,11 +103,10 @@ weight = 8
     link = "https://www.linkedin.com/in/nvanderhoeven"
   [[params.social]]
     name = "youtube"
-    link = "https://youtube.com/c/luckydippers"
-  [[params.social]]
-    name = "youtube"
     link = "https://youtube.com/c/k6test"
-
+[[params.social]]
+    name = "youtube"
+    link = "https://youtube.com/c/luckydippers"
 
 [related]
     threshold = 0 
