@@ -16,7 +16,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: _The Lost Art of Taking Good Notes (English)_.
 
-25-27/10    **[TestCon Europe 2023](https://testcon.lt/)**: _Emergent load testing_ (English).
+25-27/10    **[TestCon Europe 2023](https://testcon.lt/)**: _Emergent load testing: Rules for Organized Chaos_ (English).
 
 6-8/11  **Workshop on Performance and Reliability** (Santiago, Chile): _(Spanish)_
 
