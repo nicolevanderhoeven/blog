@@ -28,6 +28,8 @@ jobs:
           filename: nicolevdh.js
           cloud: true
           token: ${{ secrets.K6_CLOUD_API_TOKEN }}
+          flags: --env K6_BROWSER_ENABLED=true
+        env:
           K6_BROWSER_ENABLED: true
   # This workflow contains a single job called "build"
   build:
