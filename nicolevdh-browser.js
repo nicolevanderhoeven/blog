@@ -15,7 +15,7 @@ export default function () {
 }
 
 export async function browser () {
-    const browser = chromium.launch({ headless: false });
+    const browser = chromium.launch({ headless: true });
     const page = browser.newPage();
 
     await page.goto('https://nicolevanderhoeven.com');
