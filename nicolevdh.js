@@ -1,12 +1,35 @@
-import http, { batch } from 'k6/http';
-import { sleep, check, group } from 'k6';
+import { main } from './nicolevdh-protocol.js';
+import { browser } from './nicolevdh-browser.js';
 
 export const options = {
-    duration: '5m',
-    vus: 5,
     thresholds: {
         http_req_failed: ['rate<0.05'],
         checks: ['rate>0.97'],
+        webvital_cumulative_layout_shift: ['p(75)<0.1'],
+        webvital_largest_content_paint: ['p(75)<2500'],
+        checks: ['rate>0.97'],
+    },
+    scenarios: {
+        protocol: {
+            executor: 'ramping-vus',
+            exec: 'protocol',
+            startVUs: 0,
+            stages: [
+                { duration: '1m', target: 10 },
+                { duration: '1m', target: 10 },
+                { duration: '1m', target: 0},
+            ]
+        },
+        frontend: {
+            executor: 'ramping-vus',
+            exec: 'frontend',
+            startVUs: 0,
+            stages: [
+                { duration: '1m', target: 1 },
+                { duration: '1m', target: 3 },
+                { duration: '1m', target: 0}
+            ]
+        }
     },
     ext: {
         loadimpact: {
@@ -16,62 +39,10 @@ export const options = {
     }
 };
 
-const domain = 'https://nicolevanderhoeven.com';
-export default function () {
-    Home();
-    ThinkTime();
-    Notes();
-    ThinkTime();
+export function protocol () {
+    main();
 }
 
-export function Home () {
-
-    group('Home', function () {
-        
-        let res = http.batch([
-            ['GET', domain],
-            ['GET', 'https://nicolevanderhoeven.github.io/css/style-dark.css'],
-            ['GET', domain + '/lib/font-awesome/css/all.min.css'],
-            ['GET', domain + '/lib/jquery/jquery.min.js'],
-            ['GET', domain + '/js/main.js'],
-            ['GET', 'https://nicolevanderhoeven.github.io/images/logo.png'],
-            ['GET', domain + '/lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf'],
-            ['GET', domain + '/lib/font-awesome/webfonts/fa-brands-400.woff2'],
-            ['GET', domain + '/lib/font-awesome/webfonts/fa-solid-900.woff2'],
-            ['GET', 'https://nicolevanderhoeven.github.io/images/favicon.ico']
-        ]);
-        check(res, {
-            'Homepage text verification': (r) => JSON.stringify(r).includes('Portugal')
-        });
-    });
-}
-
-export function Notes () {
-    
-    group("Notes", function () {
-        let res = http.batch([
-            ['GET', 'https://notes.nicolevanderhoeven.com/'],
-            ['GET', 'https://publish.obsidian.md/app.js?0baafbfed92e71ff3ff7'],
-            ['GET', 'https://publish.obsidian.md/app.css?0baafbfed92e71ff3ff7'],
-            ['GET', 'https://publish.obsidian.md/lib/purify.min.js'],
-            ['GET', 'https://publish-01.obsidian.md/options/186a0d1b800fa85e50d49cb464898e4c'],
-            ['GET', 'https://publish-01.obsidian.md/cache/186a0d1b800fa85e50d49cb464898e4c'],
-            ['GET', 'https://publish.obsidian.md/favicon.ico?0baafbfed92e71ff3ff7'],
-            ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/obsidian.css'],
-            ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/publish.css'],
-            ['GET', 'https://publish.obsidian.md/lib/pixi.min.js'],
-            ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/Fork%20My%20Brain.md'],
-            ['GET', 'https://publish-01.obsidian.md/access/186a0d1b800fa85e50d49cb464898e4c/assets/profile-token.png'],
-            ['GET', 'https://publish.obsidian.md/lib/prism.min.js'],
-            ['GET', 'https://publish.obsidian.md/public/images/874d8b8e340f75575caa.svg'],
-            ['GET', 'https://publish.obsidian.md/sim.js'],
-        ]);
-        check(res, {
-            'Notes page text verification': (r) => JSON.stringify(r).includes('my working notes')
-        });
-    });
-}
-
-export function ThinkTime() {
-    sleep(Math.random() * 5);
+export function frontend () {
+    browser();
 }
