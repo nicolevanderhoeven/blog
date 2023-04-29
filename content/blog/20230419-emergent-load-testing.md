@@ -7,6 +7,8 @@ tags: ['english', 'presentation', 'load testing', 'kubernetes', 'performance']
 
 Today I spoke at [KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/) about [emergent load testing](https://sched.co/1HyYH). 
 
+{{< youtube Og4-Z6j_0M0 >}}
+
 ![Me just before the presentation, with the opening slide on the screen behind me.](/assets/img_3556.jpg)
 
 ## Resources
