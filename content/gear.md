@@ -193,3 +193,36 @@ If I need to go somewhere to work, my EDC bag won't cut it! Here's what I bring 
 - [Røde Wireless Go wireless microphone system](https://amzn.to/3Vk8VMG)
 - [UGreen GaN 100W USB C charger](https://amzn.to/3AySnsE)
 - Hyper Drive USB hub. [Updated version](https://amzn.to/3UUtboq).
+
+## My Remote Work Setup for a month
+
+Here's what I bring with me when I need to be able to work while travelling continuously for a month. This setup lets me create videos, run livestreams, do programming work, and do presentations at conferences with minimal bulk and maximal functionality.
+
+![Snapshot of my actual setup at a hotel in Frankfurt](/assets/travel-setup-20230430_220231.jpg)
+
+- Platypus soft bottle. [Similar here](https://amzn.to/3TWaEH1).
+- [Samsung Galaxy Active 2](https://amzn.to/3xX8y1A): my smartwatch
+- Le Chivée USB C portable wireless charger for Samsung Galaxy Active 2 watch. [Similar here](https://amzn.to/3AQWEaw).
+- [Bose QuietComfort Earbuds II](https://amzn.to/3p6OHLJ). 
+- [Apple iPad Pro 11"](https://amzn.to/3TVWNAn).
+- [Apple Pencil](https://amzn.to/3GD7V2m)
+- [Nedrelow Magic Sleeve](https://www.nedrelow.com/en-nl/products/magic-sleeve?variant=31842687189057)
+- 3 x [Dispel Dice](https://dispeldice.com) d20s.
+- [Nuphy Air 60 keyboard](https://amzn.to/3tMKFax)
+- Logitech Spotlight Wireless Presentation Remote. [Similar here](https://amzn.to/3Exru9H).
+- [Apple Magic Trackpad](https://amzn.to/3LSN2T4).
+- [2 x Lexon Mino X bluetooth speakers](https://amzn.to/3GxVHId): awesome USB C-rechargeable bluetooth speakers that can be paired together
+- [Røde Wireless Go wireless microphone system](https://amzn.to/3Vk8VMG)
+- [Roost laptop stand](https://amzn.to/3ElQfW8)
+- [Macbook Pro 13" (2020)](https://amzn.to/3rZggnG), 2,3 GHz Quad-Core Intel Core i7, 32 GB RAM - main laptop
+- [Yubico Yubikey 5C nano security key](https://amzn.to/3TWQr42) (always plugged in to laptop)
+- [Sony A6600](https://amzn.to/3CmuLH1) with [Sigma 16mm f1.4](https://amzn.to/3xn3ZKD) lens (main shooter)
+- [Peak Design Travel tripod](https://www.peakdesign.com/pages/travel-tripod): Pricy, but the only full tripod I use these days. Excellent for travel!
+- [Elgato Cam Link 4K](https://amzn.to/3AWv0Zv).
+- USB C adapters. [Similar here](https://amzn.to/3i5MMU0).
+- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/)
+- [Anker USB C cables](https://amzn.to/3UWDBEf)
+- [Lume Cube Panel Mini](https://amzn.to/41Zm7KV) LED light.
+- [Joby Gorillapod GripTight Smartphone Micro Tripod](https://amzn.to/3ClU7Xz): tripod for Lume Cube
+- Samsung X5 2TB SSD. [Better here - T7](https://amzn.to/3VqqlIY).
+- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone, used to take this photo
