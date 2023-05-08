@@ -226,3 +226,4 @@ Here's what I bring with me when I need to be able to work while travelling cont
 - [Joby Gorillapod GripTight Smartphone Micro Tripod](https://amzn.to/3ClU7Xz): tripod for Lume Cube
 - Samsung X5 2TB SSD. [Better here - T7](https://amzn.to/3VqqlIY).
 - [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone, used to take this photo
+- (not pictured, but since added) [Logitech POP Mouse](https://amzn.to/3VL52Cc): travel mouse, even though I hate that it requires an AA battery.

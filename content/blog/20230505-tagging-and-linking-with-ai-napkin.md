@@ -12,4 +12,4 @@ In this video, I demonstrate my workflow for tagging and linking with AI using t
 
 - [Napkin](https://napkin.one/?via=nicole)
 - [Readwise](https://readwise.io/nicole)
-- The Lost Art of Taking Good Notes, [my talk at EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)
+- *The Lost Art of Taking Good Notes*, [my talk at EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)
