@@ -1,5 +1,5 @@
 ---
-title: "Tagging and Linking With AI Napkin"
+title: "Tagging and Linking With AI: Napkin"
 date: 2023-05-05T00:58:39+08:00
 draft: false
 tags: ['napkin', 'obsidian', 'video', 'english', 'pkm', 'ai']
