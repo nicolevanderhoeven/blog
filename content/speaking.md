@@ -24,9 +24,9 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: (Amsterdam, the Netherlands) _[Emergent Load Testing: Rules for Organized Chaos](/blog/20230419-emergent-load-testing/)_ (English).
 
-16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: (Singapore) _How to avoid the most common Kubernetes monitoring mistakes_ (English).
+16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: (Singapore) _[How to avoid the most common Kubernetes monitoring mistakes](/blog/20230516-how-to-avoid-the-most-common-kubernetes-monitoring-mistakes/)_ (English).
 
-18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _How to prevent issues from hitting customers by using load testing and tracing together_ (English).
+18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _[How to prevent issues from hitting customers by using load testing and tracing together](/blog/20230518-how-to-prevent-issues-from-hitting-customers-by-using-load-testing-and-tracing-together/)_ (English).
 
 ## 2022
 
