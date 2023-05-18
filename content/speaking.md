@@ -10,21 +10,23 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: _How to avoid the most common Kubernetes monitoring mistakes_ (English).
-
-18/05   **[ObservabilityCON 2023 Sydney](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: _How to prevent issues from hitting customers by using load testing and tracing together_ (English).
-
-14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: _The Lost Art of Taking Good Notes (English)_.
+14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: (Antwerp, Belgium) _The Lost Art of Taking Good Notes (English)_.
 
 25-27/10    **[TestCon Europe 2023](https://testcon.lt/)**: _Emergent load testing: Rules for Organized Chaos_ (English).
 
 6-8/11  **Workshop on Performance and Reliability** (Santiago, Chile): _(Spanish)_
 
+13-16/11 **[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/)** (Potsdam, Germany): _(English)_
+
 ## 2023
 
-26/03   **[The Informed Life Podcast](https://theinformed.life/)**: _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
+26/03   **[The Informed Life Podcast](https://theinformed.life/)**: (online) _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
 
-19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: _[Emergent Load Testing: Rules for Organized Chaos](/blog/20230419-emergent-load-testing/)_ (English).
+19/04   **[KubeCon EU 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/)**: (Amsterdam, the Netherlands) _[Emergent Load Testing: Rules for Organized Chaos](/blog/20230419-emergent-load-testing/)_ (English).
+
+16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: (Singapore) _How to avoid the most common Kubernetes monitoring mistakes_ (English).
+
+18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _How to prevent issues from hitting customers by using load testing and tracing together_ (English).
 
 ## 2022
 
@@ -36,7 +38,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 19/05   **[Linking Your Thinking Conference](https://www.linkingyourthinking.com/conference)**: _[Use it or lose it: What to do with your notes](/blog/20220519-use-it-or-lose-it/) (English)._
 
-02/06   **[ExpoQA Madrid](https://expoqa.com/en-sessions.html#van_der_Hoeven)**: _[How to be a Gish: API, browser, and chaos in one script](/blog/20220601-how-to-be-a-gish-expoqa/) (English)._
+02/06   **[ExpoQA Madrid](https://expoqa.com/en-sessions.html#van_der_Hoeven)**: (Madrid, Spain) _[How to be a Gish: API, browser, and chaos in one script](/blog/20220601-how-to-be-a-gish-expoqa/) (English)._
 
 08/06   **[DevOps Paradox podcast](https://www.devopsparadox.com/)**: _[Performance Testing With k6](/blog/20220608-performance-testing-with-k6/) (English)._
 
