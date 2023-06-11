@@ -198,7 +198,7 @@ If I need to go somewhere to work, my EDC bag won't cut it! Here's what I bring 
 
 Here's what I bring with me when I need to be able to work while travelling continuously for a month. This setup lets me create videos, run livestreams, do programming work, and do presentations at conferences with minimal bulk and maximal functionality.
 
-![Snapshot of my actual setup at a hotel in Frankfurt](/assets/travel-setup-20230430_220231.jpg)
+{{< youtube bV6mR6UwE90>}}
 
 - Platypus soft bottle. [Similar here](https://amzn.to/3TWaEH1).
 - [Samsung Galaxy Active 2](https://amzn.to/3xX8y1A): my smartwatch
@@ -227,3 +227,5 @@ Here's what I bring with me when I need to be able to work while travelling cont
 - Samsung X5 2TB SSD. [Better here - T7](https://amzn.to/3VqqlIY).
 - [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone, used to take this photo
 - (not pictured, but since added) [Logitech POP Mouse](https://amzn.to/3VL52Cc): travel mouse, even though I hate that it requires an AA battery.
+
+![Snapshot of my actual setup at a hotel in Frankfurt](/assets/travel-setup-20230430_220231.jpg)
