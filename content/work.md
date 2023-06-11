@@ -5,13 +5,15 @@ draft: false
 ---
 
 # Places I've worked
-## k6.io (2020-Present)
-### Developer Advocate (Performance Testing)
+## Grafana Labs (2020-Present)
+### Senior Developer Advocate (Performance Testing)
 _(remote)_
 
 I joined [k6.io](https://k6.io) in November 2020 as a Developer Advocate, specializing in Performance Testing. k6 is a [free and open source tool](https://github.com/loadimpact/k6) for load testing, with the goal of making the process as developer-friendly as possible. The company also has a related SaaS platform, [k6 Cloud](https://k6.io/cloud), which is an easy way to scale up load tests on the cloud.
 
 I make a lot of content on the k6 [YouTube](https://www.youtube.com/c/k6test) channel, starting with my [Week of Testing](https://www.youtube.com/playlist?list=PLJdv3RhAQXNHsC8OOV3ZjwZvC9tRoAYF2) videos that I made in my real first week to document how I learned the k6 ecosystem. I co-host a weekly livestream I thought up, called [k6 Office Hours](https://www.youtube.com/watch?v=I-NtzkxdzyA&list=PLJdv3RhAQXNE1TFXn2pp9h_Ul1q_kJrEZ), where we talk about different ways to use k6 to improve application performance. I speak at [conferences](/speaking), engage with the community, and generally try out new things and tell people how cool k6 is.
+
+k6 was acquired by [Grafana Labs](https://grafana.com) in May 2021, and I'm now part of the Grafana Labs Developer Advocacy team. I'm slowly expanding my work to encompass other products in the Grafana Labs family in addition to k6.
 
 _#k6_
 
