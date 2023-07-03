@@ -1,6 +1,6 @@
 ---
 title: "How I Structure My Obsidian Vault (Obsidian Tour 2023)"
-date: 2023-07-03T18:00:09+01:00
+date: 2023-06-23T18:00:09+01:00
 draft: false
 tags: ['video', 'english', 'obsidian', 'pkm']
 ---
