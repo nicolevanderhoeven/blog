@@ -1,5 +1,5 @@
 ---
-title: "Getting started in testing (Adobo & Avocados #2)"
+title: "Getting started in testing (Adobo & Avocados #02)"
 date: 2023-05-03T21:22:18+08:00
 draft: false
 tags: ['adobo and avocados', 'video', 'english', 'tech', 'culture', 'diversity', 'testing', 'performance', 'developer advocacy', 'startup', 'blockchain']

@@ -1,5 +1,5 @@
 ---
-title: "Why monoculture is problematic for quality with Callum Akehurst-Ryan (A&A #9)"
+title: "Why monoculture is problematic for quality with Callum Akehurst-Ryan (Adobo & Avocados #9)"
 date: 2023-07-19T21:16:32+02:00
 draft: false
 tags: ['adobo and avocados', 'video', 'english', 'tech', 'culture', 'testing', 'diversity']

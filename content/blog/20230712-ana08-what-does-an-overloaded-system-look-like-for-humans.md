@@ -1,5 +1,5 @@
 ---
-title: "What does an overloaded system look like for humans? (A&A #8)"
+title: "What does an overloaded system look like for humans? (Adobo & Avocados #08)"
 date: 2023-07-12T21:13:41+02:00
 draft: false
 tags: ['adobo & avocados', 'english', 'video', 'performance testing', 'burnout']

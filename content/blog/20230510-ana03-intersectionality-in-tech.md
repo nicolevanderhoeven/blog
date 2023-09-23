@@ -1,5 +1,5 @@
 ---
-title: "Intersectionality in Tech (Adobo & Avocados #3)"
+title: "Intersectionality in Tech (Adobo & Avocados #03)"
 date: 2023-05-10T21:35:00+08:00
 draft: false
 tags: ['adobo and avocados', 'video', 'english', 'tech', 'culture', 'diversity', 'testing', 'performance', 'developer advocacy', 'intersectionality', 'career']

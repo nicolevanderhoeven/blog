@@ -1,5 +1,5 @@
 ---
-title: "10 tips for starting (or progressing) a career in tech (Adobo & Avocados #4)"
+title: "10 tips for starting (or progressing) a career in tech (Adobo & Avocados #04)"
 date: 2023-06-07T8:00:25+02:00
 draft: false
 tags: ['adobo and avocados', 'video', 'english', 'tech', 'culture', 'testing',  'developer advocacy', 'career', 'pkm']

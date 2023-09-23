@@ -1,5 +1,5 @@
 ---
-title: "How we got into tech (Adobo & Avocados #1)"
+title: "How we got into tech (Adobo & Avocados #01)"
 date: 2023-03-29T14:54:43+01:00
 draft: false
 tags: ['adobo and avocados', 'video', 'english', 'tech', 'culture', 'diversity', 'testing', 'performance', 'developer advocacy']
