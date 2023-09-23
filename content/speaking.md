@@ -12,8 +12,6 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 25-27/10    **[TestCon Europe 2023](https://testcon.lt/)**: _Emergent load testing: Rules for Organized Chaos_ (English).
 
-6-8/11  **Workshop on Performance and Reliability** (Santiago, Chile): _(Spanish)_
-
 13-16/11 **[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/)** (Potsdam, Germany): _(English)_
 
 ## 2023
