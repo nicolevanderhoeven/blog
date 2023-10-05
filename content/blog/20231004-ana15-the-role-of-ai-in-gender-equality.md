@@ -1,5 +1,5 @@
 ---
-title: "The Role of AA in Gender Equality (Adobo & Avocados #15)"
+title: "The Role of AI in Gender Equality (Adobo & Avocados #15)"
 date: 2023-10-04T17:26:14+02:00
 draft: false
 tags: ['adobo & avocados', 'video', 'english', 'diversity', 'testing', 'ai', 'gender']
