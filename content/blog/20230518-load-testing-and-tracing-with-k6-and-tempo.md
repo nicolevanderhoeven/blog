@@ -11,7 +11,7 @@ At [ObservabilityCON on the Road 2023 in Sydney, Australia](https://grafana.com/
 
 ## Resources
 
-- [Check out the slides here](https://docs.google.com/presentation/d/1YVn7IgDpaCrzF_5sGzd0xr9C0Mt7QDxpsRzHypCdR4w/edit?usp=sharing)
+- [Check out the slides here](https://docs.google.com/presentation/d/1rC8kifF6X1ZSH8jgh-yUp6NfgK_UaLiOG8TWLa5dQBQ/edit?usp=sharing)
 - [Distributed tracing](https://notes.nicolevanderhoeven.com/Distributed+tracing) (notes)
 - [xk6-distributed-tracing](https://notes.nicolevanderhoeven.com/xk6-distributed-tracing) (notes)
 
