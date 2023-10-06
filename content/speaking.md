@@ -22,7 +22,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 16/05   **[ObservabilityCON 2023 Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/)**: (Singapore) _[How to avoid the most common Kubernetes monitoring mistakes](/blog/20230516-how-to-avoid-the-most-common-kubernetes-monitoring-mistakes/)_ (English).
 
-18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _[How to prevent issues from hitting customers by using load testing and tracing together](/blog/20230518-how-to-prevent-issues-from-hitting-customers-by-using-load-testing-and-tracing-together/)_ (English).
+18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _[How to prevent issues from hitting customers by using load testing and tracing together](/blog/20230518-load-testing-and-tracing-with-k6-and-tempo/)_ (English).
 
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: (Antwerp, Belgium) _[The Lost Art of Taking Good Notes](/blog/20230614-lost-art-of-taking-good-notes) (English)_.
 
