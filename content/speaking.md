@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](https://events.pinetool.ai/3078/#sessions/100686?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](/blog/20231025-emergent-load-testing-testconeu) (English)_.
 
 16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
 
