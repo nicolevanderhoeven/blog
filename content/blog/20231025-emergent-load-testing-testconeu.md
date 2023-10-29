@@ -1,6 +1,6 @@
 ---
 title: "Emergent Load Testing - TestCon Europe 2023"
-date: 2023-10-24T20:05:36+03:00
+date: 2023-10-25T20:05:36+03:00
 draft: false
 tags: ['english', 'presentation', 'k6.io', 'grafana labs', 'testing', 'observability']
 ---
