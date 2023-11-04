@@ -1,5 +1,5 @@
 ---
-title: "Grafana Como Código (Café con Grafana #01)"
+title: "(ES) Grafana Como Código (Café con Grafana #01)"
 date: 2023-10-26T06:55:37+02:00
 draft: false
 tags: ['español', 'grafana labs', 'grafana', 'observability', 'video']
