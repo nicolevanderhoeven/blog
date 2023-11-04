@@ -10,11 +10,11 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](/blog/20231025-emergent-load-testing-testconeu) (English)_.
-
 16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
 
 ## 2023
+
+25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](/blog/20231025-emergent-load-testing-testconeu) (English)_.
 
 26/03   **[The Informed Life Podcast](https://theinformed.life/)**: (online) _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
 
