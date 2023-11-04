@@ -3,6 +3,26 @@ title: "Places I've worked"
 date: 2021-06-03
 draft: false
 ---
+## Current projects
+
+### Personal Knowledge Management (PKM)
+
+- *(video)* [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh), a YouTube channel about using Obsidian, taking notes, and general productivity.
+- *(community)* [pkm.social](https://pkm.social) is a federated Mastodon server for PKM enthusiasts that I own and manage.
+- *(notes)* [Fork My Brain](https://notes.nicolevanderhoeven.com): Obsidian Publish site with majority of my (non-confidential) notes.
+- *(code repository)* [Xio's Guide to Monsters](https://github.com/nicolevanderhoeven/xios-guide-to-monsters): 5e monsters in Markdown format, plus the code used to generate them.
+- *(code repository)* [pf2e-monsters](https://github.com/nicolevanderhoeven/pf2e-monsters): Pathfinder 2e monsters in Markdown format, plus the code used to generate them.
+- *(code repository)* [Deroamify](https://github.com/nicolevanderhoeven/deroamify): Python scripts that may be useful for those moving to Obsidian from Roam Research. I have a [full migration guide here](https://notes.nicolevanderhoeven.com/Migrating+from+Roam+to+Obsidian).
+
+### Observability, Reliability, and Software Engineering
+
+- *(video)* [Grafana Office Hours](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujrrse-cdj20RRah9hyHdxBu), a weekly livestream about Grafana Labs projects.
+- *(video, Spanish)* [Café con Grafana](https://www.youtube.com/watch?v=Kdgu2gutp7o&list=PLDGkOdUX1UjoZvjegDEDFmn0LQGtpu9sn), a weekly Spanish-language livestream about Grafana Labs projects.
+- *(video)* [Adobo & Avocados](https://www.youtube.com/@adoboandavocados), a YouTube channel about intersectionality in tech and DevRel with a weekly livestream that I do with [Marie Cruz](https://testingwithmarie.com).
+
+### Tabletop Roleplaying Games
+- *(video)* [Beyond the Character Sheet](https://www.youtube.com/channel/UCPSdZdj55-Z3S1D9gI_JrlA), a YouTube channel about tabletop roleplaying games and the players that play them, with a weekly livestream I do with [Leah Ferguson](https://leahferguson.com/).
+
 
 # Places I've worked
 ## Grafana Labs (2020-Present)
@@ -13,9 +33,9 @@ I joined [k6.io](https://k6.io) in November 2020 as a Developer Advocate, specia
 
 I make a lot of content on the k6 [YouTube](https://www.youtube.com/c/k6test) channel, starting with my [Week of Testing](https://www.youtube.com/playlist?list=PLJdv3RhAQXNHsC8OOV3ZjwZvC9tRoAYF2) videos that I made in my real first week to document how I learned the k6 ecosystem. I co-host a weekly livestream I thought up, called [k6 Office Hours](https://www.youtube.com/watch?v=I-NtzkxdzyA&list=PLJdv3RhAQXNE1TFXn2pp9h_Ul1q_kJrEZ), where we talk about different ways to use k6 to improve application performance. I speak at [conferences](/speaking), engage with the community, and generally try out new things and tell people how cool k6 is.
 
-k6 was acquired by [Grafana Labs](https://grafana.com) in May 2021, and I'm now part of the Grafana Labs Developer Advocacy team. I'm slowly expanding my work to encompass other products in the Grafana Labs family in addition to k6.
+k6 was acquired by [Grafana Labs](https://grafana.com) in May 2021, and I'm now part of the Grafana Labs Developer Advocacy team.
 
-_#k6_
+_#k6 #grafana #tempo #loki #mimir_
 
 ## flood.io (2018-2020)
 ### Performance Testing Advocate
