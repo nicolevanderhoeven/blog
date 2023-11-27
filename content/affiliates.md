@@ -10,10 +10,11 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 ## Productivity and Personal Knowledge Management
 
 - [Readwise](https://readwise.io/nicole), for collating highlights from content
-- [Reclaim](https://reclaim.ai/r/s/yYOqK), a smart calendar blocking tool
+- [Reclaim](https://go.reclaim.ai/eg0tgbamp7cb), a smart calendar blocking tool
 - [Shortform](https://shortform.com/nicole), for thoughtful and researched summaries of nonfiction books
 - [Napkin.one](https://napkin.one/?via=nicole), for AI-driven tagging of highlights from Readwise
 - [Prolific Researcher Mentorship](https://gumroad.com/a/152944339/xafyw), a five-week program about applying PKM by my friend Bianca Pereira
+- [Snipd](https://link.snipd.com/Cx7S/nicole), a podcast mobile app with cool AI features and Readwise integration
 
 ## Learning and Professional Development
 
