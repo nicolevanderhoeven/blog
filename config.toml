@@ -63,7 +63,7 @@ weight = 8
   showAllPostsArchive = true # default
 
   # Home page settings
-  description = "Hi, I'm Nicole van der Hoeven. I'm a Developer Advocate at k6.io (Grafana Labs). I've spent my career making software faster as a performance engineer, but I'm also a YouTuber. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Portugal and the Netherlands."
+  description = "Hi, I'm Nicole van der Hoeven. I'm a Senior Developer Advocate at Grafana Labs. I've spent my career making software faster as a performance engineer, but I'm also a YouTuber. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Portugal and the Netherlands."
   mainSection = "blog" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
