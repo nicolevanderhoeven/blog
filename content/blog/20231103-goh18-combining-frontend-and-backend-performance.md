@@ -11,4 +11,4 @@ In this episode of Grafana Office Hours, Developer Advocates Marie Cruz and Nico
 ## Useful links
 
 - [Open e2e Testing Initiative](https://github.com/nasa/openmct/discussions/4303)
-- [Open MCT performance Github project](https://github.com/unlikelyzero/openmct-performance )
+- [Open MCT performance Github project](https://github.com/unlikelyzero/openmct-performance)
