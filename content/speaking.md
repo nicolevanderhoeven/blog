@@ -30,6 +30,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
 
+28/11 **[Quality Bits Podcast](https://qualitybits.buzzsprout.com/2037134)**: (online) _[Performance Testing with Nicole van der Hoeven](/blog/20231128-quality-bits-performance-testing-with-nicole-van-der-hoeven/) (English)_
+
 ## 2022
 
 10/02   **[Automation Guild 2022](https://guildconferences.com/ag-2022/)** (online): _[In search of the best Pokémon: Browser automation and load testing in one script with k6.](/blog/20220210-in-search-of-the-best-pokemon/) (English)._
