@@ -1,6 +1,6 @@
 ---
-title: "What Is Grafana Scenes? with Torkel Ödegaard (Grafana Office Hours #03)"
-date: 2023-19-03T23:03:43+01:00
+title: "What Is Grafana Scenes? with Torkel Ödegaard (Grafana Office Hours #02)"
+date: 2023-06-19T23:03:43+01:00
 draft: false
 tags: ['video', 'english', 'grafana labs', 'Grafana Office Hours']
 ---
