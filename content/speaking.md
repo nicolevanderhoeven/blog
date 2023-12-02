@@ -4,7 +4,7 @@ date: 2022-05-02
 draft: false
 ---
 
-![Me speaking at ExpoQA 2022 in Madrid, Spain](/assets/expoqa-3.jpeg)
+![Me speaking at TestCon Europe 2023](/assets/JUJ_0079.jpg)
 
 Below is a list of places I've spoken at, including conferences, events, and podcasts. You might also be interested in watching some [videos](https://www.youtube.com/channel/UCrmQZ9HHnJ2qpd6udc8iYYw) I've made on various topics.
 
