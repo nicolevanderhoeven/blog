@@ -10,11 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-<<<<<<< HEAD
-16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
-=======
 
->>>>>>> a9f1951 (Update speaking page)
 
 ## 2023
 

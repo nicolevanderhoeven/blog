@@ -7,3 +7,7 @@ tags: ['grafana labs', 'grafana office hours', 'observability', 'english', 'vide
 My friend [Marie Cruz](https://testingwithmarie.com) and I chat with Software Engineers Kostas Pelelis and Marco Schaefer to discuss what Grafana Faro is, why it's important to have a real user monitoring solution, and how to get started with it.
 
 {{< youtube lUYj28znIu8 >}}
+
+## Useful links
+- [Frontend observability docs](https://grafana.com/docs/grafana-cloud/monitor-applications/frontend-observability/)
+- [Grafana Faro repo](https://github.com/grafana/faro-web-sdk)
