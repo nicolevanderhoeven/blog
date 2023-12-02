@@ -26,9 +26,9 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: (Antwerp, Belgium) _[The Lost Art of Taking Good Notes](/blog/20230614-lost-art-of-taking-good-notes) (English)_.
 
-25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](https://events.pinetool.ai/3078/#sessions/100686?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](/blog/20231025-emergent-load-testing-testconeu/) (English)_.
 
-16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
+16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](/blog/20231116-adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
 
 28/11 **[Quality Bits Podcast](https://qualitybits.buzzsprout.com/2037134)**: (online) _[Performance Testing with Nicole van der Hoeven](/blog/20231128-quality-bits-performance-testing-with-nicole-van-der-hoeven/) (English)_
 
