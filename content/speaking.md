@@ -10,7 +10,11 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+<<<<<<< HEAD
 16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
+=======
+
+>>>>>>> a9f1951 (Update speaking page)
 
 ## 2023
 
@@ -25,6 +29,10 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 18/05   **[ObservabilityCON 2023 Australia](https://grafana.com/about/events/observabilitycon/2023/sydney/)**: (Sydney, Australia) _[How to prevent issues from hitting customers by using load testing and tracing together](/blog/20230518-load-testing-and-tracing-with-k6-and-tempo/)_ (English).
 
 14/06   **[EuroSTAR 2023](https://conference.eurostarsoftwaretesting.com/event/2023/the-lost-art-of-taking-good-notes/)**: (Antwerp, Belgium) _[The Lost Art of Taking Good Notes](/blog/20230614-lost-art-of-taking-good-notes) (English)_.
+
+25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](https://events.pinetool.ai/3078/#sessions/100686?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+
+16/11 **[Agile Testing Days](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Adobo and Avocados: Intersectionality in Tech and DevRel](https://agiletestingdays.com/2023/session/adobo-and-avocados-intersectionality-in-tech-and-devrel/) (English)_
 
 ## 2022
 
