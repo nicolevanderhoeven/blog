@@ -1,5 +1,5 @@
 ---
-title: "Performance Testing With Nicole Van Der Hoeven (Quality Bits Podcast)"
+title: "Performance Testing With Nicole van der Hoeven (Quality Bits Podcast)"
 date: 2023-11-28T14:01:35+01:00
 draft: false
 tags: ['performance', 'testing', 'load testing', 'podcast', 'audio', 'english']
