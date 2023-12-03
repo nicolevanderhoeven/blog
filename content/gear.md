@@ -7,7 +7,57 @@ tags: ['gear', 'text', 'english']
 # Gear I Use
 One of my favorite obsessions is watching or reading about the gear other people use. I've watched almost every "What's in my tech bag" video on YouTube, it feels like, and I'm always prowling blog posts that detail what someone is using. In case there's anybody out there that is as interested in these things as I am, here's an overview of the gear that I use to make videos, write both blog posts and code, and generally mess around on the internet.
 
+## Sections
+
+There's a lot here! I've broken it down into sections, so you can skip to the section you're interested in.
+
+- [Daily hardware](#daily-hardware)
+- [Home Office 1](#home-office-1-the-netherlands)
+- [Home Office 2](#home-office-2-portugal)
+- [Everyday Carry](#my-everyday-carry)
+- [Remote Working Tech Bag](#my-remote-working-tech-bag)
+- [Remote Work Setup for a month](#my-remote-work-setup-for-a-month)
+
+## Daily hardware
+([back to top](#sections))
+
+Here are the main devices I use every day.
+
+### Computers
+
+- [Macbook Air 15" (2023)](https://amzn.to/3uOnkJ0): 24 GB RAM, 2TB SSD, M2 chip - this is my main workhorse
+- [Macbook Pro 13" (2020)](https://amzn.to/3rZggnG): 2,3 GHz Quad-Core Intel Core i7, 32 GB RAM - secondary laptop
+- Mac Mini ([later version here](https://amzn.to/3t3B968)): M1 chip, 16GB RAM, 1 TB SSD - desktop, always on
+
+### Mobiles
+
+- [Samsung Galaxy Z Fold 5](https://amzn.to/47FaefX): 512GB - my main mobile, always with me
+- [Apple iPhone 15](https://www.apple.com/iphone-15-pro/): Pro Max - secondary mobile, always with me
+- [Samsung Galaxy Note 10+](https://amzn.to/3CfKxmH): extra mobile
+
+### Tablets
+
+- [Apple iPad Pro 11"](https://amzn.to/3CgzR7E) (2020) tablet - still works great!
+
+### Readers
+
+- [Amazon Kindle Scribe](https://amzn.to/3GrSbOc): my couch reader, for nonfiction and PDFs
+- [Amazon Kindle Oasis](https://amzn.to/3xsRwFy): my bed reader, for fiction
+- [Kobo Sage](https://amzn.to/46LEZ1k): for non-Amazon ebooks
+
+### Wearables
+
+- [Oura](https://ouraring.com/product/heritage-silver/step1): health and sleep tracking ring
+- [Samsung Galaxy Watch 6](https://amzn.to/417Szev): smartwatch
+- American Express Prada wearable (not available for purchase separately): for contactless payments 
+
+### Earbuds
+
+- [Apple AirPods Pro](https://amzn.to/47RdhBo): second generation, for Apple products
+- [Bose QuietComfort Earbuds II](https://amzn.to/3p6OHLJ): for non-Apple products
+
 ## Home Office 1 (the Netherlands)
+([back to top](#sections))
 
 ![A photo of my home office on any given day](/assets/gear-study.JPG)
 
@@ -74,7 +124,7 @@ I already listed the video-related gear on my desk in the first section above, b
 
 - [Samsung Galaxy S10](https://amzn.to/3fst7JV) (secondary phone, primarily for timelapses and overhead videos)
 - [Samsung Galaxy Wireless Buds](https://amzn.to/3lrYgkl), rose
-- [Samsung Galaxy Note 10+](https://amzn.to/3CfKxmH) (primary phone)
+- [Samsung Galaxy Note 10+](https://amzn.to/3CfKxmH)
 - [Apple Macbook Air 11"](https://amzn.to/3lotmtj) (2011, used as my presentation laptop)
 - [Apple Magic Trackpad](https://amzn.to/3inWn6g)
 - [Apple iPad Pro 11"](https://amzn.to/3CgzR7E) (2020) tablet
@@ -84,6 +134,7 @@ I already listed the video-related gear on my desk in the first section above, b
 - [Oura](https://ouraring.com/product/heritage-silver/step1) health and sleep tracking ring
 
 ## Home Office 2 (Portugal)
+([back to top](#sections))
 
 I live between two countries: the Netherlands and Portugal. Since I spend a few months in each place, that also means I need a place to work in each apartment! My home office in Portugal is larger but definitely less well-equipped. It's a little embarrassing, but I thought it would be interesting to show a more realistic, in-progress setup.
 
@@ -120,9 +171,10 @@ Why yes, I do indeed have clothes hanging on a rack behind my desk to try and so
 
 ### Not pictured
 
-- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone, used to take this photo
+- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): used to take this photo
 
 ## My everyday carry
+([back to top](#sections))
 
 What about what I carry every day?
 
@@ -130,7 +182,7 @@ What about what I carry every day?
 
 - [Samsung Galaxy Active 2](https://amzn.to/3xX8y1A): my smartwatch
 - [d20 spinner ring](https://www.etsy.com/listing/1108272100/critsuccess-d20-dice-ring-in-black): a ring that acts like a 20-sided die for roleplaying games on the go
-- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone
+- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu)
 - [Aer Day Sling 3 X-Pac](https://www.aersf.com/day-sling-3-xpac-black): my sling bag of choice
 - [Nitecore Tini 2 USB C flashlight](https://amzn.to/3fnkTp6): tiny USB-C rechargeable flashlight
 - [Nite-Ize locking S-biners](https://amzn.to/3SuWBru): for a little extra security for zippers
@@ -156,6 +208,7 @@ What about what I carry every day?
 - [Trezor Model T](https://shop.trezor.io/product/trezor-model-t): hardware wallet and security key
 
 ## My Remote Working Tech Bag
+([back to top](#sections))
 
 If I need to go somewhere to work, my EDC bag won't cut it! Here's what I bring with me to work and play remotely:
 
@@ -195,6 +248,7 @@ If I need to go somewhere to work, my EDC bag won't cut it! Here's what I bring 
 - Hyper Drive USB hub. [Updated version](https://amzn.to/3UUtboq).
 
 ## My Remote Work Setup for a month
+([back to top](#sections))
 
 Here's what I bring with me when I need to be able to work while travelling continuously for a month. This setup lets me create videos, run livestreams, do programming work, and do presentations at conferences with minimal bulk and maximal functionality.
 
@@ -225,7 +279,7 @@ Here's what I bring with me when I need to be able to work while travelling cont
 - [Lume Cube Panel Mini](https://amzn.to/41Zm7KV) LED light.
 - [Joby Gorillapod GripTight Smartphone Micro Tripod](https://amzn.to/3ClU7Xz): tripod for Lume Cube
 - Samsung X5 2TB SSD. [Better here - T7](https://amzn.to/3VqqlIY).
-- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu): my primary mobile phone, used to take this photo
+- [Samsung Galaxy Z Fold 3](https://amzn.to/3fls6Gu)
 - (not pictured, but since added) [Logitech POP Mouse](https://amzn.to/3VL52Cc): travel mouse, even though I hate that it requires an AA battery.
 
 ![Snapshot of my actual setup at a hotel in Frankfurt](/assets/travel-setup-20230430_220231.jpg)
