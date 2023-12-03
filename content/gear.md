@@ -7,6 +7,8 @@ tags: ['gear', 'text', 'english']
 # Gear I Use
 One of my favorite obsessions is watching or reading about the gear other people use. I've watched almost every "What's in my tech bag" video on YouTube, it feels like, and I'm always prowling blog posts that detail what someone is using. In case there's anybody out there that is as interested in these things as I am, here's an overview of the gear that I use to make videos, write both blog posts and code, and generally mess around on the internet.
 
+_Edit: After a reader suggested I provide links to these items, I've included them below, and some are affiliate links. You are under no obligation to click these links, but if you do, I get a tiny percentage of the sale. Thanks!_
+
 ## Sections
 
 There's a lot here! I've broken it down into sections, so you can skip to the section you're interested in.
@@ -60,8 +62,6 @@ Here are the main devices I use every day.
 ([back to top](#sections))
 
 ![A photo of my home office on any given day](/assets/gear-study.JPG)
-
-_Edit: After a reader suggested I provide links to these items, I've included them below, and some are affiliate links. You are under no obligation to click these links, but if you do, I get a tiny percentage of the sale. Thanks!_
 
 ### Video production gear
 
