@@ -85,7 +85,7 @@ weight = 8
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "youtube"
-    link = "https://youtube.com/nicolevanderhoeven"
+    link = "https://www.youtube.com/@nicolevdh"
   [[params.social]]
     name = "github"
     link = "https://github.com/nicolevanderhoeven"
@@ -96,14 +96,11 @@ weight = 8
     name = "patreon"
     link = "https://patreon.com/nicolevdh"
   [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/n_vanderhoeven"
-  [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/nvanderhoeven"
   [[params.social]]
     name = "youtube"
-    link = "https://youtube.com/c/k6test"
+    link = "https://youtube.com/@grafana"
 [[params.social]]
     name = "youtube"
     link = "https://youtube.com/c/luckydippers"

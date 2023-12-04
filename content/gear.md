@@ -53,7 +53,7 @@ Here are the main devices I use every day.
 - [Samsung Galaxy Watch 6](https://amzn.to/417Szev): smartwatch
 - American Express Prada wearable (not available for purchase separately): for contactless payments 
 
-### Earbuds
+### Audio
 
 - [Apple AirPods Pro](https://amzn.to/47RdhBo): second generation, for Apple products
 - [Bose QuietComfort Earbuds II](https://amzn.to/3p6OHLJ): for non-Apple products
