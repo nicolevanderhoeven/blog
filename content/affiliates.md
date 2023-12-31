@@ -35,3 +35,4 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Wise](https://wise.com/invite/u/nicolev120), for transferring money and accepting money in different currencies
 - [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSMEKZHWDOXTNPY), for learning languages in bite-sized pieces
 - [Podia](https://www.podia.com/?via=648bee), for hosting courses, digital products, communities, and newsletters
+- [Buttondown](https://buttondown.email/refer/nvdh), for sending my newsletter, [Thinking in Public](https://tip.nicolevanderhoeven.com)
