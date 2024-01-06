@@ -1,5 +1,5 @@
 ---
-title: "Getting Started With OpenTelemetry (Grafana Office Hours #23)"
+title: "Getting Started with OpenTelemetry (Grafana Office Hours #23)"
 date: 2023-12-08T17:00:23+01:00
 draft: false
 tags: ["grafana labs", "grafana office hours", "video", "english", "distributed tracing", "opentelemetry", "observability"]
