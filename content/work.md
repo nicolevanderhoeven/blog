@@ -8,6 +8,7 @@ draft: false
 ### Personal Knowledge Management (PKM)
 
 - *(video)* [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh), a YouTube channel about using Obsidian, taking notes, and general productivity.
+- *(text)* [Thinking in Public](https://tip.nicolevanderhoeven.com): A free newsletter about making things in public and the process and tools I use to do it.
 - *(community)* [pkm.social](https://pkm.social) is a federated Mastodon server for PKM enthusiasts that I own and manage.
 - *(notes)* [Fork My Brain](https://notes.nicolevanderhoeven.com): Obsidian Publish site with majority of my (non-confidential) notes.
 - *(code repository)* [Xio's Guide to Monsters](https://github.com/nicolevanderhoeven/xios-guide-to-monsters): 5e monsters in Markdown format, plus the code used to generate them.
