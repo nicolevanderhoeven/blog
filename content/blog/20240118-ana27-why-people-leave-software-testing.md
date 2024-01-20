@@ -1,5 +1,5 @@
 ---
-title: "Why People Leave Software Testing (Adobo & Avocados #27)"
+title: "Why People Leave Software Testing, with Maria Kedemo (Adobo & Avocados #27)"
 date: 2024-01-18T11:54:46+01:00
 draft: false
 tags: ['adobo & avocados', 'video', 'english', 'testing', 'career']
