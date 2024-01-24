@@ -8,6 +8,7 @@ draft: false
 ### Personal Knowledge Management (PKM)
 
 - *(video)* [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh), a YouTube channel about using Obsidian, taking notes, and general productivity.
+- *(text)* [Doing It in Public](https://doingitinpublic.com): A book about learning in public-- and I'm writing the book itself in public.
 - *(text)* [Thinking in Public](https://tip.nicolevanderhoeven.com): A free newsletter about making things in public and the process and tools I use to do it.
 - *(community)* [pkm.social](https://pkm.social) is a federated Mastodon server for PKM enthusiasts that I own and manage.
 - *(notes)* [Fork My Brain](https://notes.nicolevanderhoeven.com): Obsidian Publish site with majority of my (non-confidential) notes.
