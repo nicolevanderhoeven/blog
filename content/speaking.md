@@ -10,11 +10,11 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+22-23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _TBD_ (English).
 
+13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
 
 ## 2023
-
-25/10    **[TestCon Europe 2023](https://testcon.lt/)**: (Vilnius, Lithuania) _[Emergent load testing: Rules for Organized Chaos](/blog/20231025-emergent-load-testing-testconeu) (English)_.
 
 26/03   **[The Informed Life Podcast](https://theinformed.life/)**: (online) _[Nicole van der Hoeven on Obsidian](/blog/20230326-informed-life-podcast-interview/)_ (English).
 
