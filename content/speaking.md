@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-22-23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _TBD_ (English).
+22-23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[TBD](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
 
 13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
 
