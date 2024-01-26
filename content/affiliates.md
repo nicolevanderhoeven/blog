@@ -15,6 +15,7 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Napkin.one](https://napkin.one/?via=nicole), for AI-driven tagging of highlights from Readwise
 - [Prolific Researcher Mentorship](https://gumroad.com/a/152944339/xafyw), a five-week program about applying PKM by my friend Bianca Pereira
 - [Snipd](https://link.snipd.com/Cx7S/nicole), a podcast mobile app with cool AI features and Readwise integration
+- [Napkin](https://napkin.one/?via=nicole), an AI-powered tool for tagging and linking your thoughts or highlights from Readwise
 
 ## Learning and Professional Development
 

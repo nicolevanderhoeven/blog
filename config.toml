@@ -36,18 +36,18 @@ url = "/speaking"
 weight = 5
 
 [[menu.main]]
-name = "Gear"
-url = "/gear"
+name = "Course"
+url = "https://courses.nicolevanderhoeven.com/o4e"
 weight = 6
 
 [[menu.main]]
-name = "Ethics"
-url = "/ethics"
+name = "Book"
+url = "https://doingitinpublic.com"
 weight = 7
 
 [[menu.main]]
-name = "Course"
-url = "https://courses.nicolevanderhoeven.com/o4e"
+name = "About"
+url = "/about"
 weight = 8
 
 [markup]
