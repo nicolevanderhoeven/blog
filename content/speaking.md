@@ -10,9 +10,16 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-22-23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[TBD](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
-
 13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
+
+## 2024
+
+28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM]()_ (English).
+
+23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
+
+22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
+
 
 ## 2023
 
