@@ -10,11 +10,17 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
+24/10   **[TestCon Europe 2024](https://testcon.lt/)**: (Vilnius, Lithuania) _[Flirting with Risk: A Playbook for Continuous Reliability](https://events.pinetool.ai/3253/#sessions/108082?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+
+13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](https://kccncna2024.sched.com/event/1i7m6) (English)_.
+
+21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
 
 ## 2024
 
-28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM]()_ (English).
+13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
+
+28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM]() (English)_.
 
 23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
 
