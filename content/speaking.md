@@ -10,15 +10,15 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-19/09   **[Linking Your Thinking 14 workshop](https://www.linkingyourthinking.com/workshop)**: (online) _Doing It in Public: Observability for PKM (English)_.
-
-24/10   **[TestCon Europe 2024](https://testcon.lt/)**: (Vilnius, Lithuania) _[Flirting with Risk: A Playbook for Continuous Reliability](https://events.pinetool.ai/3253/#sessions/108082?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
-
 13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](https://kccncna2024.sched.com/event/1i7m6) (English)_.
 
 21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
 
 ## 2024
+
+24/10   **[TestCon Europe 2024](https://testcon.lt/)**: (Vilnius, Lithuania) _[Flirting with Risk: A Playbook for Continuous Reliability](https://events.pinetool.ai/3253/#sessions/108082?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+
+19/09   **[Linking Your Thinking 14 workshop](https://www.linkingyourthinking.com/workshop)**: (online) _Doing It in Public: Observability for PKM (English)_.
 
 13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
 
