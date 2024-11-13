@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](https://kccncna2024.sched.com/event/1i7m6) (English)_.
+13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](/blog/20241113-watching-the-watchers) (English)_.
 
 21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
 
