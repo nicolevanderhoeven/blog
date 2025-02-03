@@ -18,6 +18,6 @@ Today I did a talk at [KubeCon North America 2024](https://events.linuxfoundatio
 > 
 > Sometimes, it's easier to learn from failures in observability than from successes. This talk is a confession of some of our worst sins as well as a realistic look under the hood at how we're improving the continuous reliability of our stack.
 
-{{< youtube 4GThNevjc >}}
+{{< youtube d-4GThNevjc >}}
 
 You can find the slides [here](https://www.canva.com/design/DAGV-7UbEVo/QVrjCs0kKvtiEG_LlNLrvA/view?utm_content=DAGV-7UbEVo&utm_campaign=designshare&utm_medium=link&utm_source=editor) and a PDF version [here](/assets/20241113-kubecon-na-2024-watching-the-watchers.pdf).
