@@ -10,9 +10,15 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
+03/07   **[Dutch Cloud Native Day 2025](https://www.dutchcloudnativeday.nl)**: (Utrecht, the Netherlands) _Asimov's Zeroth Law of Robotics: Observability for AI (English)_.
+
+05/11   **[Øredev 2025](https://oredev.org/)**: (Malmö, Sweden) _The Spice Must Flow: The Fremen guide to sustainable observability (English)_.
+
+06/11   **[NewCrafts Paris 2025](https://ncrafts.io/)**: (Paris, France) _Asimov's Zeroth Law of Robotics: Observability for AI (English)_.
 
 ## 2024
+
+02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
 
 21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
 
