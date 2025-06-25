@@ -18,23 +18,23 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## 2024
 
-02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
-
-21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
-
-13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](/blog/20241113-watching-the-watchers) (English)_.
-
-24/10   **[TestCon Europe 2024](https://testcon.lt/)**: (Vilnius, Lithuania) _[Flirting with Risk: A Playbook for Continuous Reliability](https://events.pinetool.ai/3253/#sessions/108082?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
-
-19/09   **[Linking Your Thinking 14 workshop](https://www.linkingyourthinking.com/workshop)**: (online) _Doing It in Public: Observability for PKM (English)_.
-
-13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
-
-28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _Doing it in public: Observability for PKM (English)_.
+22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
 
 23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
 
-22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
+28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _Doing it in public: Observability for PKM (English)_.
+
+02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
+
+13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
+
+19/09   **[Linking Your Thinking 14 workshop](https://www.linkingyourthinking.com/workshop)**: (online) _Doing It in Public: Observability for PKM (English)_.
+
+24/10   **[TestCon Europe 2024](https://testcon.lt/)**: (Vilnius, Lithuania) _[Flirting with Risk: A Playbook for Continuous Reliability](https://events.pinetool.ai/3253/#sessions/108082?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions) (English)_.
+
+13/11   **[KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**: (Utah, USA) _[Watching the Watchers: How We Do Continuous Reliability at Grafana Labs](/blog/20241113-watching-the-watchers) (English)_.
+
+21/11   **[Agile Testing Days EU 2024](https://agiletestingdays.com/)**: (Potsdam, Germany) _[Flirting with Risk: A Playbook for Continuous Reliability](https://agiletestingdays.com/2024/session/flirting-with-risk/) (English)_.
 
 
 ## 2023
