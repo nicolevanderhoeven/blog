@@ -16,6 +16,10 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 06/11   **[NewCrafts Paris 2025](https://ncrafts.io/)**: (Paris, France) _Asimov's Zeroth Law of Robotics: Observability for AI (English)_.
 
+## 2025
+
+02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
+
 ## 2024
 
 22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
@@ -23,8 +27,6 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
 
 28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _Doing it in public: Observability for PKM (English)_.
-
-02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](https://sched.co/1txEF)_ (English).
 
 13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
 
