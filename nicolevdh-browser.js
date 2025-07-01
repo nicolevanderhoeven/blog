@@ -1,4 +1,4 @@
-import { browser } from 'k6/experimental/browser';
+import { browser } from 'k6/browser';
 import { check, sleep } from 'k6';
 import { randomIntBetween } from "https://jslib.k6.io/k6-utils/1.4.0/index.js";
 
