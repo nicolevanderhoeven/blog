@@ -1,5 +1,5 @@
 ---
-title: "Asmiov's Zeroth Law of Robotics: Observability for AI (KubeCon EU 2025)"
+title: "Asimov's Zeroth Law of Robotics: Observability for AI (KubeCon EU 2025)"
 date: 2025-04-02T13:46:42+02:00
 draft: false
 tags: ["observability", "video", "presentation", "AI", "grafana labs", "metrics", "logs", "traces", "testing", "k6", "loki", "grafana", "tempo"]
