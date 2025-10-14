@@ -4,7 +4,7 @@ date: 2025-10-13T13:33:18-07:00
 draft: false
 tags: ["observability", "presentation", "obsidian", "excalidraw", "visual thinking", "grafana labs", "metrics", "logs", "loki", "prometheus", "grafana", "english"]
 ---
-Today I gave a a talk at my friend Zsolt Viczián's [Sketch Your Mind Conference](https://sketchyourmind.com/) about how I use visuals in my PKM, a follow-up to my video about Obsidian Excalidraw last year where I shared that I'd changed all my Obsidian templates to hybrid Obsidian Excalidraw notes:
+Today I gave [a talk](https://sketch-your-mind.com/2025/sessions/nicole/) at my friend Zsolt Viczián's [Sketch Your Mind Conference](https://sketchyourmind.com/) about how I use visuals in my PKM, a follow-up to my video about Obsidian Excalidraw last year where I shared that I'd changed all my Obsidian templates to hybrid Obsidian Excalidraw notes:
 
 {{< youtube zmgqMZi6QL8 >}}
 

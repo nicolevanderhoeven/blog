@@ -20,7 +20,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 03/07   **[Dutch Cloud Native Day 2025](https://www.dutchcloudnativeday.nl)**: (Utrecht, the Netherlands) _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20250703-asimovs-zeroth-law-dutch-cloud-native-day) (English)_.
 
-13/10   **[Sketch Your Mind](https://sketch-your-mind.com/2025/)**: (virtual) _[One Year Later: How I use visuals in my PKM](https://sketch-your-mind.com/2025/sessions/nicole/) (English)_.
+13/10   **[Sketch Your Mind](https://sketch-your-mind.com/2025/)**: (virtual) _[One Year Later: How I use visuals in my PKM](/blog/20251013-how-i-use-visuals-in-my-pkm) (English)_.
 
 ## 2024
 
