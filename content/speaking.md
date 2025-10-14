@@ -20,6 +20,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 03/07   **[Dutch Cloud Native Day 2025](https://www.dutchcloudnativeday.nl)**: (Utrecht, the Netherlands) _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20250703-asimovs-zeroth-law-dutch-cloud-native-day) (English)_.
 
+13/10   **[Sketch Your Mind](https://sketch-your-mind.com/2025/)**: (virtual) _[One Year Later: How I use visuals in my PKM](https://sketch-your-mind.com/2025/sessions/nicole/) (English)_.
+
 ## 2024
 
 22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
