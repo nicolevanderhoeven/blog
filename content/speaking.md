@@ -30,7 +30,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _Doing it in public: Observability for PKM (English)_.
 
-13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](https://romaniatesting.ro/sessions/cartography-of-the-deep-distributed-tracing-for-testing/) (English)_.
+13/06    **[Romanian Testing Conference](https://romaniatesting.ro/)**: (Cluj-Napoca, Romania) _[Cartography of the Deep: Distributed Tracing for Testing](/blog/20240613-cartography-of-the-deep/) (English)_.
 
 19/09   **[Linking Your Thinking 14 workshop](https://www.linkingyourthinking.com/workshop)**: (online) _Doing It in Public: Observability for PKM (English)_.
 
