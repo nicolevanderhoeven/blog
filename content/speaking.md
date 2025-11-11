@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-06/11   **[NewCrafts Paris 2025](https://ncrafts.io/)**: (Paris, France) _Asimov's Zeroth Law of Robotics: Observability for AI (English)_.
+
 
 ## 2025
 
@@ -21,6 +21,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 13/10   **[Sketch Your Mind](https://sketch-your-mind.com/2025/)**: (virtual) _[One Year Later: How I use visuals in my PKM](/blog/20251013-how-i-use-visuals-in-my-pkm)_ (English).
 
 05/11   **[Øredev 2025](https://oredev.org/)**: (Malmö, Sweden) _[The Spice Must Flow: The Fremen guide to sustainable observability](/blog/20251105-the-spice-must-flow)_ (English).
+
+06/11   **[NewCrafts Paris 2025](https://ncrafts.io/)**: (Paris, France) _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20251106-asimovs-zeroth-law-newcrafts)_ (English).
 
 ## 2024
 
