@@ -1,5 +1,5 @@
 ---
-title: "Declarative Configuration in OpenTelemetry SDKs"
+title: "Declarative Configuration in OpenTelemetry SDKs (Grafana ❤️‍🔥 OpenTelemetry Community Call October 2025)"
 date: 2025-10-22T15:02:21-07:00
 draft: false
 tags: ["opentelemetry", "english", "video", "grafana labs", "grafana otel community call"]
