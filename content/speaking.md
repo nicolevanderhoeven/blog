@@ -28,7 +28,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 22/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Roll for connections: RPGs, CRM, and PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ - joint talk with [Zsolt Viczián](https://www.youtube.com/@VisualPKM) (English).
 
-23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](https://pkmsummit.com/nicole-van-der-hoeven/)_ (English).
+23/03    **[PKM Summit](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Doing it in public: Observability for PKM](/blog/20240405-doing-it-in-public-observability-for-pkm)_ (English).
 
 28/03    **[Digitale Fitheid Community](https://www.digitalefitheid.nl/)**: (Utrecht, the Netherlands) _Doing it in public: Observability for PKM (English)_.
 
