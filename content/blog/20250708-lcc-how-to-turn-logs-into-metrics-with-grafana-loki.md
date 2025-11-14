@@ -6,4 +6,4 @@ tags: ["grafana labs", "loki", "video", "english", "observability", "loki commun
 ---
 In this Loki Community Call, we talk all about how to turn metrics into logs in Grafana Loki using metric queries. We cover the basics of metric queries, how to use them to create metrics from logs, and some advanced use cases like using metric queries to create alerts and dashboards.
 
-{{< youtube v=tKcnQ0Q2E-k >}}
+{{< youtube tKcnQ0Q2E-k >}}
