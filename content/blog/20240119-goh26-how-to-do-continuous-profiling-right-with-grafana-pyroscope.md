@@ -1,5 +1,5 @@
 ---
-title: "How to do continuous profiling right with Grafana Pyroscope and Ryan Perry, (Grafana Office Hours #27)"
+title: "How to do continuous profiling right with Grafana Pyroscope and Ryan Perry, (Grafana Office Hours #26)"
 date: 2024-01-19T18:09:01+01:00
 draft: false
 tags: ["grafana labs", "grafana office hours", "video", "english", "distributed tracing", "opentelemetry", "observability", "instrumentation", "pyroscope", "ebpf", "continuous profiling", "metrics", "prometheus"]
