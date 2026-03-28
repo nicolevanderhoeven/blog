@@ -10,7 +10,15 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+26/05   **[ExpoQA Madrid 2026](https://expoqa.eu/events/cd1-t1-kn2/)**: (Madrid, Spain) _Asimov's Zeroth Law of Robotics: Observability for AI_ (English).
 
+06-08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) (English).
+
+## 2026
+
+21/03   **[PKM Summit 2026](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Do Androids Dream of Second Brains?](/blog/20260321-do-androids-dream-of-second-brains/)_ (English).
+
+26/03   **[Grafana & Friends Lisbon Meetup](https://www.meetup.com/grafana-friends-lisboa/events/313572885/)**: (Lisbon, Portugal) _[Let There Be Dashboards: Introducing Grafana Assistant](/blog/20260326-let-there-be-dashboards/)_ (English).
 
 ## 2025
 
