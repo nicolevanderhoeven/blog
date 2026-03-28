@@ -1,5 +1,5 @@
 import { main } from './nicolevdh-protocol.js';
-import { frontend } from './nicolevdh-browser.js';
+// import { frontend } from './nicolevdh-browser.js';
 
 export const options = {
     thresholds: {
