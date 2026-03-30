@@ -17,4 +17,10 @@ Here are some resources mentioned in the talk:
 - [The spice-runner repo](https://nicole.to/spicerepo) containing everything you need to know about how to deploy it yourself
 - [The slides](https://nicole.to/spiceslides)
 
+## Spice Runner Dashboard
+
+Here's the Grafana dashboard I created for observing the Spice Runner application:
+
+<iframe src="https://nicole.to/spicedashboard" width="100%" height="600" frameborder="0"></iframe>
+
 ![Photo of me at Øredev 2025](/assets/2025-11-05-oredev.JPG)
