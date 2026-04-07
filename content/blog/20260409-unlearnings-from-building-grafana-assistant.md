@@ -13,6 +13,8 @@ Grafana Assistant started as a weekend hackathon project. By the time it shipped
 
 I pulled out the ten moments where received wisdom turned out to be wrong. If you're building anything agentic right now, these are worth sitting with.
 
+{{< youtube TGWVqBAeIzI >}}
+
 ## ❌ LangChain will help us build faster
 
 [LangChain](https://github.com/langchain-ai/langchain) is an opensource framework for building applications that use LLMs. It provides structured components that can be used for rapid prototyping.
