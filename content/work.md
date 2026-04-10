@@ -19,12 +19,7 @@ draft: false
 ### Observability, Reliability, and Software Engineering
 
 - *(video)* [Grafana Office Hours](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujrrse-cdj20RRah9hyHdxBu), a weekly livestream about Grafana Labs projects.
-- *(video, Spanish)* [Café con Grafana](https://www.youtube.com/watch?v=Kdgu2gutp7o&list=PLDGkOdUX1UjoZvjegDEDFmn0LQGtpu9sn), a weekly Spanish-language livestream about Grafana Labs projects.
-- *(video)* [Adobo & Avocados](https://www.youtube.com/@adoboandavocados), a YouTube channel about intersectionality in tech and DevRel with a weekly livestream that I do with [Marie Cruz](https://testingwithmarie.com).
 - *(demo project)* [Spice Runner](/spice-runner): A browser-based endless runner game built to demonstrate sustainable observability on Kubernetes, using Grafana Faro, Loki, Tempo, Prometheus, and KEDA. [Play it](https://nvdh.dev/spice) or [view the live dashboard](https://nicole.to/spicedashboard).
-
-### Tabletop Roleplaying Games
-- *(video)* [Beyond the Character Sheet](https://www.youtube.com/channel/UCPSdZdj55-Z3S1D9gI_JrlA), a YouTube channel about tabletop roleplaying games and the players that play them, with a weekly livestream I do with [Leah Ferguson](https://leahferguson.com/).
 
 
 # Places I've worked
