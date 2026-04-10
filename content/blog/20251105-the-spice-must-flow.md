@@ -17,5 +17,6 @@ Here are some resources mentioned in the talk:
 - [The spice-runner repo](https://nicole.to/spicerepo) containing everything you need to know about how to deploy it yourself
 - [The slides](https://nicole.to/spiceslides)
 - [The Spice Runner dashboard](https://nicole.to/spicedashboard) for observing the application
+- [More about Spice Runner](/spice-runner): architecture, tech stack, and what it demonstrates
 
 ![Photo of me at Øredev 2025](/assets/2025-11-05-oredev.JPG)
