@@ -26,7 +26,7 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 
 ## Other Products and services I use regularly
 
-- [Xolo Leap](https://www.xolo.io/ref/NICVAN2), for managing the finances of my Estonian company
+- [1Office](https://1office.co/?fpr=nicole57), for managing the finances of my Estonian company
 - [Amazon](https://amzn.to/3CmuLH1), for buying gear and books
 - [Streamyard](https://streamyard.com?pal=4894166466428928), my streaming platform
 - [Epidemic Sound](https://www.epidemicsound.com/referral/9927mk), my source of high-quality music
