@@ -28,7 +28,7 @@ jobs:
         uses: grafana/run-k6-action@v1
         env:
           K6_CLOUD_TOKEN: ${{ secrets.K6_CLOUD_API_TOKEN }}
-          K6_CLOUD_PROJECT_ID: 7240494
+          K6_CLOUD_PROJECT_ID: 3548222
         with:
           path: nicolevdh.js
           cloud-run-locally: false
