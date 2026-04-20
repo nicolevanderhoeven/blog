@@ -1,0 +1,58 @@
+name: Deploy to GitHub Pages
+
+# Builds the Hugo site and pushes the generated HTML to
+# nicolevanderhoeven/nicolevanderhoeven.github.io, which GitHub Pages serves
+# at nicolevanderhoeven.com. Replaces the manual hugo + two-repo push ritual.
+#
+# See: openclaw-output/git-recurse-submodules-on-demand.md for context on
+# why this workflow does NOT bump the public/ submodule pointer back into
+# the source repo.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch: # allow manual trigger from Actions tab
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false # finish in-flight deploys; don't cancel them mid-push
+
+jobs:
+  build-and-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout source repo (no submodules — we regenerate public/)
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 1
+
+      - name: Setup Hugo (extended, pinned to match local)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.101.0"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Restore CNAME for custom domain
+        # Hugo clobbers public/ on every build. The CNAME file lives in the
+        # output repo (not the source), so we have to re-create it here.
+        run: echo "nicolevanderhoeven.com" > public/CNAME
+
+      - name: Deploy to nicolevanderhoeven.github.io
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.PAGES_DEPLOY_KEY }}
+          external_repository: nicolevanderhoeven/nicolevanderhoeven.github.io
+          publish_branch: master
+          publish_dir: ./public
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "Deploy ${{ github.sha }}"
+          # full_commit_message would include author + metadata; the short one
+          # keeps the output repo history readable.
