@@ -29,10 +29,6 @@
     {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
   {{ end }}
   {{ end }}
-  {{ if .Site.GoogleAnalytics }}
-    {{ template "_internal/google_analytics.html" . }}
-  {{ end }}
-
   <script async defer data-domain="nicolevanderhoeven.com" src="https://plausible.io/js/plausible.js"></script>
 
 </head>

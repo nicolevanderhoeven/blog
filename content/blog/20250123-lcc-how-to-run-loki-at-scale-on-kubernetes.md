@@ -1,6 +1,6 @@
 ---
 title: "How to Run Loki at Scale on Kubernetes (Loki Community Call January 2025)"
-date: 2025-0123T17:51:00+01:00
+date: 2025-01-23T17:51:00+01:00
 draft: false
 tags: ["loki", "kubernetes", "observability", "video", "english", "grafana labs", "loki community call"]
 ---
