@@ -34,8 +34,6 @@ This is the AI-powered script generation that's been in the works for a while �
 
 Generated scripts come with proper structure, error handling, checks, and `TODO` comments where the model genuinely doesn't know what to write (e.g. for auth tokens, request bodies, or anything that needs your secrets — by design, Assistant won't fabricate those). You can also point it at an existing script and ask it to refactor or extend.
 
-The point I tried to land in the segment: **AI-generated tests are only as good as the contract they're generated from.** A clean OpenAPI spec produces clean tests. A vague spec produces tests that look right but miss the substance. Assistant doesn't replace load-testing judgment — it accelerates the typing once you've done the thinking. That framing came up across the whole conversation: AI is best at the parts of load testing that are mechanical, and the human judgment (what to test, what SLOs matter, what production load actually looks like) is still where the value lives.
-
 ### 🚀 k6 v2 (Charlie)
 
 Release candidate 1 is out, GA is *very* soon. The headline changes:
