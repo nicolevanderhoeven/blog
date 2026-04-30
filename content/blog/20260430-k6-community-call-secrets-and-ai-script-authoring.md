@@ -5,7 +5,7 @@ draft: false
 tags: ["k6", "english", "livestream", "grafana labs", "k6 community call", "ai", "grafana assistant", "secrets management", "openapi"]
 ---
 
-The first k6 Community Call in over a year, and we packed it. I sat down with three of the engineers building k6 — [Facundo Fernández Begni](https://www.linkedin.com/in/facundofernandezbegni/) (Software Engineer), [Vicente Ortega Torres](https://www.linkedin.com/in/vicente-ortega-torres/) (Senior Backend Engineer), and [Charlie Vasquez](https://www.linkedin.com/in/charliestott/) (Product Manager) — to walk through two new pieces of work that have shipped recently, plus a look at what's coming in k6 v2.
+The first k6 Community Call in over a year, and we packed it. I sat down with four of the people building k6 — **Bukola Ayodele**, **Facundo Batista** (Software Engineer), **Vicente Ortega** (Senior Backend Engineer), and **Charlie Burnett** (Product Manager) — to walk through two new pieces of work that have shipped recently, plus a look at what's coming in k6 v2.
 
 {{< youtube mYpnaE_J2lM >}}
 
@@ -21,7 +21,7 @@ Why this matters for load testers:
 - Same script works across dev/staging/prod by just swapping which secrets are scoped to which environment
 - Works with k6 OSS locally too — your local runs can pull cloud-managed secrets when you want them
 
-Facundo demoed the full flow: creating a secret in the Grafana Cloud UI (name, description, labels — up to 10 per secret, all write-only), and using it in a script with one line. There's also an API for programmatic management.
+Facundo Batista demoed the full flow: creating a secret in the Grafana Cloud UI (name, description, labels — up to 10 per secret, all write-only), and using it in a script with one line. There's also an API for programmatic management.
 
 ### 🤖 Grafana Assistant k6 script authoring mode (Vicente)
 
@@ -46,7 +46,7 @@ Release candidate 1 is out, GA is *very* soon. The headline changes:
 - **MCP / agent connectivity** for AI-driven workflows
 - **DNS, MQTT, and other network protocols**
 
-Migration advice from Charlie: pin your script versions, test your existing scripts against the RC before GA hits, and don't rush.
+Migration advice from Charlie Burnett: pin your script versions, test your existing scripts against the RC before GA hits, and don't rush.
 
 ### 🔮 What's next on the AI roadmap (next 1–2 months)
 
@@ -66,4 +66,4 @@ Migration advice from Charlie: pin your script versions, test your existing scri
 - [*Unlearnings from building Grafana Assistant*](https://contexthorizon.substack.com/p/unlearnings-from-building-grafana)
 - [*High INT, Low WIS — what LLM benchmarks miss*](https://contexthorizon.substack.com/p/high-int-low-wis-what-llm-benchmarks)
 
-Thanks to Facundo, Vicente, and Charlie for joining, and to everyone who showed up live.
+Thanks to Bukola, Facundo, Vicente, and Charlie for joining, and to everyone who showed up live.
