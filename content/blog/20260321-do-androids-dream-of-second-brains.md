@@ -7,6 +7,8 @@ tags: ["pkm", "english", "talk", "obsidian", "ai", "observability", "pkm summit"
 
 I gave this talk at [PKM Summit 2026](https://pkmsummit.com/) in Utrecht, the Netherlands.
 
+{{< youtube BeuaPO0Ezuk >}}
+
 ![Presenting "Do Androids Dream of Second Brains?" at PKM Summit 2026 in Utrecht](/assets/20260320-pkm-summit-01-presenting.png)
 
 ## Abstract
