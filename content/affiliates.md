@@ -24,6 +24,10 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Italki](https://www.italki.com/i/ref/fHFBb), for learning languages
 - [Skillshare](https://skl.sh/37RmSOG), for learning anything
 
+## Development Tools
+
+- [Warp](https://app.warp.dev/referral/9Y5LRV), an AI-powered terminal for Mac and Linux
+
 ## Other Products and services I use regularly
 
 - [1Office](https://1office.co/?fpr=nicole57), for managing the finances of my Estonian company
