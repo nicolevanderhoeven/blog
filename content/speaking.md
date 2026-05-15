@@ -12,6 +12,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 26/05   **[ExpoQA Madrid 2026](https://expoqa.eu/events/cd1-t1-kn2/)**: (Madrid, Spain) _Asimov's Zeroth Law of Robotics: Observability for AI_ (English).
 
+29-30/07   **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1192171)**: (Yokohama, Japan) _The Great Doubt: What Building an AI Agent Taught Us About Trust_ (English).
+
 06-08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
 
 ## 2026
