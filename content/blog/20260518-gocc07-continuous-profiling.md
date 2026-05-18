@@ -1,6 +1,6 @@
 ---
 title: "Continuous Profiling, the OpenTelemetry Way (Grafana ❤️🔥 OpenTelemetry Community Call #7)"
-date: 2026-05-18T08:00:00+01:00
+date: 2026-05-18T05:00:00+01:00
 draft: false
 tags: ["opentelemetry", "english", "video", "grafana labs", "grafana otel community call", "profiling", "pyroscope", "continuous profiling", "flame graphs"]
 ---
