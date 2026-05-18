@@ -5,7 +5,7 @@ draft: false
 tags: ["opentelemetry", "english", "video", "grafana labs", "grafana otel community call", "profiling", "pyroscope", "continuous profiling", "flame graphs"]
 ---
 
-In this community call, I sat down with my coworker **Christian Simon**, who works on Grafana Pyroscope, to dig into profiling as the **fourth signal** in OpenTelemetry. Metrics, logs, and traces are the classic three pillars — but a significant portion of latency lives *inside* a span, in the actual code execution, where the other three can't see. Profiling fills that gap by giving you continuous, code-level visibility into where time is being spent.
+In this community call, my coworker **Tiffany Jernigan** and I sat down with **Christian Simon**, who works on Grafana Pyroscope, to dig into profiling as the **fourth signal** in OpenTelemetry. Metrics, logs, and traces are the classic three pillars — but a significant portion of latency lives *inside* a span, in the actual code execution, where the other three can't see. Profiling fills that gap by giving you continuous, code-level visibility into where time is being spent.
 
 {{< youtube N47wy9pp7Lo >}}
 
@@ -42,4 +42,4 @@ OpenTelemetry profiling is genuinely an area where the community has room to sha
 - [Pyroscope docs](https://grafana.com/docs/pyroscope/latest/)
 - [OpenTelemetry documentation](https://opentelemetry.io/docs/)
 
-Thanks to Christian for joining, and to everyone who showed up live with questions.
+Thanks to Christian for joining, to Tiffany for co-hosting, and to everyone who showed up live with questions.
