@@ -1,5 +1,5 @@
 ---
-title: "A Polymath with Obsidian as a Modern Zibaldone (The Mechanics of Knowledge Management)"
+title: "Nicole van der Hoeven: A Polymath with Obsidian as a Modern Zibaldone"
 date: 2025-04-27T09:40:45+02:00
 draft: false
 tags: ["pkm", "english", "podcast", "obsidian", "zibaldone"]

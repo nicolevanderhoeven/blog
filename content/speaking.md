@@ -26,7 +26,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 02/04   **[KubeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)**: (London, UK). _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20250402-asimovs-zeroth-law-of-robotics/)_ (English).
 
-27/04   **[The Mechanics of Knowledge Management Podcast](https://malikalimoekhamedov.substack.com/)**: (online) _[A Polymath with Obsidian as a Modern Zibaldone](/blog/20250427-mechanics-of-knowledge-management-podcast/)_ (English).
+27/04   **[The Mechanics of Knowledge Management Podcast](https://malikalimoekhamedov.substack.com/)**: (online) _[Nicole van der Hoeven: A Polymath with Obsidian as a Modern Zibaldone](/blog/20250427-mechanics-of-knowledge-management-podcast/)_ (English).
 
 03/07   **[Dutch Cloud Native Day 2025](https://www.dutchcloudnativeday.nl)**: (Utrecht, the Netherlands) _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20250703-asimovs-zeroth-law-dutch-cloud-native-day)_ (English).
 
