@@ -16,6 +16,7 @@ On this page, you'll find my affiliate links. "Affiliate" means that when you us
 - [Prolific Researcher Mentorship](https://gumroad.com/a/152944339/xafyw), a five-week program about applying PKM by my friend Bianca Pereira
 - [Snipd](https://link.snipd.com/Cx7S/nicole), a podcast mobile app with cool AI features and Readwise integration
 - [Napkin](https://napkin.one/?via=nicole), an AI-powered tool for tagging and linking your thoughts or highlights from Readwise
+- [Granola](https://www.granola.ai?via=nicole-van-der-hoeven), an AI notepad for meetings that listens, transcribes, and summarises
 
 ## Learning and Professional Development
 
