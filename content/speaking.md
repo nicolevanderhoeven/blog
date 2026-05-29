@@ -10,8 +10,6 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-26/05   **[ExpoQA Madrid 2026](https://expoqa.eu/events/cd1-t1-kn2/)**: (Madrid, Spain) _Asimov's Zeroth Law of Robotics: Observability for AI_ (English).
-
 30/07   **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)**: (Yokohama, Japan) _[The Great Doubt: What Building an AI Agent Taught Us About Trust](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1192171)_ (English).
 
 06-08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
@@ -21,6 +19,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 21/03   **[PKM Summit 2026](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Do Androids Dream of Second Brains?](/blog/20260321-do-androids-dream-of-second-brains/)_ (English).
 
 26/03   **[Grafana & Friends Lisbon Meetup](https://www.meetup.com/grafana-friends-lisboa/events/313572885/)**: (Lisbon, Portugal) _[Let There Be Dashboards: Introducing Grafana Assistant](/blog/20260326-let-there-be-dashboards/)_ (English).
+
+26/05   **[ExpoQA Madrid 2026](https://expoqa.eu/events/cd1-t1-kn2/)**: (Madrid, Spain) _[Asimov's Zeroth Law of Robotics: Observability for AI](/blog/20260526-asimovs-zeroth-law-expoqa-madrid/)_ (English).
 
 ## 2025
 
