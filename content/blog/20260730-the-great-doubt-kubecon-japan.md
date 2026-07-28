@@ -48,3 +48,7 @@ Investigations Arena:
 
 - My notes on [Grafana Assistant](https://notes.nicolevanderhoeven.com/Grafana+Assistant)
 - My Context Horizon piece [*Unlearnings from building Grafana Assistant*](https://contexthorizon.substack.com/p/unlearnings-from-building-grafana)
+- [*The Way of Zen*](https://amzn.to/4vZNlPD) by Alan W. Watts
+- [*Zen Mind, Beginner's Mind*](https://amzn.to/3RgXGIP) by Shunryu Suzuki
+- [*Religion and Nothingness, Volume 1*](https://amzn.to/4vQW2eQ) by Nishitani Keiji
+- [*Philosophers of Nothingness: An Essay on the Kyoto School*](https://amzn.to/4yFff6d) by James W. Heisig
