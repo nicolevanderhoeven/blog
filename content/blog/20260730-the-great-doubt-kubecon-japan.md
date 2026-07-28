@@ -1,6 +1,6 @@
 ---
 title: "The Great Doubt: What Building an AI Agent Taught Us About Trust (KubeCon Japan 2026)"
-date: 2026-07-30T10:00:00+09:00
+date: 2026-07-28T09:00:00+09:00
 draft: false
 tags: ["observability", "presentation", "AI", "grafana labs", "evals", "llm", "open telemetry", "kubernetes", "kubecon", "grafana", "english"]
 ---
