@@ -10,11 +10,11 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-30/07   **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)**: (Yokohama, Japan) _[The Great Doubt: What Building an AI Agent Taught Us About Trust](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1192171)_ (English).
-
 06-08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
 
 ## 2026
+
+30/07   **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)**: (Yokohama, Japan) _[The Great Doubt: What Building an AI Agent Taught Us About Trust](/blog/20260730-the-great-doubt-kubecon-japan/)_ (English).
 
 21/03   **[PKM Summit 2026](https://pkmsummit.com/)**: (Utrecht, the Netherlands) _[Do Androids Dream of Second Brains?](/blog/20260321-do-androids-dream-of-second-brains/)_ (English).
 
