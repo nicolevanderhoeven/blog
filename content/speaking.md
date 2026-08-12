@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-06-08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
+06-08/10   **[HUSTEF 2026](https://hustef.com/nicole_van_der_hoeven_2026/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
 
 ## 2026
 
