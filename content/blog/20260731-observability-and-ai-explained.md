@@ -1,6 +1,6 @@
 ---
 title: "Observability and AI explained"
-date: 2026-08-13T09:00:00+01:00
+date: 2026-07-31T09:00:00+01:00
 draft: false
 tags: ["ai", "observability", "english", "video", "grafana labs", "grafana assistant", "ai observability"]
 ---
