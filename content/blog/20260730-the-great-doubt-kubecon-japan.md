@@ -17,9 +17,9 @@ This week I spoke at [KubeCon + CloudNativeCon Japan 2026](https://events.linuxf
 
 The talk walks through the layers of doubt we worked through while building [Grafana Assistant](https://notes.nicolevanderhoeven.com/Grafana+Assistant): doubting the agent itself, then doubting our tests, then the LLM-as-judge, then our own scores — and finally doubting whether the doubt was even justified. Each layer needed a different tool, from a golden dataset run in a fully synthetic observability environment, through online evals on live traffic, to per-conversation OpenTelemetry traces that link every eval score back to the exact LLM and tool calls that produced it.
 
-You can find the slides at [nicole.to/doubtslides](https://nicole.to/doubtslides).
+You can find the slides at [nicole.to/doubtslides](https://nicole.to/doubtslides), and you can watch the full talk below:
 
-I'll update this post with the recording once KubeCon publishes it.
+{{< youtube uW9Hlp3fT14 >}}
 
 ## Resources
 
