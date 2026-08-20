@@ -1,5 +1,5 @@
 ---
-title: "When to use Grafana Assistant vs MCP vs GCX: The Easy Hand (MCP)"
+title: "When to use Grafana Assistant vs MCP vs GCX: Grafana MCP"
 date: 2026-08-19T09:00:00+01:00
 draft: false
 tags: ["grafana", "english", "video", "grafana labs", "grafana mcp", "mcp", "ai", "short"]

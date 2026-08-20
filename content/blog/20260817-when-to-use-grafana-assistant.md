@@ -1,5 +1,5 @@
 ---
-title: "When to use Grafana Assistant vs MCP vs GCX: The Brain"
+title: "When to use Grafana Assistant vs MCP vs GCX: Grafana Assistant"
 date: 2026-08-17T09:00:00+01:00
 draft: false
 tags: ["grafana", "english", "video", "grafana labs", "grafana assistant", "ai", "short"]
