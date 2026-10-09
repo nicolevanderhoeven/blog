@@ -24,7 +24,7 @@ The Q&A was genuinely great and ranged well beyond the slides:
 - **Defining expected results for non-deterministic systems**, multi-turn evals (I give the simulated user a *personality* — adversarial, cooperative, beginner — rather than a script), and the broader shift from imperative to declarative: we no longer instruct step by step, we declare the end state we want, the way we do with Kubernetes.
 - **Convincing colleagues not to fear AI.** I don't, really. AI is here to stay; the question isn't whether you approve of it, it's whether you want to stay in this industry and help make it safe and trustworthy — or sit on the sidelines.
 
-I also recommended the book [*Slow AI*](https://nicole.to/asimov), which lands where I do: not an AI apologist, not a boycott, but a clear-eyed list of what AI is and isn't good for — and the reminder to keep checking whether a given use of AI is making you *more* capable or less.
+I also recommended the book [*Slow AI*](https://link.amazon/B0e4SIur8), which lands where I do: not an AI apologist, not a boycott, but a clear-eyed list of what AI is and isn't good for — and the reminder to keep checking whether a given use of AI is making you *more* capable or less.
 
 The demo app (the instrumented AI DM) lives on [GitHub](https://nicole.to/asimov), and I keep refining it with each iteration of this talk.
 
@@ -32,5 +32,7 @@ I'll update this post with the recording once HUSTEF publishes it.
 
 ## Resources
 
+- [Slides](https://nicole.to/hustef)
 - [Demo app on GitHub](https://nicole.to/asimov)
+- [*Slow AI* (book)](https://link.amazon/B0e4SIur8)
 - Previous versions of this talk: [KubeCon EU 2025](/blog/20250402-asimovs-zeroth-law-of-robotics/) · [Dutch Cloud Native Day 2025](/blog/20250703-asimovs-zeroth-law-dutch-cloud-native-day/) · [NewCrafts 2025](/blog/20251106-asimovs-zeroth-law-newcrafts/) · [ExpoQA Madrid 2026](/blog/20260526-asimovs-zeroth-law-expoqa-madrid/)
