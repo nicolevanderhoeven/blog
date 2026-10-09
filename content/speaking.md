@@ -10,6 +10,8 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+07/12   **[Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)**: (Tokyo, Japan) _Talk with [Sonal Gaud](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)_ (English).
+
 ## 2026
 
 08/10   **[HUSTEF 2026](https://hustef.com/)**: (Budapest, Hungary) _[Roundtable: How We Really Use AI in Testing](/blog/20261008-ai-testing-roundtable-hustef/)_ (panel) (English).
