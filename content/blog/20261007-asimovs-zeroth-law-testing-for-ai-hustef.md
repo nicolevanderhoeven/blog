@@ -7,7 +7,15 @@ tags: ["testing", "presentation", "AI", "grafana labs", "evals", "observability"
 
 This week I gave a keynote at [HUSTEF 2026](https://hustef.com/nicole_van_der_hoeven_2026/) in Budapest, Hungary. The talk is called *Asimov's Zeroth Law of Robotics: Testing for AI* — a testing-focused evolution of a talk I've been giving (and rewriting) for a while, previously as *Observability for AI* at [KubeCon EU 2025](/blog/20250402-asimovs-zeroth-law-of-robotics/) in London, [Dutch Cloud Native Day 2025](/blog/20250703-asimovs-zeroth-law-dutch-cloud-native-day/) in Utrecht, [NewCrafts](/blog/20251106-asimovs-zeroth-law-newcrafts/) in Paris, and [ExpoQA Madrid 2026](/blog/20260526-asimovs-zeroth-law-expoqa-madrid/). Here's the abstract:
 
-> A robot may not harm humans. A robot must obey humans. A robot must protect its own existence. These are Isaac Asimov's three Laws of Robotics, created to govern the ethical programming of artificial intelligences. From the Butlerian Jihad to Skynet to cylons, we've been immortalizing our collective nightmares about artificial intelligence for years. But there's an unmentioned law that comes as a prerequisite to all of that: a robot must be testable.
+> A robot may not harm humans. A robot must obey humans. A robot must protect its own existence. These are Isaac Asimov's three Laws of Robotics, created to govern the ethical programming of artificial intelligences. From the Butlerian Jihad to Skynet to cylons, we've been immortalizing our collective nightmares about artificial intelligence for years. But there's an unmentioned law that comes as a prerequisite to all of that: **a robot must be testable.**
+>
+> AI systems fail differently than traditional software. There's no single correct output to assert against. A response can be fluent and completely wrong. Models drift silently over time. And yet we're shipping AI into production — often without knowing what "passing" even looks like.
+>
+> Observability is what makes testing possible. When we can see inside our AI systems — trace the chain of reasoning, measure what changed, surface what failed — we can start to write evaluations, define what "good" looks like, and catch regressions we didn't know to look for.
+>
+> In this talk, I explore what it means to test AI in the real world, drawing on lessons from building and evaluating an AI assistant for a large-scale observability platform. I'll cover how evaluations work as the AI equivalent of a test suite, what to measure, how to catch hallucinations, and how to know when your model has regressed.
+>
+> You cannot test what you cannot see — and you cannot trust what you cannot test.
 
 The big shift in this version is right there in the Zeroth Law itself. In earlier iterations I argued that *a robot must be observable*. That's still true — observability is the only way to see the reasoning behind a system and find out what actually happened. But I've come to think that pure knowledge isn't the same as trust. You can know exactly what a system did and still not trust it. The only way to trust something is to put it through its paces: to know how it behaves in the situations you foresee, and even the ones you don't. So the Zeroth Law has become **a robot must be *testable*.**
 
