@@ -1,6 +1,6 @@
 ---
 title: "Asimov's Zeroth Law of Robotics: Testing for AI (HUSTEF 2026)"
-date: 2026-10-08T10:00:00+02:00
+date: 2026-10-07T10:00:00+02:00
 draft: false
 tags: ["testing", "presentation", "AI", "grafana labs", "evals", "observability", "trust", "k6", "english"]
 ---
