@@ -10,7 +10,7 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-07/12   **[Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)**: (Tokyo, Japan) _Talk with [Sonal Gaud](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)_ (English).
+07/12   **[Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)**: (Tokyo, Japan) _[The Observability Gambit: Can Traces Predict When an LLM Blunders?](https://sched.co/2YNOs)_ — joint talk with [Sonal Gaud](https://sched.co/2YNOs) (Accenture) (English).
 
 ## 2026
 
