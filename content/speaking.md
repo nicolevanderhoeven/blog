@@ -10,9 +10,9 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
-06-08/10   **[HUSTEF 2026](https://hustef.com/nicole_van_der_hoeven_2026/)**: (Budapest, Hungary) _Asimov's Zeroth Law of Robotics: Testing for AI_ (English).
-
 ## 2026
+
+08/10   **[HUSTEF 2026](https://hustef.com/nicole_van_der_hoeven_2026/)**: (Budapest, Hungary) _[Asimov's Zeroth Law of Robotics: Testing for AI](/blog/20261008-asimovs-zeroth-law-testing-for-ai-hustef/)_ (English).
 
 30/07   **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)**: (Yokohama, Japan) _[The Great Doubt: What Building an AI Agent Taught Us About Trust](/blog/20260730-the-great-doubt-kubecon-japan/)_ (English).
 
