@@ -13,7 +13,9 @@ This week I gave the opening keynote at [ExpoQA Madrid 2026](https://expoqa.eu/e
 
 This was a keynote slot at a testing-focused audience, which gave me the chance to lean more into the *evals vs. observability* framing — what evals can and can't tell you about an AI system in production, and how distributed tracing fills the gap that benchmarks leave behind. The demo app (a Flask-based "play.py" instrumented with OpenTelemetry, flowing into Tempo for traces, Prometheus for metrics, and Loki for logs) is still on [GitHub](https://nicole.to/asimov), and I've been refining it with each iteration.
 
-I'll update this post with the recording once ExpoQA publishes it.
+Here's the recording of the talk:
+
+{{< youtube 06Uus-llIBg >}}
 
 ## Resources
 
