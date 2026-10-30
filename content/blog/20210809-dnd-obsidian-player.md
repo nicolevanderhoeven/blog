@@ -123,7 +123,7 @@ Frequently, something comes up in a game that I'm *sure* we've heard of before, 
 
 Here are the mentions in my note for the word "Netheril":
 
-![Linked mentioned for the word Netheril](/assets/Netheril-mentions.png)
+![Linked mentioned for the word Netheril](/assets/New%20Folder%20With%20Items/Netheril-mentions.png)
 
 Unlinked mentions show up too, in case the word came up somewhere and I didn't think to specifically create a page on it.
 
