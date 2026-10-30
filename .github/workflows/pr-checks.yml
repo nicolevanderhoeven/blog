@@ -24,6 +24,9 @@ jobs:
           submodules: false
           fetch-depth: 0
 
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
       - name: Check image sizes
         run: scripts/check-image-sizes.sh "origin/${{ github.base_ref }}"
 
