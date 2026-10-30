@@ -1,0 +1,59 @@
+{{- $site := .Site -}}
+{{- /* Page title: "Page | Site", or just the site name on the home page. */ -}}
+{{- $title := $site.Title -}}
+{{- if not .IsHome }}{{ $title = printf "%s | %s" .Title $site.Title }}{{ end -}}
+{{- /* Description: front matter description, else the summary, else the site bio. */ -}}
+{{- $description := .Description -}}
+{{- if and (not $description) .IsPage -}}
+  {{- $description = .Summary | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+{{- end -}}
+{{- if not $description }}{{ $description = $site.Params.description }}{{ end -}}
+{{- /* Share image: front matter images, else the project card image, else the site default. */ -}}
+{{- $image := "" -}}
+{{- $ownImage := false -}}
+{{- with .Params.images }}{{ $image = index . 0 }}{{ $ownImage = true }}
+{{- else with .Params.image }}{{ $image = . }}{{ $ownImage = true }}
+{{- else with $site.Params.images }}{{ $image = index . 0 }}{{ end -}}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ $title }}</title>
+  {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  {{ if not (or (eq .Kind "404") (strings.Contains .RawContent `rel="canonical"`)) }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ $site.Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ $site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  {{ with $description }}<meta property="og:description" content="{{ . }}">{{ end }}
+  <meta property="og:locale" content="{{ $site.Language.Locale }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  {{ if .IsPage }}
+  {{ with .Section }}<meta property="article:section" content="{{ . }}">{{ end }}
+  {{ with .PublishDate }}<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+  {{ with .Lastmod }}<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+  {{ range .GetTerms "tags" }}<meta property="article:tag" content="{{ .LinkTitle }}">
+  {{ end }}
+  {{ end }}
+  {{ with $image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  <meta name="twitter:card" content="{{ if $ownImage }}summary_large_image{{ else }}summary{{ end }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ $site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  {{ with $description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
+  {{ with $image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
+  {{ $colortheme := "white" }}
+  {{ with $site.Params.colortheme }}{{ $colortheme = . }}{{ end }}
+  <link rel="stylesheet" href="{{ $colortheme | printf "css/style-%s.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/site.css" | absURL }}">
+  <!-- Custom CSS -->
+  {{ range $site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
+
+  {{ partial "favicon.html" . }}
+  {{ if $site.Params.rss }}
+  {{ with .OutputFormats.Get "RSS" }}
+    {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+  {{ end }}
+  {{ end }}
+  <script async defer data-domain="nicolevanderhoeven.com" src="https://plausible.io/js/plausible.js"></script>
+
+</head>

@@ -1,0 +1,39 @@
+name: PR checks
+
+# Build-only check for pull requests: runs the same Hugo build as the deploy
+# workflow but never deploys and has no access to secrets. Require the "build"
+# check in the branch protection rules for master.
+
+on:
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-checks-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout source repo (no submodules)
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Setup Hugo (same version as the deploy workflow)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.169.0"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
