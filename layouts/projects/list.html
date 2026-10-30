@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="projects">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ul class="project-cards">
+    {{ range .Pages.ByWeight }}
+    {{ $project := . }}
+    <li class="project-card">
+      {{ with .Params.image }}
+      <a class="project-card-image" href="{{ $project.Permalink }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ . | relURL }}" alt="" loading="lazy"{{ with $project.Params.image_position }} style="object-position: {{ . }}"{{ end }}>
+      </a>
+      {{ end }}
+      <div class="project-card-body">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+        {{ with .Params.tags }}
+        <ul class="project-tags">
+          {{ range first 4 . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+        <ul class="project-links">
+          <li><a href="{{ .Permalink }}">Details</a></li>
+          {{ with .Params.live }}<li><a href="{{ . }}">{{ $project.Params.live_label | default "Live" }}</a></li>{{ end }}
+          {{ with .Params.repo }}<li><a href="{{ . }}">Code</a></li>{{ end }}
+        </ul>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ partial "projects-style.html" . }}
+{{ end }}

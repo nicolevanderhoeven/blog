@@ -31,25 +31,29 @@ url = "/work"
 weight = 4
 
 [[menu.main]]
-name = "Speaking"
-url = "/speaking"
+name = "Projects"
+url = "/projects"
 weight = 5
 
+[[menu.main]]
+name = "Speaking"
+url = "/speaking"
+weight = 6
 
 [[menu.main]]
 name = "Course"
 url = "https://courses.nicolevanderhoeven.com/o4e"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Book"
 url = "https://doingitinpublic.com"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 8
+weight = 9
 
 [markup]
   [markup.tableOfContents]

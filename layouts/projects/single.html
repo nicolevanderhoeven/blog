@@ -1,0 +1,37 @@
+{{ define "main" }}
+<article class="projects project">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.summary }}<p class="project-summary">{{ . }}</p>{{ end }}
+  <ul class="project-links">
+    {{ with .Params.live }}<li><a href="{{ . }}">{{ $.Params.live_label | default "Live" }}</a></li>{{ end }}
+    {{ with .Params.repo }}<li><a href="{{ . }}">Source code</a></li>{{ end }}
+    {{ with .Params.dashboard }}<li><a href="{{ . }}">Dashboard</a></li>{{ end }}
+  </ul>
+  {{ with .Params.image }}<img class="project-hero" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
+  <div class="project-body">
+    {{ .Content }}
+  </div>
+  <div class="project-meta">
+    {{ with .Params.tech_stack }}
+    <h2>Tech stack</h2>
+    <ul class="project-tags">
+      {{ range . }}<li>{{ . }}</li>{{ end }}
+    </ul>
+    {{ end }}
+    {{ with .Params.talks }}
+    <h2>Talks</h2>
+    <ul>
+      {{ range . }}<li><a href="{{ .url }}">{{ .title }}</a></li>{{ end }}
+    </ul>
+    {{ end }}
+    {{ with .Params.tags }}
+    <h2>Tags</h2>
+    <ul class="project-tags">
+      {{ range . }}<li>{{ . }}</li>{{ end }}
+    </ul>
+    {{ end }}
+    <p><a href="{{ "projects/" | relURL }}">&larr; All projects</a></p>
+  </div>
+</article>
+{{ partial "projects-style.html" . }}
+{{ end }}
