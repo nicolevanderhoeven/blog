@@ -8,4 +8,4 @@ Photos under `content/assets` are published as is, so keep them at most 1600 px 
 
     git config core.hooksPath scripts/hooks
 
-To resize files by hand, run `scripts/resize-images.sh FILE...`. The PR workflow fails when an added or changed image is larger than 1.5 MB.
+To resize files by hand, run `scripts/resize-images.sh FILE...`. The PR workflow fails when an added or changed JPEG or PNG is larger than 1.5 MB and wider than 1600 px, which is exactly what `resize-images.sh` can fix. Other oversized images (GIF, WebP, or JPEG/PNG already 1600 px wide or less) only produce a warning and need manual optimisation.
