@@ -22,6 +22,7 @@
         <ul class="project-links">
           <li><a href="{{ .Permalink }}">Details</a></li>
           {{ with .Params.live }}<li><a href="{{ . }}">{{ $project.Params.live_label | default "Live" }}</a></li>{{ end }}
+          {{ with .Params.dashboard }}<li><a href="{{ . }}">Dashboard</a></li>{{ end }}
           {{ with .Params.repo }}<li><a href="{{ . }}">Code</a></li>{{ end }}
         </ul>
       </div>
