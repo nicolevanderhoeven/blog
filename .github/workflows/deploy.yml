@@ -3,10 +3,7 @@ name: Deploy to GitHub Pages
 # Builds the Hugo site and pushes the generated HTML to
 # nicolevanderhoeven/nicolevanderhoeven.github.io, which GitHub Pages serves
 # at nicolevanderhoeven.com. Replaces the manual hugo + two-repo push ritual.
-#
-# See: openclaw-output/git-recurse-submodules-on-demand.md for context on
-# why this workflow does NOT bump the public/ submodule pointer back into
-# the source repo.
+# public/ is generated and gitignored; it is no longer a submodule.
 
 on:
   push:
@@ -24,7 +21,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout source repo (no submodules — we regenerate public/)
+      - name: Checkout source repo (public/ is regenerated)
         uses: actions/checkout@v4
         with:
           submodules: false
