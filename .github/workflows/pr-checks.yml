@@ -1,4 +1,4 @@
-name: PR build check
+name: PR checks
 
 # Build-only check for pull requests: runs the same Hugo build as the deploy
 # workflow but never deploys and has no access to secrets. Require the "build"
@@ -12,7 +12,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: pr-build-${{ github.event.pull_request.number }}
+  group: pr-checks-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 
 jobs:
