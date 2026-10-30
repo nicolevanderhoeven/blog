@@ -1,0 +1,70 @@
+# Allowlist: ignore everything by default, then explicitly unignore the files
+# this project intends to track. New top-level files and folders must be added
+# here on purpose.
+*
+
+# Repo and project metadata
+!/.gitignore
+!/.gitattributes
+!/.gitmodules
+!/.editorconfig
+!/.pre-commit-config.yaml
+!/README*
+!/CONTRIBUTING*
+!/LICENSE*
+!/AGENTS.md
+!/CLAUDE.md
+!/Makefile
+
+# Hugo site
+!/config.toml
+!/archetypes/
+!/archetypes/**
+!/content/
+!/content/**
+!/data/
+!/data/**
+!/layouts/
+!/layouts/**
+!/static/
+!/static/**
+!/assets/
+!/assets/**
+!/themes/
+!/themes/**
+
+# CI, hooks and tooling
+!/.github/
+!/.github/**
+!/.githooks/
+!/.githooks/**
+!/scripts/
+!/scripts/**
+
+# Obsidian vault settings that were already tracked
+!/.obsidian/
+!/.obsidian/**
+
+# k6 scripts at the repo root (pending a move into scripts/)
+!/nicolevdh*.js
+
+# Always excluded, even inside the folders unignored above
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*
+.aws/
+.gcloud/
+*.log
+*.jsonl
+.claude/
+/public/
+/resources/_gen/
+.hugo_build.lock

@@ -2,6 +2,7 @@ baseURL = "https://nicolevanderhoeven.com"
 locale = "en-us"
 title = "Nicole van der Hoeven"
 theme = "cactus"
+enableRobotsTXT = true
 copyright = "Nicole van der Hoeven" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
@@ -69,6 +70,8 @@ weight = 9
 
   # Home page settings
   description = "Hi, I'm Nicole van der Hoeven. I'm a Senior Developer Advocate at Grafana Labs. I've spent my career making software faster as a performance engineer, but I'm also a YouTuber. I write stuff, film and produce videos, speak at conferences, and otherwise just generally learn in public. This site is a home for everything I'm doing on the interwebs. I currently live between two places: Portugal and the Netherlands."
+  # Default share image (Open Graph / Twitter card) for pages that do not set their own `images`.
+  images = ["images/logo.png"]
   mainSection = "blog" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true

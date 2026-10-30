@@ -13,6 +13,11 @@ on:
     branches: [master]
   workflow_dispatch: # allow manual trigger from Actions tab
 
+# The deploy pushes with PAGES_DEPLOY_KEY, so the workflow token only needs to
+# read the source repo.
+permissions:
+  contents: read
+
 concurrency:
   group: pages-deploy
   cancel-in-progress: false # finish in-flight deploys; don't cancel them mid-push
