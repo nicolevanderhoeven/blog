@@ -19,7 +19,7 @@ draft: false
 ### Observability, Reliability, and Software Engineering
 
 - *(video)* [Grafana Office Hours](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujrrse-cdj20RRah9hyHdxBu), a weekly livestream about Grafana Labs projects.
-- *(demo project)* [Spice Runner](/spice-runner): A browser-based endless runner game built to demonstrate sustainable observability on Kubernetes, using Grafana Faro, Loki, Tempo, Prometheus, and KEDA. [Play it](https://nvdh.dev/spice) or [view the live dashboard](https://nicole.to/spicedashboard).
+- *(demo project)* [Spice Runner](/projects/spice-runner/): A browser-based endless runner game built to demonstrate sustainable observability on Kubernetes, using Grafana Faro, Loki, Tempo, Prometheus, and KEDA. [Play it](https://nvdh.dev/spice) or [view the live dashboard](https://nicole.to/spicedashboard).
 
 
 # Places I've worked
