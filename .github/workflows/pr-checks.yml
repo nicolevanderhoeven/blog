@@ -1,0 +1,37 @@
+name: PR checks
+
+# Builds the site and rejects oversized images on every pull request.
+# Complements the pre-commit hook (scripts/hooks/pre-commit), which resizes
+# photos locally but can be skipped.
+
+on:
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: Build and image size
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
+
+      - name: Check image sizes
+        run: scripts/check-image-sizes.sh "origin/${{ github.base_ref }}"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.169.0"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
