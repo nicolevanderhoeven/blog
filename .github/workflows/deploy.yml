@@ -33,7 +33,7 @@ jobs:
       - name: Setup Hugo (extended, pinned to a recent stable)
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.148.2"
+          hugo-version: "0.169.0"
           extended: true
 
       - name: Build site
