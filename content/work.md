@@ -18,13 +18,14 @@ draft: false
 
 ### Observability, Reliability, and Software Engineering
 
-- *(video)* [Grafana Office Hours](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujrrse-cdj20RRah9hyHdxBu), a weekly livestream about Grafana Labs projects.
+- *(video)* [Grafana Office Hours](https://www.youtube.com/playlist?list=PLDGkOdUX1Ujrrse-cdj20RRah9hyHdxBu), a livestream about Grafana Labs projects.
+- *(video)* [The Context Window](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqfYRx-5U4BMOEoufoXSK4V), a livestream from Grafana Labs.
 - *(demo project)* [Spice Runner](/projects/spice-runner/): A browser-based endless runner game built to demonstrate sustainable observability on Kubernetes, using Grafana Faro, Loki, Tempo, Prometheus, and KEDA. [Play it](https://nvdh.dev/spice) or [view the live dashboard](https://nicole.to/spicedashboard).
 
 
 # Places I've worked
 ## Grafana Labs (2020-Present)
-### Senior Developer Advocate (Performance Testing)
+### Senior Developer Advocate (AI)
 _(remote)_
 
 I joined [k6.io](https://k6.io) in November 2020 as a Developer Advocate, specializing in Performance Testing. k6 is a [free and open source tool](https://github.com/loadimpact/k6) for load testing, with the goal of making the process as developer-friendly as possible. The company also has a related SaaS platform, [k6 Cloud](https://k6.io/cloud), which is an easy way to scale up load tests on the cloud.
