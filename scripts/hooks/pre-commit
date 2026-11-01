@@ -1,0 +1,30 @@
+#!/bin/bash
+# Resizes images staged under content/assets (added or modified) to at most
+# 1600 px wide before they are committed. See scripts/resize-images.sh.
+# Install once per clone: git config core.hooksPath scripts/hooks
+set -euo pipefail
+
+cd "$(git rev-parse --show-toplevel)"
+
+staged=()
+while IFS= read -r -d '' f; do
+  staged+=("$f")
+done < <(git diff --cached --name-only --diff-filter=AM -z -- 'content/assets/*.jpg' 'content/assets/*.jpeg' 'content/assets/*.png' 'content/assets/*.JPG' 'content/assets/*.JPEG' 'content/assets/*.PNG')
+
+[ "${#staged[@]}" -gt 0 ] || exit 0
+
+if ! command -v sips >/dev/null; then
+  echo "pre-commit: sips not found, skipping image resize (CI will reject oversized images)" >&2
+  exit 0
+fi
+
+# A file staged with only part of its changes would be overwritten by the
+# resized copy, so leave those alone.
+for f in "${staged[@]}"; do
+  if ! git diff --quiet -- "$f"; then
+    echo "pre-commit: $f has unstaged changes, skipping resize" >&2
+    continue
+  fi
+  scripts/resize-images.sh "$f"
+  git add -- "$f"
+done
