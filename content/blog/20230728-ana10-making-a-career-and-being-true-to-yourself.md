@@ -2,7 +2,7 @@
 title: "Making a career and being true to yourself with Lena Pejgan Nyström (Adobo & Avocados #10)"
 date: 2023-07-28T21:25:02+02:00
 draft: false
-tags: ['adobo & avocados', 'video', 'english', 'career', 'heuristics', 'diversity', 'speaking']
+tags: ['adobo and avocados', 'video', 'english', 'career', 'heuristics', 'diversity', 'speaking']
 ---
 My friend [Marie Cruz](https://testingwithmarie.com) and I speak to Lena Pejgan Nyström, the author and creator of [Would Heu-risk it?](https://pejgan.se/WHRI.htm) cards and book about various topics! 
 

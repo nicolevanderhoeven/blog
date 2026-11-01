@@ -2,14 +2,9 @@
 title: "Non-Lazy DMs use Obsidian for D&D"
 date: 2021-09-30T16:29:54+02:00
 draft: false
+images: ['/assets/non-lazy-dms.PNG']
 tags: ['text', 'english', 'obsidian', 'D&D', 'taking notes', 'zettelkasten']
 ---
-{{< rawhtml >}}
-<meta property="og:image" content="/assets/non-lazy-dms.PNG" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
-{{< /rawhtml >}}
-
 ![Graph view in Obsidian of my three D&D campaigns](/assets/non-lazy-dms.PNG)
 
 Last month, I wrote about how I use [Obsidian](https://obsidian.md) for [D&D as a player](https://nicolevanderhoeven.com/blog/20210809-dnd-obsidian-player/) in a 4e campaign (I play a half-elf hybrid wizard/cleric). This is about my second weekly game, in which I am the Dungeon Master for a 5e campaign. I'm a relatively new DM (I've got [39 games](https://notes.nicolevanderhoeven.com/Exandria/World) under my belt at the time this writing, and Obsidian is at the center of my workflow for improving my DMing skills, getting inspiration, preparing for a game, running the game, and making sure my players are having fun.
@@ -101,7 +96,7 @@ I definitely have overarching plans about the wider plot in the world at large, 
 
 There are many random tables in both official and unofficial D&D sourcebooks, but I only use those as starting points. For me, creating random tables that are tailored to my characters and to the things they care about is where it's at!
 
-I've experimented with [creating my own random generators](https://nicolevanderhoeven.com/dndgen/characters.html) for various things, as well as using existing ones like [Donjon](https://donjon.bin.sh/), but it's an Obsidian plugin, Jeremy Valentine's [Dice Roller](https://github.com/valentine195/obsidian-dice-roller), that I have settled on.
+I've experimented with creating my own random generators for various things, as well as using existing ones like [Donjon](https://donjon.bin.sh/), but it's an Obsidian plugin, Jeremy Valentine's [Dice Roller](https://github.com/valentine195/obsidian-dice-roller), that I have settled on.
 
 The name "Dice Roller" makes you think it's only for rolling dice, but it's much more than that. Its REAL value, in my opinion, is in how it lets me create tables for ANYTHING, and then randomly pull one row out of it. Here's how it works.
 
