@@ -21,7 +21,7 @@
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject={{ .Title | urlquery | replace "+" "%20" }}&body=Check out this article: {{ .Permalink | urlquery }}">
+    <a class="icon" href="mailto:?subject={{ .Title }}&body=Check out this article: {{ .Permalink }}">
       <i class="fas fa-envelope {{ $icon_class_name }}" aria-hidden="true"></i>
     </a>
   </li>
