@@ -16,22 +16,22 @@
     </a>
   </li>
   <li>
-    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url={{ .Permalink }}&is_video=false&description={{ .Title }}">
+    <a class="icon" href="https://pinterest.com/pin/create/bookmarklet/?url={{ .Permalink | urlquery }}&is_video=false&description={{ .Title | urlquery }}">
       <i class="fab fa-pinterest {{ $icon_class_name }}" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject={{ .Title }}&body=Check out this article: {{ .Permalink }}">
+    <a class="icon" href="mailto:?subject={{ .Title | urlquery | replace "+" "%20" }}&body=Check out this article: {{ .Permalink | urlquery }}">
       <i class="fas fa-envelope {{ $icon_class_name }}" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://www.reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}">
+    <a class="icon" href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}">
       <i class="fab fa-reddit {{ $icon_class_name }}" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u={{ .Permalink }}&t={{ .Title }}">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u={{ .Permalink | urlquery }}&t={{ .Title | urlquery }}">
       <i class="fab fa-hacker-news {{ $icon_class_name }}" aria-hidden="true"></i>
     </a>
   </li>
