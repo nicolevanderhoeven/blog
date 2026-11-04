@@ -29,6 +29,6 @@ In the talk, I discuss:
 
 Here's the video of my full talk:
 
-{{< youtube vjUAYeguJWk >}}
+{{< youtube qld0kgRjFfw >}}
 
 Download the presentation [in PDF format](/assets/20190403-01.pdf).
