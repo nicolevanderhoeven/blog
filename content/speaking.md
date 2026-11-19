@@ -10,7 +10,11 @@ Below is a list of places I've spoken at, including conferences, events, and pod
 
 ## Upcoming
 
+27/11   **[Cursor Meetup Corrientes](https://luma.com/spacexai-wp9v)**: (Corrientes, Argentina, virtual) _El caso Defiant Jazz: un murder mystery para detectives con IA_ (Spanish).
+
 07/12   **[Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/)**: (Tokyo, Japan) _[The Observability Gambit: Can Traces Predict When an LLM Blunders?](https://sched.co/2YNOs)_ — joint talk with [Sonal Gaud](https://sched.co/2YNOs) (Accenture) (English).
+
+07/12   **Grafana & Friends Tokyo**: (Tokyo, Japan) _Debugging a Murder: Live Observability with Grafana Assistant_ (English).
 
 ## 2026
 
