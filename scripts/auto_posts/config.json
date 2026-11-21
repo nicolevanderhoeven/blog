@@ -29,10 +29,10 @@
       "tags": ["context horizon"]
     },
     {
-      "label": "Medium",
-      "url": "https://medium.com/feed/@n_vanderhoeven",
-      "filter_author": false,
-      "tags": []
+      "label": "Grafana Labs Unprompted",
+      "url": "https://medium.com/feed/grafana-labs",
+      "filter_author": true,
+      "tags": ["grafana labs"]
     }
   ],
   "shows": [

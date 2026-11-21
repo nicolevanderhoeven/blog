@@ -129,6 +129,18 @@ class Feeds(unittest.TestCase):
         everyone = ap.parse_blog_feed(RSS_FEED, dict(feed, filter_author=False), NAMES, NOW)
         self.assertEqual(len(everyone), 2)
 
+    def test_configured_feeds_filter_by_author_where_the_feed_has_many_authors(self):
+        medium = ('<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>'
+                  '<item><title>Hers</title><link>https://medium.com/grafana-labs/hers-1?source=rss</link><pubDate>Fri, 13 Nov 2026 15:52:27 GMT</pubDate><dc:creator>Nicole van der Hoeven</dc:creator></item>'
+                  '<item><title>Not hers</title><link>https://medium.com/grafana-labs/other-2</link><pubDate>Fri, 13 Nov 2026 15:52:27 GMT</pubDate><dc:creator>Marie Cruz</dc:creator></item>'
+                  '</channel></rss>')
+        feeds = {f["label"]: f for f in CONFIG["blog_feeds"]}
+        unprompted = feeds["Grafana Labs Unprompted"]
+        self.assertEqual(unprompted["url"], "https://medium.com/feed/grafana-labs")
+        self.assertTrue(unprompted["filter_author"])
+        self.assertNotIn("Medium", feeds)
+        self.assertEqual([i.title for i in ap.parse_blog_feed(medium, unprompted, NAMES, NOW)], ["Hers"])
+
     def test_atom(self):
         items = ap.parse_blog_feed(ATOM_FEED, {"label": "A", "filter_author": True}, NAMES, NOW)
         self.assertEqual(items[0].url, "https://example.org/a")
