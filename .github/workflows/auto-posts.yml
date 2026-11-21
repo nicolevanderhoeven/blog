@@ -1,0 +1,83 @@
+name: Auto posts
+
+# Looks for new videos and blog posts by Nicole and opens ONE pull request with
+# the generated posts. Never merges and never pushes to master.
+# Details: README.md, "Automatic posts".
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, 06:17 UTC
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Earliest publish date, YYYY-MM-DD (default: date of the newest video post)"
+        required: false
+        type: string
+
+permissions:
+  contents: write # push the auto/new-posts branch
+  pull-requests: write # open or update the pull request
+
+concurrency:
+  group: auto-posts
+  cancel-in-progress: false
+
+jobs:
+  find-new-posts:
+    name: Find new posts and open a PR
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          ref: master
+          submodules: false
+          persist-credentials: false
+
+      - name: Checkout grafana/developer-advocacy transcripts
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          repository: grafana/developer-advocacy
+          path: _developer-advocacy # ignored by .gitignore, so never part of the PR
+          sparse-checkout: transcripts
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s scripts/auto_posts/tests -v
+
+      - name: Generate posts
+        id: generate
+        env:
+          SINCE: ${{ inputs.since }}
+        run: |
+          args=(--dev-advocacy-dir _developer-advocacy/transcripts --output-dir "$RUNNER_TEMP/auto-posts")
+          if [ -n "$SINCE" ]; then args+=(--since "$SINCE"); fi
+          python3 scripts/auto_posts/auto_posts.py "${args[@]}"
+          count=$(cat "$RUNNER_TEMP/auto-posts/count.txt")
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" != "0" ]; then
+            echo "title=$(cat "$RUNNER_TEMP/auto-posts/pr-title.txt")" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open or update the pull request
+        if: steps.generate.outputs.count != '0'
+        uses: peter-evans/create-pull-request@3ffccacd46053766916f087ce41d627c0b8cf2d1 # v8.1.3
+        with:
+          # GITHUB_TOKEN does not trigger the "PR checks" workflow on the PR it opens.
+          # Add a repository secret AUTO_POSTS_TOKEN (a fine-grained token with
+          # contents and pull-requests write) if you want checks to run automatically.
+          token: ${{ secrets.AUTO_POSTS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: master
+          branch: auto/new-posts
+          delete-branch: true
+          add-paths: |
+            content/blog/*.md
+            layouts/index.html
+            themes/cactus/layouts/index.html
+          commit-message: ${{ steps.generate.outputs.title }}
+          title: ${{ steps.generate.outputs.title }}
+          body-path: ${{ runner.temp }}/auto-posts/pr-body.md
+          draft: false

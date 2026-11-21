@@ -64,3 +64,6 @@ credentials*
 /public/
 /resources/_gen/
 .hugo_build.lock
+__pycache__/
+*.pyc
+/_developer-advocacy/

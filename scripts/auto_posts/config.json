@@ -1,0 +1,50 @@
+{
+  "own_channel": {
+    "id": "UCrmQZ9HHnJ2qpd6udc8iYYw",
+    "label": "Nicole's YouTube channel",
+    "tags": []
+  },
+  "developer_advocacy": {
+    "label": "Grafana YouTube channel",
+    "tags": ["grafana labs"]
+  },
+  "name_patterns": [
+    "nicole\\s+van[\\s-]*(?:der?[\\s-]*)?h\\w+",
+    "nicole\\s+vdh",
+    "nicolevdh",
+    "nicolevanderhoeven",
+    "nicole\\s+(?:from|at|of)\\s+(?:grafana|\\.\\.\\.|\u2026)"
+  ],
+  "blog_feeds": [
+    {
+      "label": "Grafana Labs blog",
+      "url": "https://grafana.com/blog/index.xml",
+      "filter_author": true,
+      "tags": ["grafana labs"]
+    },
+    {
+      "label": "Context Horizon",
+      "url": "https://contexthorizon.substack.com/feed",
+      "filter_author": true,
+      "tags": ["context horizon"]
+    },
+    {
+      "label": "Medium",
+      "url": "https://medium.com/feed/@n_vanderhoeven",
+      "filter_author": false,
+      "tags": []
+    }
+  ],
+  "shows": [
+    {"pattern": "the context window", "tags": ["livestream", "the context window"]},
+    {"pattern": "otel community call|opentelemetry community call", "tags": ["livestream", "grafana otel community call"]},
+    {"pattern": "campfire", "tags": ["livestream", "grafana campfire"]},
+    {"pattern": "k6 community call", "tags": ["livestream", "k6 community call"]},
+    {"pattern": "office hours", "tags": ["livestream", "office hours"]},
+    {"pattern": "\\blivestream\\b|\\blive stream\\b", "tags": ["livestream"]},
+    {"pattern": "#shorts?\\b", "tags": ["short"]}
+  ],
+  "generic_tags": ["english", "video", "text", "short", "livestream", "talk", "presentation", "panel", "community", "meetup", "live", "context", "memory", "trust", "voice", "tutorial"],
+  "min_tag_uses": 2,
+  "max_topic_tags": 6
+}
